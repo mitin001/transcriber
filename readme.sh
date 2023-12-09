@@ -36,3 +36,8 @@ npm install pm2 -g
 cd ~/transcriber
 nvm use
 pm2 start index.js --max-memory-restart 300M
+
+# restart the server
+cd ~/transcriber
+nvm use
+pm2 restart index.js --max-memory-restart 300M
