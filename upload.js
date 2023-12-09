@@ -48,7 +48,7 @@ router.get("/jobs/:id", async (request, response) => {
       const {stdout} = std || {};
       const [transcriptFilename] = stdout.match(/transcripts\/.+\.csv/) || [];
       const transcriptUrl = `http://3.226.125.105:8003/${transcriptFilename}`;
-      response.type("txt").send(`${transcriptUrl}\n\nstdout`);
+      response.type("txt").send(`${transcriptUrl}\n\n${stdout}`);
     }).catch();
   } catch(error) {
     response.status(500).send(error.toString());
