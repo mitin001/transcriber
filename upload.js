@@ -13,7 +13,7 @@ async function executeCommand(cmd) {
 
 router.post("/", async (request, response) => {
   try {
-    const {files} = request || {};
+    const {files, body} = request || {};
     const {audio} = files || {};
     const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
     const relPath = `tmp/${md5}`;
@@ -27,6 +27,7 @@ router.post("/", async (request, response) => {
     executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({
+      body,
       name, size, encoding, truncated, mimetype, md5, jobId,
       jobUrl: `http://3.226.125.105:8003/upload/jobs/${jobId.trim()}`,
     });
