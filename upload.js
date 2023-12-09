@@ -27,7 +27,8 @@ router.post("/", async (request, response) => {
     executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({
-      name, size, encoding, truncated, mimetype, md5, jobId, jobUrl: `http://3.226.125.105:8003/upload/jobs/${jobId}`
+      name, size, encoding, truncated, mimetype, md5, jobId,
+      jobUrl: `http://3.226.125.105:8003/upload/jobs/${jobId.trim()}`,
     });
     const txt = `Upload info: ${uploadInfo}\n\n`;
     fs.writeFileSync(txtFilePath, txt);
