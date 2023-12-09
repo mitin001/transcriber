@@ -14,7 +14,7 @@ ln -s /usr/local/bin/ts /bin/ts
 
 ## transcriber (this repository)
 cd ~
-git clone git@github.com:mitin001/transcriber.git
+git clone https://github.com/mitin001/transcriber.git
 cd transcriber
 mkdir tmp
 mkdir public/transcripts
