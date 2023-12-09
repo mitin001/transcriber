@@ -19,21 +19,34 @@ router.post("/", async (request, response) => {
     const relPath = `tmp/${md5}`;
     await mv(relPath);
 
-    const uploadInfo = JSON.stringify({
-      name, size, encoding, truncated, mimetype, md5
-    });
     const txtPublicFilePath = `lookups/${md5}.txt`;
     const txtFilePath = `public/${txtPublicFilePath}`;
 
+    // -u means urgent: the task is given priority over other queued tasks
+    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} tiny 16 ${txtFilePath}`);
+    executeCommand(`ts -u ${jobId}`).then().catch();
+
+    const uploadInfo = JSON.stringify({
+      name, size, encoding, truncated, mimetype, md5, jobId
+    });
     const txt = `Upload info: ${uploadInfo}\n\n`;
     fs.writeFileSync(txtFilePath, txt);
 
-    // -u means urgent: the task is given priority over other queued tasks
-    const {stdout: jobIdLine} = await executeCommand(`ts sh docker.sh ${relPath} tiny 16 ${txtFilePath}`);
-    executeCommand(`ts -u ${jobIdLine}`).then().catch();
-
     response.redirect(txtPublicFilePath);
 
+  } catch(error) {
+    response.status(500).send(error.toString());
+  }
+});
+
+router.get("/jobs/:id", async (request, response) => {
+  try {
+    const {params} = request || {};
+    const {id} = params || {};
+    executeCommand(`cat $(ts -o ${id})`).then((std) => {
+      const {stdout} = std || {};
+      response.type("txt").send(stdout);
+    }).catch();
   } catch(error) {
     response.status(500).send(error.toString());
   }

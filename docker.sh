@@ -7,4 +7,4 @@ docker run --rm \
   --model /app/models/ggml-"$2".bin \
   --output-format csv \
   --audio-path /app/"$1" \
-  --output-folder /app/public/transcripts 2>&1 >> "$4"
+  --output-folder /app/public/transcripts
