@@ -14,6 +14,7 @@ async function executeCommand(cmd) {
 router.post("/", async (request, response) => {
   try {
     const {files, body} = request || {};
+    const {size: modelSize} = body || {};
     const {audio} = files || {};
     const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
     const relPath = `tmp/${md5}`;
@@ -23,11 +24,10 @@ router.post("/", async (request, response) => {
     const txtFilePath = `public/${txtPublicFilePath}`;
 
     // -u means urgent: the task is given priority over other queued tasks
-    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} tiny 16 ${txtFilePath}`);
+    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} ${modelSize} 16 ${txtFilePath}`);
     executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({
-      body,
       name, size, encoding, truncated, mimetype, md5, jobId,
       jobUrl: `http://3.226.125.105:8003/upload/jobs/${jobId.trim()}`,
     });
