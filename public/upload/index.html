@@ -1,0 +1,23 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="/bootstrap-icons.css">
+    <title>Transcriber</title>
+</head>
+<body>
+<div class="container jumbotron mt-5">
+    <h1>Transcriber</h1>
+    <form action="/upload" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="audio">
+                Upload an audio file to get its transcript.
+            </label>
+            <input type="file" class="form-control-file" id="audio" name="audio">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
+</body>
+</html>
