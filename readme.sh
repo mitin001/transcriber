@@ -17,6 +17,7 @@ cd ~
 git clone https://github.com/mitin001/transcriber.git
 cd transcriber
 mkdir tmp
+mkdir public/lookups
 mkdir public/transcripts
 mkdir models
 cd models
