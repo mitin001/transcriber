@@ -27,7 +27,7 @@ router.post("/", async (request, response) => {
     executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({
-      name, size, encoding, truncated, mimetype, md5, jobId
+      name, size, encoding, truncated, mimetype, md5, jobId, jobUrl: `http://3.226.125.105:8003/upload/jobs/${jobId}`
     });
     const txt = `Upload info: ${uploadInfo}\n\n`;
     fs.writeFileSync(txtFilePath, txt);
@@ -45,7 +45,9 @@ router.get("/jobs/:id", async (request, response) => {
     const {id} = params || {};
     executeCommand(`cat $(ts -o ${id})`).then((std) => {
       const {stdout} = std || {};
-      response.type("txt").send(stdout);
+      const [transcriptFilename] = stdout.match(/transcripts\/.+\.csv/) || [];
+      const transcriptUrl = `http://3.226.125.105:8003/${transcriptFilename}`;
+      response.type("txt").send(`${transcriptUrl}\n\nstdout`);
     }).catch();
   } catch(error) {
     response.status(500).send(error.toString());
