@@ -1,4 +1,5 @@
 const fs = require("fs");
+const ip = require("ip");
 const util = require("util");
 const express = require("express");
 
@@ -24,12 +25,12 @@ router.post("/", async (request, response) => {
     const txtFilePath = `public/${txtPublicFilePath}`;
 
     // -u means urgent: the task is given priority over other queued tasks
-    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} ${modelSize} 16 ${txtFilePath}`);
+    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} ${modelSize}`);
     executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({
       name, size, encoding, truncated, mimetype, md5, jobId,
-      jobUrl: `http://3.226.125.105:8003/upload/jobs/${jobId.trim()}`,
+      jobUrl: `http://${ip.address()}:8003/upload/jobs/${jobId.trim()}`,
     });
     const txt = `Upload info: ${uploadInfo}\n\n`;
     fs.writeFileSync(txtFilePath, txt);
@@ -48,7 +49,7 @@ router.get("/jobs/:id", async (request, response) => {
     executeCommand(`cat $(ts -o ${id})`).then((std) => {
       const {stdout} = std || {};
       const [transcriptFilename] = stdout.match(/transcripts\/.+\.csv/) || [];
-      const transcriptUrl = `http://3.226.125.105:8003/${transcriptFilename}`;
+      const transcriptUrl = `http://${ip.address()}:8003/${transcriptFilename}`;
       response.type("txt").send(`${transcriptUrl}\n\n${stdout}`);
     }).catch();
   } catch(error) {
