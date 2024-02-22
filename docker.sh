@@ -2,7 +2,7 @@ docker run --rm \
   -v $PWD/models:/app/models \
   -v $PWD/tmp:/app/tmp \
   -v $PWD/public:/app/public \
-  --cpus="$3" \
+  --cpus="$(nproc)" \
   ghcr.io/appleboy/go-whisper:latest \
   --model /app/models/ggml-"$2".bin \
   --output-format csv \
