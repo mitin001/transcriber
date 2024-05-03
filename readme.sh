@@ -27,6 +27,7 @@ wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-small.bin
 wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-medium.bin
 wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-medium.en.bin
 wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3.bin
+cd ..
 nvm install
 nvm use
 npm install
