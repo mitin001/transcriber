@@ -1,5 +1,4 @@
 const fs = require("fs");
-const ip = require("ip");
 const util = require("util");
 const express = require("express");
 
@@ -30,7 +29,7 @@ router.post("/", async (request, response) => {
 
     const uploadInfo = JSON.stringify({
       name, size, encoding, truncated, mimetype, md5, jobId,
-      jobUrl: `http://${ip.address()}:8003/upload/jobs/${jobId.trim()}`,
+      jobUrl: `http://${request.headers.host}/upload/jobs/${jobId.trim()}`,
     });
     const txt = `Upload info: ${uploadInfo}\n\n`;
     fs.writeFileSync(txtFilePath, txt);
@@ -49,7 +48,7 @@ router.get("/jobs/:id", async (request, response) => {
     executeCommand(`cat $(ts -o ${id})`).then((std) => {
       const {stdout} = std || {};
       const [transcriptFilename] = stdout.match(/transcripts\/.+\.csv/) || [];
-      const transcriptUrl = `http://${ip.address()}:8003/${transcriptFilename}`;
+      const transcriptUrl = `http://${request.headers.host}/${transcriptFilename}`;
       response.type("txt").send(`${transcriptUrl}\n\n${stdout}`);
     }).catch();
   } catch(error) {
