@@ -41,6 +41,18 @@ router.post("/", async (request, response) => {
   }
 });
 
+router.get("/jobs/latest", async (request, response) => {
+  try {
+    const {params} = request || {};
+    executeCommand(`ts | awk '{print $1}' | sort -rn | head -n 1`).then((std) => {
+      const {stdout} = std || {};
+      response.redirect(`/upload/jobs/${stdout}`);
+    }).catch();
+  } catch(error) {
+    response.status(500).send(error.toString());
+  }
+});
+
 router.get("/jobs/:id", async (request, response) => {
   try {
     const {params} = request || {};
@@ -50,18 +62,6 @@ router.get("/jobs/:id", async (request, response) => {
       const [transcriptFilename] = stdout.match(/transcripts\/.+\.csv/) || [];
       const transcriptUrl = `http://${request.headers.host}/${transcriptFilename}`;
       response.type("txt").send(`${transcriptUrl}\n\n${stdout}`);
-    }).catch();
-  } catch(error) {
-    response.status(500).send(error.toString());
-  }
-});
-
-router.get("/jobs/latest", async (request, response) => {
-  try {
-    const {params} = request || {};
-    executeCommand(`ts | awk '{print $1}' | sort -rn | head -n 1`).then((std) => {
-      const {stdout} = std || {};
-      response.redirect(`/upload/jobs/${stdout}`);
     }).catch();
   } catch(error) {
     response.status(500).send(error.toString());
