@@ -56,4 +56,16 @@ router.get("/jobs/:id", async (request, response) => {
   }
 });
 
+router.get("/jobs/latest", async (request, response) => {
+  try {
+    const {params} = request || {};
+    executeCommand(`ts | awk '{print $1}' | sort -rn | head -n 1`).then((std) => {
+      const {stdout} = std || {};
+      response.redirect(`/upload/jobs/${stdout}`);
+    }).catch();
+  } catch(error) {
+    response.status(500).send(error.toString());
+  }
+});
+
 module.exports = {router};
