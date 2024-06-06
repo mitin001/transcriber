@@ -33,6 +33,10 @@ nvm install
 nvm use
 npm install
 
+## slack
+
+echo https://hooks.slack.com/services/... > .slack
+
 ## pm2
 cd ~/transcriber
 nvm use

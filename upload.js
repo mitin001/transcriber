@@ -33,9 +33,10 @@ router.post("/", async (request, response) => {
 
     const txtPublicFilePath = `lookups/${md5}.txt`;
     const txtFilePath = `public/${txtPublicFilePath}`;
+    const transcriptUrl = `http://${request.headers.host}/transcripts/${md5}.csv`;
 
     // -u means urgent: the task is given priority over other queued tasks
-    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} ${modelSize} ${lang}`);
+    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} ${modelSize} ${lang} ${transcriptUrl}`);
     executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({

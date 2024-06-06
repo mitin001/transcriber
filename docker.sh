@@ -9,3 +9,4 @@ docker run --rm \
   --output-format csv \
   --audio-path /app/"$1" \
   --output-folder /app/public/transcripts
+curl -d '{"text":"'$4'"}' $(cat .slack)
