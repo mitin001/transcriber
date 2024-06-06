@@ -84,16 +84,16 @@ router.get("/ts", async (request, response) => {
 });
 
 router.get("/shutdown", async (request, response) => {
-  passCommand("shutdown && cat /run/systemd/shutdown/scheduled", response);
+  passCommand("shutdown; cat /run/systemd/shutdown/scheduled", response);
 });
 
 router.get("/shutdown/check", async (request, response) => {
   // https://askubuntu.com/a/1276705
-  passCommand("cat /run/systemd/shutdown/scheduled || echo $?", response);
+  passCommand("cat /run/systemd/shutdown/scheduled; echo $?", response);
 });
 
 router.get("/shutdown/cancel", async (request, response) => {
-  passCommand("shutdown -c || echo $?", response);
+  passCommand("shutdown -c; echo $?", response);
 });
 
 module.exports = {router};
