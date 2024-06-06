@@ -44,7 +44,7 @@ router.post("/", async (request, response) => {
 router.get("/jobs/latest", async (request, response) => {
   try {
     const {params} = request || {};
-    executeCommand(`ts | awk '{print $1}' | sort -rn | head -n 1`).then((std) => {
+    executeCommand(`ts | awk '$1 ~ /[0-9]/ {print $1}' | sort -rn | head -n 1`).then((std) => {
       const {stdout} = std || {};
       response.redirect(stdout.trim()); // /upload/jobs/latest => /upload/jobs/5
     }).catch();
