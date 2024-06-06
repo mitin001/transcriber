@@ -84,7 +84,12 @@ router.get("/ts", async (request, response) => {
 });
 
 router.get("/shutdown", async (request, response) => {
-  passCommand("shutdown", response);
+  passCommand("shutdown && cat /run/systemd/shutdown/scheduled", response);
+});
+
+router.get("/shutdown/check", async (request, response) => {
+  // https://askubuntu.com/a/1276705
+  passCommand("cat /run/systemd/shutdown/scheduled", response);
 });
 
 router.get("/shutdown/cancel", async (request, response) => {
