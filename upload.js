@@ -11,6 +11,17 @@ async function executeCommand(cmd) {
   });
 }
 
+async function passCommand(cmd) {
+  try {
+    executeCommand(cmd).then((std) => {
+      const {stdout} = std || {};
+      response.type("txt").send(stdout);
+    }).catch();
+  } catch(error) {
+    response.status(500).send(error.toString());
+  }
+}
+
 router.post("/", async (request, response) => {
   try {
     const {files, body} = request || {};
@@ -69,15 +80,15 @@ router.get("/jobs/:id", async (request, response) => {
 });
 
 router.get("/ts", async (request, response) => {
-  try {
-    const {params} = request || {};
-    executeCommand("ts").then((std) => {
-      const {stdout} = std || {};
-      response.type("txt").send(stdout);
-    }).catch();
-  } catch(error) {
-    response.status(500).send(error.toString());
-  }
+  passCommand("ts");
+});
+
+router.get("/shutdown", async (request, response) => {
+  passCommand("shutdown");
+});
+
+router.get("/shutdown/cancel", async (request, response) => {
+  passCommand("shutdown -c && echo $?");
 });
 
 module.exports = {router};
