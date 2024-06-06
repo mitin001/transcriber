@@ -11,7 +11,7 @@ async function executeCommand(cmd) {
   });
 }
 
-async function passCommand(cmd) {
+async function passCommand(cmd, response) {
   try {
     executeCommand(cmd).then((std) => {
       const {stdout} = std || {};
@@ -80,15 +80,15 @@ router.get("/jobs/:id", async (request, response) => {
 });
 
 router.get("/ts", async (request, response) => {
-  passCommand("ts");
+  passCommand("ts", response);
 });
 
 router.get("/shutdown", async (request, response) => {
-  passCommand("shutdown");
+  passCommand("shutdown", response);
 });
 
 router.get("/shutdown/cancel", async (request, response) => {
-  passCommand("shutdown -c && echo $?");
+  passCommand("shutdown -c && echo $?", response);
 });
 
 module.exports = {router};
