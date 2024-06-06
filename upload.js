@@ -46,7 +46,7 @@ router.get("/jobs/latest", async (request, response) => {
     const {params} = request || {};
     executeCommand(`ts | awk '{print $1}' | sort -rn | head -n 1`).then((std) => {
       const {stdout} = std || {};
-      response.redirect(`jobs/${stdout.trim()}`);
+      response.redirect(stdout.trim()); // /upload/jobs/latest => /upload/jobs/5
     }).catch();
   } catch(error) {
     response.status(500).send(error.toString());
