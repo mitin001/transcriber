@@ -68,4 +68,16 @@ router.get("/jobs/:id", async (request, response) => {
   }
 });
 
+router.get("/ts", async (request, response) => {
+  try {
+    const {params} = request || {};
+    executeCommand("ts").then((std) => {
+      const {stdout} = std || {};
+      response.type("txt").send(stdout);
+    }).catch();
+  } catch(error) {
+    response.status(500).send(error.toString());
+  }
+});
+
 module.exports = {router};
