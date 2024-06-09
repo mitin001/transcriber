@@ -14,3 +14,10 @@ aws s3 cp $PWD/public/transcripts/$1.csv \
   --acl public-read
 curl $(cat .slack)\
   -d '{"text":"https://s3.amazonaws.com/writecomments.com/transcripts/'$1'.csv"}'
+if ts | grep queued
+then
+  echo "Queue not empty."
+else
+  echo "Queue empty. Shutting down..."
+  shutdown
+fi
