@@ -34,8 +34,10 @@ nvm use
 npm install
 
 ## slack
-
 echo https://hooks.slack.com/services/... > .slack
+
+## aws
+apt install awscli
 
 ## pm2
 cd ~/transcriber

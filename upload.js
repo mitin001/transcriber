@@ -28,15 +28,13 @@ router.post("/", async (request, response) => {
     const {size: modelSize, lang} = body || {};
     const {audio} = files || {};
     const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
-    const relPath = `tmp/${md5}`;
-    await mv(relPath);
+    await mv(`tmp/${md5}`);
 
     const txtPublicFilePath = `lookups/${md5}.txt`;
     const txtFilePath = `public/${txtPublicFilePath}`;
-    const transcriptUrl = `http://${request.headers.host}/transcripts/${md5}.csv`;
 
     // -u means urgent: the task is given priority over other queued tasks
-    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${relPath} ${modelSize} ${lang} ${transcriptUrl}`);
+    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${md5} ${modelSize} ${lang}`);
     executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({
