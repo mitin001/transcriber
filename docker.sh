@@ -12,7 +12,7 @@ docker run --rm \
 aws s3 cp $PWD/public/transcripts/$1.csv \
   s3://writecomments.com/transcripts/$1.csv \
   --acl public-read
-curl $(cat .slack)\
+curl $(cat .slack) -w '\n' \
   -d '{"text":"https://s3.amazonaws.com/writecomments.com/transcripts/'$1'.csv"}'
 if ts | grep queued
 then
