@@ -9,7 +9,7 @@ docker run --rm \
   --output-format csv \
   --audio-path /app/tmp/"$1" \
   --output-folder /app/public/transcripts
-aws s3 cp /app/public/transcripts/$1.csv \
+aws s3 cp $PWD/public/transcripts/$1.csv \
   s3://writecomments.com/transcripts/$1.csv \
   --acl public-read
 curl $(cat .slack)\
