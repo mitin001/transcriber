@@ -1,3 +1,8 @@
+aws s3 cp $PWD/public/lookups/$1.txt \
+  s3://writecomments.com/transcripts/$1.txt \
+  --acl public-read
+curl $(cat .slack) -w '\n' -s \
+  -d '{"text":"https://s3.amazonaws.com/writecomments.com/transcripts/'$1'.txt"}'
 docker run --rm \
   -v $PWD/models:/app/models \
   -v $PWD/tmp:/app/tmp \
