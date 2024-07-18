@@ -15,3 +15,12 @@ Biden on the Defensive, Trump's Threats, and Congressional Stock Trading.
 Biden's Future, Paramount Skydance Merger, and Guest Brian Derrick.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a97c4a379009183487d9421fb3df82cd.csv)
+
+## Instagram 
+
+### Hear what your voice sounds like to others
+
+[Reel](
+https://www.instagram.com/reel/C6XAPqbPDa3)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a4a4083fee4586e6bae11adebf442eab.csv)
