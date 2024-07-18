@@ -24,3 +24,10 @@ Biden's Future, Paramount Skydance Merger, and Guest Brian Derrick.
 https://www.instagram.com/reel/C6XAPqbPDa3)
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a4a4083fee4586e6bae11adebf442eab.csv)
+
+### Utah birth control
+
+[Reel](
+https://www.instagram.com/reel/C4KN7adNaFx)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/413e2e00a33c1e7617bfc2da70a28794.csv)
