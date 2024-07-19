@@ -16,7 +16,15 @@ Biden's Future, Paramount Skydance Merger, and Guest Brian Derrick.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a97c4a379009183487d9421fb3df82cd.csv)
 
-## Instagram 
+## On with Kara Swisher
+
+### 15 Jul 2024
+
+Rachel Maddow.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/be2eaf2c87e2ff291d5d3b565ba248af.csv)
+
+## Instagram
 
 ### Hear what your voice sounds like to others
 
