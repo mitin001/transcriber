@@ -16,6 +16,12 @@ Biden's Future, Paramount Skydance Merger, and Guest Brian Derrick.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a97c4a379009183487d9421fb3df82cd.csv)
 
+### Pivot 520
+
+Apple Intelligence, The Texas Stock Exchange, and Guests Brody and Luke Mullins
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/43b57a3e007cea403f834d2a6e227a30.csv)
+
 ### Pivot 519
 
 AI Antitrust Investigations, Nvidia Stock Split, and OpenAI Whistleblowers.
