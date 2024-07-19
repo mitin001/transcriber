@@ -16,6 +16,12 @@ Biden's Future, Paramount Skydance Merger, and Guest Brian Derrick.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a97c4a379009183487d9421fb3df82cd.csv)
 
+### Pivot 519
+
+AI Antitrust Investigations, Nvidia Stock Split, and OpenAI Whistleblowers.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/f65b93490efbedc75359245c03050ea6.csv)
+
 ## On with Kara Swisher
 
 ### 15 Jul 2024
