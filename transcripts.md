@@ -18,7 +18,7 @@ Biden's Future, Paramount Skydance Merger, and Guest Brian Derrick.
 
 ### Pivot 520
 
-Apple Intelligence, The Texas Stock Exchange, and Guests Brody and Luke Mullins
+Apple Intelligence, The Texas Stock Exchange, and Guests Brody and Luke Mullins.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/43b57a3e007cea403f834d2a6e227a30.csv)
 
@@ -40,14 +40,19 @@ Rachel Maddow.
 
 ### Hear what your voice sounds like to others
 
-[Reel](
-https://www.instagram.com/reel/C6XAPqbPDa3)
+[Reel](https://www.instagram.com/reel/C6XAPqbPDa3)
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a4a4083fee4586e6bae11adebf442eab.csv)
 
 ### Utah birth control
 
-[Reel](
-https://www.instagram.com/reel/C4KN7adNaFx)
+[Reel](https://www.instagram.com/reel/C4KN7adNaFx)
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/413e2e00a33c1e7617bfc2da70a28794.csv)
+
+### Humans invented broccoli
+
+[Reel](https://www.instagram.com/reel/C8Zzlw-IRML/)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/5bed459aae1739f472697f1a5fa60393.csv)
+
