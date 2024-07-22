@@ -30,11 +30,23 @@ AI Antitrust Investigations, Nvidia Stock Split, and OpenAI Whistleblowers.
 
 ## On with Kara Swisher
 
+[Podcast feed](https://feeds.megaphone.fm/VMP1684715893)
+
 ### 15 Jul 2024
 
 Rachel Maddow.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/be2eaf2c87e2ff291d5d3b565ba248af.csv)
+
+## The Brett Johnson Show
+
+[Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
+
+### Brett Johnson 6
+
+Redux ID.me.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/0dad646198b15782f72d92d806ed52ae.csv)
 
 ## Instagram
 
