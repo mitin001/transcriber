@@ -42,6 +42,66 @@ Rachel Maddow.
 
 [Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
 
+### Brett Johnson 19
+
+The Evolution of the Darkweb.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/92f5002f1dc89929c17a4eea711c5700.csv)
+
+### Brett Johnson 18
+
+The 3 Necessities of Online Crime.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/2f1961c336ff477780f00c0fae36a94d.csv)
+
+### Brett Johnson 17
+
+Hiring Felons in Tech.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/192983fa562b1d9d900073f414ae50b0.csv)
+
+### Brett Johnson 16
+
+Advanced Replacement Fraud.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/2ee8faf5ecebb740d28601aa9a85d914.csv)
+
+### Brett Johnson 15
+
+Trust in Cybercrime Environments.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/ad51e2131dbfdc8b488faea7558fd551.csv)
+
+### Brett Johnson 14
+
+Follow up From The Lex Fridman Show #272.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/9a33eb246ae426b8ea2739402041fca0.csv)
+
+### Brett Johnson 13
+
+The Russians are Coming.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/f0871417e1c31480fa8c7ada31dedae1.csv)
+
+### Brett Johnson 12
+
+Victims.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/527eed2a7336e7eb7d747460ebb4ed36.csv)
+
+### Brett Johnson 11
+
+Raising Children.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/768a8863aa766286b52860c80e4aa573.csv)
+
+### Brett Johnson 10
+
+Protecting Yourself.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/93bce23c91f45450a5b20b9011a7ef4e.csv)
+
 ### Brett Johnson 6
 
 Redux ID.me.
