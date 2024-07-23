@@ -52,6 +52,12 @@ Under Pressure.
 
 [Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
 
+### Brett Johnson 20
+
+Zero Day Attacks Don't Matter.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/c0c8beec79cda0148d0269267dc7a52e.csv)
+
 ### Brett Johnson 19
 
 The Evolution of the Darkweb.
