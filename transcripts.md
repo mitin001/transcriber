@@ -108,6 +108,18 @@ Redux ID.me.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/0dad646198b15782f72d92d806ed52ae.csv)
 
+### Brett Johnson 5
+
+My Dad is a Good Man.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/f358822ca3ab84b4b4ea6ea55fbea66d.csv)
+
+### Brett Johnson 4
+
+Don't Trust ID.me.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/0609e3483a7dda3f34709fdb6c9ec563.csv)
+
 ## Instagram
 
 ### Hear what your voice sounds like to others
