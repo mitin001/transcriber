@@ -38,6 +38,16 @@ Rachel Maddow.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/be2eaf2c87e2ff291d5d3b565ba248af.csv)
 
+## Ultra
+
+[Podcast feed](https://podcastfeeds.nbcnews.com/_sWHkul5)
+
+### Ultra 2-6
+
+Under Pressure.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/80d33746119e99d138d03c938de26fe2.csv)
+
 ## The Brett Johnson Show
 
 [Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
