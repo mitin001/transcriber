@@ -52,6 +52,12 @@ Under Pressure.
 
 [Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
 
+### Brett Johnson 21
+
+Bots are Bad for You.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/644148fb32e88f031c3c549b093a9012.csv)
+
 ### Brett Johnson 20
 
 Zero Day Attacks Don't Matter.
