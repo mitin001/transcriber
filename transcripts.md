@@ -32,7 +32,7 @@ AI Antitrust Investigations, Nvidia Stock Split, and OpenAI Whistleblowers.
 
 [Podcast feed](https://feeds.megaphone.fm/VMP1684715893)
 
-### 15 Jul 2024
+### Kara Swisher 15 Jul 2024
 
 Rachel Maddow.
 
