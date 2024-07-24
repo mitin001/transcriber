@@ -22,11 +22,7 @@ async function passCommand(cmd, response) {
   }
 }
 
-router.post("/", async (request, response) => {
-  try {
-    const {files, body} = request || {};
-    const {size: modelSize, lang} = body || {};
-    const {audio} = files || {};
+async function transcribe(audio) {
     const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
     await mv(`tmp/${md5}`);
 
@@ -43,9 +39,15 @@ router.post("/", async (request, response) => {
     });
     const txt = `Upload info: ${uploadInfo}\n\n`;
     fs.writeFileSync(txtFilePath, txt);
+}
 
-    response.redirect(txtPublicFilePath);
-
+router.post("/", async (request, response) => {
+  try {
+    const {files, body} = request || {};
+    const {size: modelSize, lang} = body || {};
+    const {audio} = files || {};
+    audio.forEach(file => await transcribe(file));
+    response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());
   }
