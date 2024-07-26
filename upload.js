@@ -46,7 +46,7 @@ router.post("/", async (request, response) => {
     const {files, body} = request || {};
     const {size: modelSize, lang} = body || {};
     const {audio} = files || {};
-    audio.forEach(file => await transcribe(file));
+    await Promise.all(audio.map(file => transcribe(file)));
     response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());
