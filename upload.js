@@ -29,9 +29,7 @@ async function transcribe(audio, lang, modelSize, host) {
     const txtPublicFilePath = `lookups/${md5}.txt`;
     const txtFilePath = `public/${txtPublicFilePath}`;
 
-    // -u means urgent: the task is given priority over other queued tasks
     const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${md5} ${modelSize} ${lang}`);
-    executeCommand(`ts -u ${jobId}`).then().catch();
 
     const uploadInfo = JSON.stringify({
       name, size, encoding, truncated, mimetype, md5, jobId,
