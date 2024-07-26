@@ -22,7 +22,7 @@ async function passCommand(cmd, response) {
   }
 }
 
-async function transcribe(audio) {
+async function transcribe(audio, lang, modelSize) {
     const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
     await mv(`tmp/${md5}`);
 
@@ -46,7 +46,7 @@ router.post("/", async (request, response) => {
     const {files, body} = request || {};
     const {size: modelSize, lang} = body || {};
     const {audio} = files || {};
-    await Promise.all(audio.map(file => transcribe(file)));
+    await Promise.all(audio.map(file => transcribe(file, lang, modelSize)));
     response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());
