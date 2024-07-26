@@ -22,7 +22,7 @@ async function passCommand(cmd, response) {
   }
 }
 
-async function transcribe(audio, lang, modelSize) {
+async function transcribe(audio, lang, modelSize, host) {
     const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
     await mv(`tmp/${md5}`);
 
@@ -35,7 +35,7 @@ async function transcribe(audio, lang, modelSize) {
 
     const uploadInfo = JSON.stringify({
       name, size, encoding, truncated, mimetype, md5, jobId,
-      jobUrl: `http://${request.headers.host}/upload/jobs/${jobId.trim()}`,
+      jobUrl: `http://${host}/upload/jobs/${jobId.trim()}`,
     });
     const txt = `Upload info: ${uploadInfo}\n\n`;
     fs.writeFileSync(txtFilePath, txt);
@@ -46,7 +46,7 @@ router.post("/", async (request, response) => {
     const {files, body} = request || {};
     const {size: modelSize, lang} = body || {};
     const {audio} = files || {};
-    await Promise.all(audio.map(file => transcribe(file, lang, modelSize)));
+    await Promise.all(audio.map(file => transcribe(file, lang, modelSize, request.headers.host)));
     response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());
