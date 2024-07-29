@@ -142,6 +142,14 @@ Don't Trust ID.me.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/0609e3483a7dda3f34709fdb6c9ec563.csv)
 
+## YouTube
+
+### The Revolt of the Caring Classes
+
+[Video](https://www.youtube.com/watch?v=zAIVUx6G5dY)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/e994b10e1364666c961b87b2467d7e2b.csv)
+
 ## Instagram
 
 ### Hear what your voice sounds like to others
