@@ -6,9 +6,19 @@
 
 ### Planet Money 31 May 2024
 
-The FBI's fake cell phone company
+The FBI's fake cell phone company.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/8a911f7b3aa4cd48a74ba5a274bb80d6.csv)
+
+[NPR's transcript](https://www.npr.org/transcripts/1197959218)
+
+### Planet Money 29 May 2024
+
+You've been scammed.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/4db98e64fef4bb9a0a9ebe3e25e32fe2.csv)
+
+[NPR's transcript](https://www.npr.org/transcripts/1197959145)
 
 ## Pivot
 
