@@ -1,5 +1,25 @@
 # Transcripts
 
+## Planet Money
+
+[Podcast feed](https://feeds.npr.org/510289/podcast.xml)
+
+### Planet Money 31 May 2024
+
+The FBI's fake cell phone company.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/8a911f7b3aa4cd48a74ba5a274bb80d6.csv)
+
+[NPR's transcript](https://www.npr.org/transcripts/1197959218)
+
+### Planet Money 29 May 2024
+
+You've been scammed.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/4db98e64fef4bb9a0a9ebe3e25e32fe2.csv)
+
+[NPR's transcript](https://www.npr.org/transcripts/1197959145)
+
 ## Pivot
 
 [Podcast feed](https://feeds.megaphone.fm/pivot)
@@ -141,6 +161,14 @@ My Dad is a Good Man.
 Don't Trust ID.me.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/0609e3483a7dda3f34709fdb6c9ec563.csv)
+
+## YouTube
+
+### The Revolt of the Caring Classes
+
+[Video](https://www.youtube.com/watch?v=zAIVUx6G5dY)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/e994b10e1364666c961b87b2467d7e2b.csv)
 
 ## Instagram
 
