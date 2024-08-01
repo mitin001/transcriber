@@ -178,15 +178,20 @@ Don't Trust ID.me.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a4a4083fee4586e6bae11adebf442eab.csv)
 
-### Utah birth control
-
-[Reel](https://www.instagram.com/reel/C4KN7adNaFx)
-
-[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/413e2e00a33c1e7617bfc2da70a28794.csv)
-
 ### Humans invented broccoli
 
 [Reel](https://www.instagram.com/reel/C8Zzlw-IRML/)
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/5bed459aae1739f472697f1a5fa60393.csv)
 
+### Super tic-tac-toe
+
+[Reel](https://www.instagram.com/reel/C67tO_Sv--b/)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/621a1990dedba7ad8ce380dca16be022.csv)
+
+### Utah birth control
+
+[Reel](https://www.instagram.com/reel/C4KN7adNaFx)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/413e2e00a33c1e7617bfc2da70a28794.csv)
