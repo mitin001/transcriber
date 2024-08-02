@@ -48,6 +48,12 @@ AI Antitrust Investigations, Nvidia Stock Split, and OpenAI Whistleblowers.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/f65b93490efbedc75359245c03050ea6.csv)
 
+### Pivot 518
+
+Google Search Troubles, Trump Trial Aftermath, and Guest Elie Honig.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/018fac437df84a192d9b563fc43ca2c9.csv)
+
 ## On with Kara Swisher
 
 [Podcast feed](https://feeds.megaphone.fm/VMP1684715893)
