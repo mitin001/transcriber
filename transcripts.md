@@ -24,6 +24,12 @@ You've been scammed.
 
 [Podcast feed](https://feeds.megaphone.fm/pivot)
 
+### Pivot 536
+
+Tech Stocks Tumble, Kamala's Momentum, and Guest Dr. Anthony Fauci.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/990d06ce6d5537d5263fbdede14530dc.csv)
+
 ### Pivot 532
 
 Biden on the Defensive, Trump's Threats, and Congressional Stock Trading.
