@@ -24,6 +24,12 @@ You've been scammed.
 
 [Podcast feed](https://feeds.megaphone.fm/pivot)
 
+### Pivot 539
+
+Stock Market Sell-Off, Google Antitrust Verdict, and Guest Jonathan Kanter.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/1be6b5c728edb397dcf89fa05fda9189.csv)
+
 ### Pivot 536
 
 Tech Stocks Tumble, Kamala's Momentum, and Guest Dr. Anthony Fauci.
