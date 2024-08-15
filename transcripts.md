@@ -86,6 +86,14 @@ Under Pressure.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/80d33746119e99d138d03c938de26fe2.csv)
 
+## Club Random
+
+[Podcast feed](https://feeds.megaphone.fm/MCI6910680963)
+
+### Malcolm McDowell 21 Jul 2024
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/6d0cfca46f96790bf657e70110ed3fa0.csv)
+
 ## The Brett Johnson Show
 
 [Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
