@@ -116,6 +116,8 @@ Under Pressure.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/f36f387da5329994736c6878dcefb971.csv)
 
+[Jack's transcript](https://darknetdiaries.com/transcript/148/)
+
 ## The Brett Johnson Show
 
 [Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
