@@ -206,17 +206,83 @@ Don't Trust ID.me.
 
 ## Instagram
 
+### A stranger sent me money on Venmo
+
+[Reel](https://www.instagram.com/reel/C7DTXJ2r74O)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/ecd5b8cb81d2acbae7f2afeceabf2d0f.csv)
+
+### A huge win for working class people
+
+[Reel](https://www.instagram.com/reel/C8xHK4lJRpS)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/c3231f8e60d2e18d0cff4b6a71445e5c.csv)
+
+### Best exercise for men
+
+[Reel](https://www.instagram.com/reel/C6Btt71SRB0)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/b009f52b53fa482e235daed39fb425d1.csv)
+
+### Emotionally immature adults
+
+[Reel](https://www.instagram.com/reel/C9LIJlZOp9D)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/5f208a86f3784971e97b5cba7a095445.csv)
+
+### Emulsifiers
+
+[Reel](https://www.instagram.com/reel/C7fT4Vwuoec)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/dfeef820f3b168acb58f8e365573fbfe.csv)
+
+### Fastest way to tie a tie
+
+[Reel](https://www.instagram.com/reel/C6oxhsuPYN4)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/3262f92d79afdb5042c28ea2c962b7d1.csv)
+
 ### Hear what your voice sounds like to others
 
 [Reel](https://www.instagram.com/reel/C6XAPqbPDa3)
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/a4a4083fee4586e6bae11adebf442eab.csv)
 
+### How fast the website can steal all of your information
+
+[Reel](https://www.instagram.com/reel/C9DTe87OrTH)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/7d1bf446e4596f7417dcae419d147e17.csv)
+
 ### Humans invented broccoli
 
-[Reel](https://www.instagram.com/reel/C8Zzlw-IRML/)
+[Reel](https://www.instagram.com/reel/C8Zzlw-IRML)
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/5bed459aae1739f472697f1a5fa60393.csv)
+
+### Isolate yourself from others when under stress
+
+[Reel](https://www.instagram.com/reel/C9k0f_iyhSQ)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/eb1ee973fdbbc43941bf02f6b5aac5a1.csv)
+
+### Magenta is not a real color
+
+[Reel](https://www.instagram.com/reel/C702yZ2NEFj)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/8ab17383d4057b2d9bd46bb0345aaa23.csv)
+
+### One of the wildest facts from math and physics
+
+[Reel](https://www.instagram.com/reel/C5zClJSRZUM)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/407fa246c25de411bc5f2f2a563393cf.csv)
+
+### Phone vibrating without vibration
+
+[Reel](https://www.instagram.com/reel/C8nN7xmRrBh)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/81ce7da4468f412d364f9ff5c0ca4920.csv)
 
 ### Super tic-tac-toe
 
