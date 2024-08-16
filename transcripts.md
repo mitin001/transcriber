@@ -4,6 +4,14 @@
 
 [Podcast feed](https://feeds.npr.org/510289/podcast.xml)
 
+### Planet Money 02 Aug 2024
+
+In a class action.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/b4c70750b3b982c6ef0a7f9ceb696682.csv)
+
+[NPR's transcript](https://www.npr.org/transcripts/1197961271)
+
 ### Planet Money 31 May 2024
 
 The FBI's fake cell phone company.
