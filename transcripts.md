@@ -102,6 +102,14 @@ Under Pressure.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/6d0cfca46f96790bf657e70110ed3fa0.csv)
 
+## Darknet Diaries
+
+[Podcast feed](https://podcast.darknetdiaries.com)
+
+### Darknet Diaries 148
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/f36f387da5329994736c6878dcefb971.csv)
+
 ## The Brett Johnson Show
 
 [Podcast feed](https://anchor.fm/s/9a92cef4/podcast/rss)
