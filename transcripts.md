@@ -88,6 +88,12 @@ Rachel Maddow.
 
 [Podcast feed](https://podcastfeeds.nbcnews.com/_sWHkul5)
 
+### Ultra 2-7
+
+Mobilized.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/1f3999fe2e5b35bffa250fb15e15ddff.csv)
+
 ### Ultra 2-6
 
 Under Pressure.
