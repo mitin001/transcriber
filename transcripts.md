@@ -38,6 +38,12 @@ Stock Market Sell-Off, Google Antitrust Verdict, and Guest Jonathan Kanter.
 
 [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/1be6b5c728edb397dcf89fa05fda9189.csv)
 
+### Pivot 538
+
+Trump's Interview Disaster, The Kids Online Safety Act, and Governor Jared Polis.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/3b1948d20f03d646270900e472b565f1.csv)
+
 ### Pivot 536
 
 Tech Stocks Tumble, Kamala's Momentum, and Guest Dr. Anthony Fauci.
