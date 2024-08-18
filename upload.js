@@ -5,6 +5,19 @@ const express = require("express");
 const router = express.Router();
 const exec = util.promisify(require("child_process").exec);
 
+function insertColons(str) {
+	if (!str.length) {
+		return "";
+	}
+	if (str.length % 2) { // 1:23:45
+		return str.split("").reverse().join("").match(/.{1,2}/g).reverse().join(":");
+	} else { // 12:34
+    // https://stackoverflow.com/a/6259543
+    // https://stackoverflow.com/a/959004
+		return str.split("").join("").match(/.{1,2}/g).join(":");
+	}
+}
+
 async function executeCommand(cmd) {
   return await exec(cmd, {
     maxBuffer: 8 * 1024 * 1024
@@ -22,14 +35,22 @@ async function passCommand(cmd, response) {
   }
 }
 
-async function transcribe(audio, lang, modelSize, host) {
+async function transcribe(audio, lang, modelSize, host, time, interval) {
     const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
     await mv(`tmp/${md5}`);
+    let filename = md5;
+
+    if (time) {
+      const ss = `$(TZ=UTC gdate -d "2024-01-01T${time}Z - ${interval} seconds" +%H:%M:%S)`;
+      const to = `$(TZ=UTC gdate -d "2024-01-01T${time}Z + ${interval} seconds" +%H:%M:%S)`;
+      filename = `${md5}-${time}-${interval}`;
+      await executeCommand(`ffmpeg -ss ${ss} -to ${to} -i tmp/${md5} -c copy tmp/${filename}`);
+    }
 
     const txtPublicFilePath = `lookups/${md5}.txt`;
     const txtFilePath = `public/${txtPublicFilePath}`;
 
-    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${md5} ${modelSize} ${lang}`);
+    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang}`);
 
     const uploadInfo = JSON.stringify({
       name, size, encoding, truncated, mimetype, md5, jobId,
@@ -42,10 +63,14 @@ async function transcribe(audio, lang, modelSize, host) {
 router.post("/", async (request, response) => {
   try {
     const {files, body} = request || {};
-    const {size: modelSize, lang} = body || {};
+    const {size: modelSize, lang, time, interval} = body || {};
     const {audio} = files || {};
     const audioFiles = Array.isArray(audio) ? audio : [audio];
-    await Promise.all(audioFiles.map(file => transcribe(file, lang, modelSize, request.headers.host)));
+    await Promise.all(
+      audioFiles.map(
+        file => transcribe(file, lang, modelSize, request.headers.host, insertColons(time), interval)
+      )
+    );
     response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());
