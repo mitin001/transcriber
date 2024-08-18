@@ -32,6 +32,12 @@ You've been scammed.
 
 [Podcast feed](https://feeds.megaphone.fm/pivot)
 
+### Pivot 540
+
+Trump's AI Accusations, Cable TV Challenges, and Guest Anthony Scaramucci.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/1d01caf57f7727268bbd702b90872501.csv)
+
 ### Pivot 539
 
 Stock Market Sell-Off, Google Antitrust Verdict, and Guest Jonathan Kanter.
