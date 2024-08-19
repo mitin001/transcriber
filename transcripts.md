@@ -32,6 +32,12 @@ You've been scammed.
 
 [Podcast feed](https://feeds.megaphone.fm/pivot)
 
+### Pivot 541
+
+The Harris Campaign's Got Jokes, Tubi's Taking Over, and Mike Birbiglia's Our Co-Host.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/0e04259c56744a7b9d369eef58b52fb9.csv)
+
 ### Pivot 540
 
 Trump's AI Accusations, Cable TV Challenges, and Guest Anthony Scaramucci.
