@@ -41,8 +41,8 @@ async function transcribe(audio, lang, modelSize, host, time, interval) {
     let filename = md5;
 
     if (time) {
-      const ss = `$(TZ=UTC gdate -d "2024-01-01T${time}Z - ${interval} seconds" +%H:%M:%S)`;
-      const to = `$(TZ=UTC gdate -d "2024-01-01T${time}Z + ${interval} seconds" +%H:%M:%S)`;
+      const ss = `$(TZ=UTC date -d "2024-01-01T${time}Z - ${interval} seconds" +%H:%M:%S)`;
+      const to = `$(TZ=UTC date -d "2024-01-01T${time}Z + ${interval} seconds" +%H:%M:%S)`;
       filename = `${md5}-${time}-${interval}`;
       await executeCommand(`ffmpeg -ss ${ss} -to ${to} -i tmp/${md5} -c copy tmp/${filename}`);
     }
