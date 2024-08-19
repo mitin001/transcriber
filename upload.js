@@ -33,28 +33,32 @@ async function passCommand(cmd, response) {
 }
 
 async function transcribe(audio, lang, modelSize, host, time, interval) {
-    const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
-    await mv(`tmp/${md5}`);
-    let filename = md5;
+  const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
+  await mv(`tmp/${md5}`);
 
-    if (time) {
-      const ss = `$(TZ=UTC date -d "2024-01-01T${time}Z - ${interval} seconds" +%H:%M:%S)`;
-      const to = `$(TZ=UTC date -d "2024-01-01T${time}Z + ${interval} seconds" +%H:%M:%S)`;
-      filename = `${md5}-${time}-${interval}`;
-      await executeCommand(`ffmpeg -ss ${ss} -to ${to} -i tmp/${md5} -c copy -f mp3 tmp/${filename}`);
-    }
+  const txtPublicFilePath = `lookups/${md5}.txt`;
+  const txtFilePath = `public/${txtPublicFilePath}`;
+  
+  const jobId = await queue(md5, time, interval, modelSize, lang);
 
-    const txtPublicFilePath = `lookups/${md5}.txt`;
-    const txtFilePath = `public/${txtPublicFilePath}`;
+  const uploadInfo = JSON.stringify({
+    name, size, encoding, truncated, mimetype, md5, jobId,
+    jobUrl: `http://${host}/upload/jobs/${jobId}`,
+  });
+  const txt = `Upload info: ${uploadInfo}\n\n`;
+  fs.writeFileSync(txtFilePath, txt);
+}
 
-    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
-
-    const uploadInfo = JSON.stringify({
-      name, size, encoding, truncated, mimetype, md5, jobId,
-      jobUrl: `http://${host}/upload/jobs/${jobId.trim()}`,
-    });
-    const txt = `Upload info: ${uploadInfo}\n\n`;
-    fs.writeFileSync(txtFilePath, txt);
+async function queue(md5, time, interval, modelSize, lang) {
+  let filename = md5;
+  if (time) {
+    const ss = `$(TZ=UTC date -d "2024-01-01T${time}Z - ${interval} seconds" +%H:%M:%S)`;
+    const to = `$(TZ=UTC date -d "2024-01-01T${time}Z + ${interval} seconds" +%H:%M:%S)`;
+    filename = `${md5}-${time}-${interval}`;
+    await executeCommand(`ffmpeg -ss ${ss} -to ${to} -i tmp/${md5} -c copy -f mp3 tmp/${filename}`);
+  }
+  const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
+  return jobId.trim();
 }
 
 router.post("/", async (request, response) => {
@@ -96,6 +100,17 @@ router.get("/jobs/:id", async (request, response) => {
       const transcriptUrl = `http://${request.headers.host}/${transcriptFilename}`;
       response.type("txt").send(`${transcriptUrl}\n\n${stdout}`);
     }).catch();
+  } catch(error) {
+    response.status(500).send(error.toString());
+  }
+});
+
+router.get("/r/:md5/:interval/:time", async (request, response) => {
+  try {
+    const {params} = request || {};
+    const {md5, time, interval} = params || {};
+    await queue(md5, insertColons(time), interval, "medium.en", "auto");
+    response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());
   }
