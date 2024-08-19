@@ -47,7 +47,7 @@ async function transcribe(audio, lang, modelSize, host, time, interval) {
     const txtPublicFilePath = `lookups/${md5}.txt`;
     const txtFilePath = `public/${txtPublicFilePath}`;
 
-    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang}`);
+    const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
 
     const uploadInfo = JSON.stringify({
       name, size, encoding, truncated, mimetype, md5, jobId,
