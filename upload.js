@@ -9,13 +9,10 @@ function insertColons(str) {
 	if (!str.length) {
 		return "";
 	}
-	if (str.length % 2) { // 1:23:45
-		return str.split("").reverse().join("").match(/.{1,2}/g).reverse().join(":");
-	} else { // 12:34
-    // https://stackoverflow.com/a/6259543
-    // https://stackoverflow.com/a/959004
-		return str.split("").join("").match(/.{1,2}/g).join(":");
-	}
+	// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart
+	// https://stackoverflow.com/a/6259543
+	// https://stackoverflow.com/a/959004
+	return str.padStart(6, "0").split("").join("").match(/.{1,2}/g).join(":");
 }
 
 async function executeCommand(cmd) {
