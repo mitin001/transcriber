@@ -32,6 +32,12 @@ You've been scammed.
 
 [Podcast feed](https://feeds.megaphone.fm/pivot)
 
+### Pivot 544
+
+The Politics of Joy, Telegram CEO Arrested, and Guest Host Adam Grant.
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/9eb69caabd81624b22f6e493792713ef.csv)
+
 ### Pivot 541
 
 The Harris Campaign's Got Jokes, Tubi's Taking Over, and Mike Birbiglia's Our Co-Host.
