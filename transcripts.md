@@ -238,6 +238,12 @@ Don't Trust ID.me.
 
 ## YouTube
 
+### Sarah Paulson Breaks Down Her Most Iconic Characters | GQ
+
+[Video](https://www.youtube.com/watch?v=DIabKFjzajs)
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/3b9f459864136aa1defcd17d78621d14.csv)
+
 ### The Revolt of the Caring Classes
 
 [Video](https://www.youtube.com/watch?v=zAIVUx6G5dY)
