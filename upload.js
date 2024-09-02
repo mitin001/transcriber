@@ -55,7 +55,7 @@ async function queue(md5, time, interval, modelSize, lang) {
     const ss = `$(TZ=UTC date -d "2024-01-01T${time}Z - ${interval} seconds" +%H:%M:%S)`;
     const to = `$(TZ=UTC date -d "2024-01-01T${time}Z + ${interval} seconds" +%H:%M:%S)`;
     filename = `${md5}-${time}-${interval}`;
-    await executeCommand(`ffmpeg -ss ${ss} -to ${to} -i tmp/${md5} -c copy -f mp3 tmp/${filename}`);
+    await executeCommand(`ffmpeg -ss ${ss} -to ${to} -i tmp/${md5} -f mp3 tmp/${filename}`);
   }
   const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
   return jobId.trim();
