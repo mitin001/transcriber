@@ -39,6 +39,9 @@ echo https://hooks.slack.com/services/... > .slack
 ## aws
 apt install awscli
 
+## mp3splt
+apt install mp3splt
+
 ## pm2
 cd ~/transcriber
 nvm use
