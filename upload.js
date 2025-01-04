@@ -6,13 +6,13 @@ const router = express.Router();
 const exec = util.promisify(require("child_process").exec);
 
 function insertColons(str) {
-	if (!str.length) {
-		return "";
-	}
-	// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart
-	// https://stackoverflow.com/a/6259543
-	// https://stackoverflow.com/a/959004
-	return str.padStart(6, "0").split("").join("").match(/.{1,2}/g).join(":");
+  if (!str.length) {
+    return "";
+  }
+  // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart
+  // https://stackoverflow.com/a/6259543
+  // https://stackoverflow.com/a/959004
+  return str.padStart(6, "0").split("").join("").match(/.{1,2}/g).join(":");
 }
 
 async function executeCommand(cmd) {
@@ -52,10 +52,18 @@ async function transcribe(audio, lang, modelSize, host, time, interval) {
 async function queue(md5, time, interval, modelSize, lang) {
   let filename = md5;
   if (time) {
-    const ss = `$(TZ=UTC date -d "2024-01-01T${time}Z - ${interval} seconds" +%H:%M:%S)`;
-    const to = `$(TZ=UTC date -d "2024-01-01T${time}Z + ${interval} seconds" +%H:%M:%S)`;
+    const {stdout: ss} = await executeCommand(
+      `echo $(TZ=UTC date -d "0000-01-01T${time}Z - ${interval} seconds" +"echo \\$((%H*60+%M)).%S") | sh`
+    );
+    const {stdout: to} = await executeCommand(
+      `echo $(TZ=UTC date -d "0000-01-01T${time}Z + ${interval} seconds" +"echo \\$((%H*60+%M)).%S") | sh`
+    );
     filename = `${md5}-${time}-${interval}`;
-    await executeCommand(`ffmpeg -ss ${ss} -to ${to} -i tmp/${md5} -f mp3 tmp/${filename}`);
+    if (!fs.existsSync(`tmp/${md5}.mp3`)) {
+      await executeCommand(`ffmpeg -i tmp/${md5} -f mp3 tmp/${md5}.mp3`);
+    }
+    await executeCommand(`mp3splt tmp/${md5}.mp3 ${ss.trim()} ${to.trim()} -o ${filename}`);
+    await executeCommand(`mv tmp/${filename}.mp3 tmp/${filename}`);
   }
   const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
   return jobId.trim();
