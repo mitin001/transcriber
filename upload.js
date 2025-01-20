@@ -53,10 +53,10 @@ async function queue(md5, time, interval, modelSize, lang) {
   let filename = md5;
   if (time) {
     const {stdout: ss} = await executeCommand(
-      `echo $(TZ=UTC date -d "0000-01-01T${time}Z - ${interval} seconds" +"echo \\$((%-H*60+%-M)).%S") | sh`
+      `echo $(TZ=UTC $(which gdate date | grep -v "not found" | head -n 1) -d "0000-01-01T${time}Z - ${interval} seconds" +"echo \\$((%-H*60+%-M)).%S") | sh`
     );
     const {stdout: to} = await executeCommand(
-      `echo $(TZ=UTC date -d "0000-01-01T${time}Z + ${interval} seconds" +"echo \\$((%-H*60+%-M)).%S") | sh`
+      `echo $(TZ=UTC $(which gdate date | grep -v "not found" | head -n 1) -d "0000-01-01T${time}Z + ${interval} seconds" +"echo \\$((%-H*60+%-M)).%S") | sh`
     );
     filename = `${md5}-${time}-${interval}`;
     if (!fs.existsSync(`tmp/${md5}.mp3`)) {
