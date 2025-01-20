@@ -62,7 +62,7 @@ async function queue(md5, time, interval, modelSize, lang) {
     if (!fs.existsSync(`tmp/${md5}.mp3`)) {
       await executeCommand(`ffmpeg -i tmp/${md5} -f mp3 tmp/${md5}.mp3`);
     }
-    await executeCommand(`mp3splt tmp/${md5}.mp3 ${ss.trim()} ${to.trim()} -o ${filename}`);
+    await executeCommand(`mp3splt -o ${filename} tmp/${md5}.mp3 ${ss.trim()} ${to.trim()}`);
     await executeCommand(`mv tmp/${filename}.mp3 tmp/${filename}`);
   }
   const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
