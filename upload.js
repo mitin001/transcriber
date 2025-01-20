@@ -15,6 +15,11 @@ function insertColons(str) {
   return str.padStart(6, "0").split("").join("").match(/.{1,2}/g).join(":");
 }
 
+function getHMS(hhmmss) {
+  const [hh, mm, ss] = hhmmss.split(":");
+  return [hh, mm, ss].map(n => parseInt(n));
+}
+
 async function executeCommand(cmd) {
   return await exec(cmd, {
     maxBuffer: 8 * 1024 * 1024
@@ -52,12 +57,12 @@ async function transcribe(audio, lang, modelSize, host, time, interval) {
 async function queue(md5, time, interval, modelSize, lang) {
   let filename = md5;
   if (time) {
-    const {stdout: ss} = await executeCommand(
-      `echo $(TZ=UTC $(which gdate date | grep -v "not found" | head -n 1) -d "0000-01-01T${time}Z - ${interval} seconds" +"echo \\$((%-H*60+%-M)).%S") | sh`
-    );
-    const {stdout: to} = await executeCommand(
-      `echo $(TZ=UTC $(which gdate date | grep -v "not found" | head -n 1) -d "0000-01-01T${time}Z + ${interval} seconds" +"echo \\$((%-H*60+%-M)).%S") | sh`
-    );
+    const [h, m, s] = getHMS(time);
+    const seconds = 3600 * h + 60 * m + s;
+    const [a, b] = [seconds - interval, seconds + interval];
+    const [aM, bM] = [Math.floor(a / 60), Math.floor(b / 60)];
+    const [aS, bS] = [a - aM * 60, b - bM * 60];
+    const [ss, to] = [`${aM}.${aS}`, `${bM}.${bS}`];
     filename = `${md5}-${time}-${interval}`;
     if (!fs.existsSync(`tmp/${md5}.mp3`)) {
       await executeCommand(`ffmpeg -i tmp/${md5} -f mp3 tmp/${md5}.mp3`);
@@ -117,7 +122,7 @@ router.get("/r/:md5/:interval/:time", async (request, response) => {
   try {
     const {params} = request || {};
     const {md5, time, interval} = params || {};
-    await queue(md5, insertColons(time), interval, "medium.en", "auto");
+    await queue(md5, insertColons(time), parseInt(interval), "medium.en", "auto");
     response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());

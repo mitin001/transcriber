@@ -1,4 +1,4 @@
-brew install awscli nvm task-spooler mp3splt coreutils
+brew install awscli nvm task-spooler mp3splt
 mkdir tmp public/lookups public/transcripts models
 cd models
 wget https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-tiny.bin
