@@ -10,7 +10,7 @@ With a base2 encoding, we would be mapping each bit to a one or a zero. With a b
 
 <img src="https://github.com/user-attachments/assets/6a80ec02-3b4c-42e5-8ca3-18411982ca90" style="width: 450px">
 
-Even though base64 is much more efficient than any of the lower bases, there's much room for improvement.
+Even though base64 is much more efficient than any of the lower bases, there's much room for improvement still.
 
 > Base64 encoding causes an overhead of 33–37% relative to the size of the original binary data (33% by the encoding itself; up to 4% more by the inserted line breaks).
 
@@ -18,7 +18,7 @@ The original application layer protocols were specifically created to transmit A
 
 > One of its uses is the ability to embed image files or other binary assets inside textual assets such as HTML and CSS files.
 
-SMTP was particularly limited in its original implementation and necessitated the base64 workaround for email users to be able to send media files or even files with special characters as attachments.
+SMTP was particularly limited in its original implementation and necessitated the base64 workaround for email users to be able to send media files or files in other languages as attachments. (French, Russian, Chinese, and other languages all use *special characters* from the point of view of 7-bit ASCII.)
 
 > SMTP – in its original form – was designed to transport 7-bit ASCII characters only. Encoding an attachment as Base64 before sending, and then decoding when received, assures older SMTP servers will not interfere with the attachment.
 
