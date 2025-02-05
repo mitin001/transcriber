@@ -8,7 +8,11 @@ Fran Lebowitz had similarly noted that had human nature not been what it is, it 
 
 > It’s no secret there was no love lost between Kim Cattrall and the other ladies on *Sex and the City*, and yet they just found a way to work together again on a show about how men are always the problem.
 
-The woke mob is trying to change human nature with cancel culture. It's not going to work. 
+They will brave through a pandemic but not without kicking and screaming.
+
+> On airplanes now the in-flight entertainment is a fistfight.
+
+The woke is trying to do something about this. They're trying to use cancel culture to change human nature. However, Bill Maher predicts that it's not going to work.
 
 > If you’re part of today’s woke revolution, you need to study the part of revolutions where they spin out of control because the revolutionaries get so drunk on their own purifying elixir they imagine they can reinvent the very nature of human beings. Communists thought selfishness could be cast out of human nature. Russian revolutionaries spoke of “the new Soviet man,” who wasn’t motivated by self-interest but instead wanted to be part of a collective. No, it turns out he wanted to be on a yacht in a Gucci tracksuit holding a vodka and a prostitute, not standing in line all day for a potato.The problem with communism—and with some very recent ideologies here at home—is that its proponents think you can change reality by screaming at it, that you can bend human nature by holding your breath. But that’s the difference between “reality” and “your mommy.” Lincoln once said that you can “repeal all past history, [but] you still cannot repeal human nature.” But he’s canceled now, so fuck him.
 
