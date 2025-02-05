@@ -1,4 +1,4 @@
-# [2024-01-30](https://s3.amazonaws.com/writecomments.com/transcripts/9cfdf92182151fb303f38a1155d563ad.csv): unsafe skies as a consequence for allowing the oligarchs to take over the government
+# [2025-01-30](https://s3.amazonaws.com/writecomments.com/transcripts/9cfdf92182151fb303f38a1155d563ad.csv): unsafe skies as a consequence for allowing the oligarchs to take over the government
 
 Elon Musk's rocket crashed, prompting the head of the FAA to ground the SpaceX Starship program. As soon as Trump got into the White House, he fired this person for his audacity to stand up to Musk.
 
