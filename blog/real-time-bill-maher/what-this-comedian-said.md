@@ -8,6 +8,10 @@ Fran Lebowitz had similarly noted that had human nature not been what it is, it 
 
 > It’s no secret there was no love lost between Kim Cattrall and the other ladies on *Sex and the City*, and yet they just found a way to work together again on a show about how men are always the problem.
 
+They will march in protest against police brutality but not without turning stores into zoos.
+
+> There used to be shame in shoplifting—or at least some skill needed. Now criminals just brazenly walk out of Walgreens—again, in broad daylight—with a trash bag full of aisle three, while the security guard just watches. They have to keep even the most mundane products all caged up; CVS isn’t a store, it’s a zoo for teeth-whitening strips.
+
 They will brave through a pandemic but not without kicking and screaming.
 
 > On airplanes now the in-flight entertainment is a fistfight.
