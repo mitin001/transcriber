@@ -25,3 +25,7 @@ A UTF-8 file will never contain bytes 0xC0, 0xC1, 0xF5–0xFF. A byte in the ran
 > Many of the first UTF-8 decoders would decode these, ignoring incorrect bits. Carefully crafted invalid UTF-8 could make them either skip or create ASCII characters such as NUL, slash, or quotes, leading to security vulnerabilities. ... These are a security problem because they allow the same code point to be encoded in multiple ways. Overlong encodings (of ../ for example) have been used to bypass security validations in high-profile products including Microsoft's IIS web server and Apache's Tomcat servlet container. Overlong encodings should therefore be considered an error and never decoded.
 
 0xF4 cannot be followed by 0x90 or greater, because it works decode to a value greater than U+10FFFF, which is outside the UTF-8 range.
+
+> The code points U+0800–U+FFFF take 3 bytes in UTF-8 but only 2 in UTF-16. This led to the idea that text in Chinese and other languages would take more space in UTF-8. However, text is only larger if there are more of these code points than 1-byte ASCII code points, and this rarely happens in the real-world documents due to spaces, newlines, digits, punctuation, English words, and (depending on document format) markup.
+
+Chinese text will take less space when encoded in UTF-16, but only if there are more Chinese characters in it than ASCII characters (e.g., punctuation).
