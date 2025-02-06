@@ -1,6 +1,8 @@
 # The Server Side
 
-When a request for a web page comes in to the server, chances are that it's already cached in the server's main memory, so the user gets the page right away. If not, the request enters a queue of disk lookups, and once the lookup is complete, the file is put into cache and the user gets the response with the page data. The next user that requests this page will get it from cache. This way, the disk and the CPU are both utilized effectively.
+When a request for a web page comes in to the server, chances are that it's already cached in the server's main memory, so the user gets the page right away. If not, the request enters a queue of disk lookups, and once the lookup is complete, the file is put into cache and the user gets the response with the page data. The next user that requests this page will get it from cache. This way, the disk and the CPU are both utilized effectively by the server.
+
+![17388683692197612524721379372954](https://github.com/user-attachments/assets/dc9d59ba-d869-491d-8e53-19c230893e25)
 
 > While one or more processing modules are blocked waiting for a disk or network operation to complete (and thus consuming no CPU time), other modules can be actively working on other requests.
 
