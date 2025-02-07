@@ -7,3 +7,7 @@ You can be in love or you can be an addict. You can't be both.
 This is why it's so tragic that end-stage capitalism only allows those businesses to survive that exploit our addictions. In end-stage capitalism, we can't be in love.
 
 If you're addicted to porn, that takes away from the sex life you have with your partner.
+
+## See also
+
+[Pivot. 2025-01-07: the addiction economy](/blog/pivot/2025-01-07-addiction-economy.md)
