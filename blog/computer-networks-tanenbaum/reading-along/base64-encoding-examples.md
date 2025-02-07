@@ -23,3 +23,7 @@ If the last group is missing one sextet, pad the encoded string with =.
 [DEF] => REVG
 [GH] => R0g=
 ```
+
+## See also
+
+[Computer Networks. MIME](/blog/computer-networks-tanenbaum/mime.md)
