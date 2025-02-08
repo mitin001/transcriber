@@ -1,4 +1,4 @@
-# *[Ministry of Truth](https://books.google.com/books?id=mAH_EAAAQBAJ) *by Steve Benen
+# *[Ministry of Truth](https://books.google.com/books?id=mAH_EAAAQBAJ)* by Steve Benen
 
 If you can easily manipulate the public opinion, there is no need for accountability.
 
