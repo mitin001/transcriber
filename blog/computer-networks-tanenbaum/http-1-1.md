@@ -7,7 +7,7 @@ With HTTP/1.1, we can no longer assume that every HTTP request establishes a sep
 > Establishing a separate TCP connection to transport each single icon became a very expensive way to operate.
 This observation led to HTTP/1.1, which supports persistent connections.
 
-HTTP/1.1 is therefore much faster, and it must be. HTTP/1.0 is too slow to transport webpages with images.
+HTTP/1.1 is therefore much faster, and it must be. HTTP/1.0 is too slow to transport webpages with images without workarounds to allow for persistent connections.
 
 > By amortizing the TCP setup, startup, and release costs over multiple requests, the relative overhead due to TCP is reduced per request. It is also possible to pipeline requests, that is, send request 2 before the response to request 1 has arrived.
 
