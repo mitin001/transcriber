@@ -11,6 +11,8 @@ HTTP/1.1 is therefore much faster, and it must be. HTTP/1.0 is too slow to trans
 
 > By amortizing the TCP setup, startup, and release costs over multiple requests, the relative overhead due to TCP is reduced per request. It is also possible to pipeline requests, that is, send request 2 before the response to request 1 has arrived.
 
+![17391688348893109729492714508983](https://github.com/user-attachments/assets/eed2e6d6-dc9a-4ec3-aacb-4f4adfed38fd)
+
 Connection reuse not only cuts back on TCP connection setup overhead, but it also takes advantage of TCP congestion control. Additional HTTP requests sent over TCP to the same server arrive faster.
 
 > At the start of a connection, TCP uses the slow-start procedure to increase the throughput until it learns the behavior of the network path. The consequence of this warmup period is that multiple short TCP connections take disproportionately longer to transfer information than one longer TCP connection.
