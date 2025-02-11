@@ -20,6 +20,8 @@ In UTF-32 encoding, no arithmetic takes place, and the Unicode scalar value U is
 
 In UTF-16, if U < U+10000, it is simply split into two bytes. Otherwise, it is encoded into four bytes.
 
+![17392562164997769637188242527660](https://github.com/user-attachments/assets/4e315c62-2837-4e83-8d42-a2211eafe1b2)
+
 ![17392560987161705686551881884758](https://github.com/user-attachments/assets/66977c87-47f6-44c2-a01d-5e74d93266cd)
 
 ![17392560663213083824825883210506](https://github.com/user-attachments/assets/f59631a3-8238-437f-85c1-64bc778b4e01)
