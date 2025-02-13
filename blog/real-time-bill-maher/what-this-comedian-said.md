@@ -92,6 +92,10 @@ Most people are perverts.
 
 > Look at a list of popular porn categories: cuckold, cheerleader, stepmom, double penetration, creampie, tentacle sex—it sounds like we’re playing Password for perverts.
 
-College students are offended by everything nowadays. 
+And yet, college students are offended by everything nowadays. 
 
 > Kids used to go to college and lose their virginity—now they go and lose their sense of humor.
+
+For many, college is a drinking camp, a microcosm of a society trying to get through a pandemic or repressions.
+
+> As long as I had liquor, I didn’t care that there was no toilet paper. But as a historical trend, this can’t be good. There’s a word for when everyone in society gets drunk just to get through the day. And that word is: “Russia.”
