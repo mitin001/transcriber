@@ -25,3 +25,7 @@ There's a parallel between Trump's relationship to the Republican party and how 
 > Only one hit carries all the losses.
 
 Media companies often rely on there being a single hit to pay off their investments for the year. This is what happened to the Republican party. Trump is their hitmaker now. No one in the party can stand up to him because the party won't survive without him. And this is how they've allowed for a fascist takeover of the government that now only serves one man: Elon Musk.
+
+This is all happening while the biggest players in the newest tech industry (Altman's OpenAI and China's DeepSeek) scramble to cheat off of each other.
+
+> If Sam Altman can copy everything out there, someone's going to be able to figure out a way to copy Sam Altman's shit.
