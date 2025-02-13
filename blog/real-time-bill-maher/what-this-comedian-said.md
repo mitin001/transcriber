@@ -100,7 +100,11 @@ For many, college is a drinking camp, a microcosm of a society trying to get thr
 
 > As long as I had liquor, I didn’t care that there was no toilet paper. But as a historical trend, this can’t be good. There’s a word for when everyone in society gets drunk just to get through the day. And that word is: “Russia.”
 
-Bill Maher is on a crusade to rid society of stupid ideas. He thinks religion is a stupid idea. This is a quest often attributed to the whole of liberal media, but Bill Maher resents this characterization.
+Bill Maher is on a crusade to rid society of stupid ideas. He thinks religion is a stupid idea.
+
+> I’m the only live-action television figure who consistently puts religion “under attack,” and I’ll be damned if the credit’s going to go to the entire Left when I’ve been doing all the heavy lifting.
+
+He laments that this is a quest often attributed to the whole of liberal media and resents this characterization.
 
 > Where is religion belittled in the liberal world?
 
