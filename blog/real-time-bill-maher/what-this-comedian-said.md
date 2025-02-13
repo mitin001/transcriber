@@ -99,3 +99,11 @@ And yet, college students are offended by everything nowadays.
 For many, college is a drinking camp, a microcosm of a society trying to get through a pandemic or repressions.
 
 > As long as I had liquor, I didn’t care that there was no toilet paper. But as a historical trend, this can’t be good. There’s a word for when everyone in society gets drunk just to get through the day. And that word is: “Russia.”
+
+Bill Maher is on a crusade to rid society of stupid ideas. He thinks religion is a stupid idea. This is a quest often attributed to the whole of liberal media, but Bill Maher resents this characterization.
+
+> Where is religion belittled in the liberal world?
+
+He notes that even those accused of satanic practices will thank God in their award speeches, should they win any awards.
+
+> Counterculture types, like devilish musicians? Have you ever watched an awards show? Every speech is “I want to thank Jesus, without whom I could never have written ‘Face Down, Ass Up.’ ”
