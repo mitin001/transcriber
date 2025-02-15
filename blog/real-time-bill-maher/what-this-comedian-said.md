@@ -110,4 +110,8 @@ He laments that this is a quest often attributed to the whole of liberal media a
 
 He notes that even those accused of satanic practices will thank God in their award speeches, should they win any awards.
 
-> Counterculture types, like devilish musicians? Have you ever watched an awards show? Every speech is “I want to thank Jesus, without whom I could never have written ‘Face Down, Ass Up.’ ”
+> Counterculture types, like devilish musicians? Have you ever watched an awards show? Every speech is “I want to thank Jesus, without whom I could never have written ‘Face Down, Ass Up.’”
+
+Religion is still considered a norm in the American society. Even in the 21st century it is unpopular to have no religious affiliation.
+
+> Even an intellectual president like Obama, who admits to being a “secular humanist” (wink wink—atheist), had to pretend to be religious. No one has been able to admit their shameful secret: “I don’t believe in ghosts.”
