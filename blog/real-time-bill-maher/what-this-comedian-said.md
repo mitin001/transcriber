@@ -115,3 +115,7 @@ He notes that even those accused of satanic practices will thank God in their aw
 Religion is still considered a norm in the American society. Even in the 21st century it is unpopular to have no religious affiliation.
 
 > Even an intellectual president like Obama, who admits to being a “secular humanist” (wink wink—atheist), had to pretend to be religious. No one has been able to admit their shameful secret: “I don’t believe in ghosts.”
+
+At the heart of religion is the belief that human beings should be shamed and shunned for their sexual desires. An attempt to control people through this sort of emotional blackmail still drives many of our government's policymakers.
+
+> This creepy substrain of Catholic conservatives who think “limited government” means government should put a limit on people’s sex lives.
