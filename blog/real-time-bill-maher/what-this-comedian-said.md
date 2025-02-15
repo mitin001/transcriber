@@ -119,3 +119,9 @@ Religion is still considered a norm in the American society. Even in the 21st ce
 At the heart of religion is the belief that human beings should be shamed and shunned for their sexual desires. An attempt to control people through this sort of emotional blackmail still drives many of our government's policymakers.
 
 > This creepy substrain of Catholic conservatives who think “limited government” means government should put a limit on people’s sex lives.
+
+Whereas Bill Maher sees religion as stupid, he sees American business as dishonest. 
+
+> There was a recording that went viral about ten years ago of a Comcast customer service rep arguing endlessly with a customer who just wanted to cancel his service. It was eighteen minutes of a guy saying, “I’d like to cancel,” followed by… “Why?” “Doesn’t matter, just want to.” “Why?” “Please, I’m just looking to terminate.” “Why?” I’m no business expert, but I don’t think your customer service experience is supposed to feel like a car ride with a four-year-old. Comcast later apologized and said, “This is not how we train our customer service representatives.” Except for one tiny detail: it’s exactly how they train them. They’re not in the service industry—they’re in the small-print industry, and this is the new business model in America: annoying you out of your money. Wearing you down until you’re too weak to complain, and then when you just can’t go on, and die, charging you for early cancellation. Or just make something up and put it on a bill and hope no one notices. What the hell is a “resort fee” at a hotel?
+
+Once corporations figured out that providing a service is not the only way for them to make money, it all went downhill very quickly. 
