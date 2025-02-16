@@ -7,3 +7,7 @@ After George W. Bush is elected, the Fox News Channel becomes popular and starts
 In 2001, less than five years into it being on the air, the Fox News Channel starts spinning.
 
 > The Fox News bug, the logo, it started moving because otherwise it was burning into screens.
+
+# See also
+
+[Succession. Screens with the Fox News logo burned in.](https://github.com/mitin001/transcriber/blob/blog/blog%2Fsuccession%2Fep-3-3-fox-news-burned-into-screen.md)
