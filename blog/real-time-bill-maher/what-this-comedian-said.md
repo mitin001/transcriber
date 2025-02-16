@@ -139,3 +139,13 @@ Social Security is an essential service often overlooked by those who denounce s
 We can't have functional roads in an exclusively capitalist society.
 
 > Socialism is the reason you don’t have to bring your own highway when you want to drive somewhere.
+
+More importantly, socialism is affordable healthcare, higher education, and social safety nets.
+
+> Republicans think socialism is a one-way ticket to becoming the nightmare of Venezuela—they have a hard time understanding that done right, you don’t get “long lines for bread” socialism, you get “you don’t have to win the lotto to afford brain surgery” socialism. That’s the form of socialism that a lot of the happiest countries in the world embrace. There’s a reason the UN World Happiness rankings consistently list socialism-friendly places like Finland, Norway, Denmark, Iceland, Switzerland, Sweden, the Netherlands and Canada near the top. Because happiness isn’t only about what you have. It’s also about what you don’t have to worry about. All the countries on the list are ones with some form of universal health care. All have free or almost free higher education. All have strong pensions and social safety nets. Turns out, freedom from the fear of ending up in a tent below the overpass is a really great freedom too. It’s called peace of mind. Conservatives push the canard that unfettered capitalism makes you more free; but the right kind of socialism can make you the most free.
+
+Nations that do socialism right not only keep order but also give their citizens peace of mind.
+
+> There’s no sun half the year in a lot of these places, and they’re still in a better mood.
+
+Meanwhile in America, pharmaceutical companies have invented the term seasonal affective disorder so they can addict people to more pills. That's the capitalist solution. Wouldn't you prefer a socialist solution to the happiness problem?
