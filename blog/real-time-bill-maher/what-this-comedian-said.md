@@ -148,4 +148,4 @@ Nations that do socialism right not only keep order but also give their citizens
 
 > There’s no sun half the year in a lot of these places, and they’re still in a better mood.
 
-Meanwhile in America, pharmaceutical companies have invented the term seasonal affective disorder so they can addict people to more pills. That's the capitalist solution. Wouldn't you prefer a socialist solution to the happiness problem?
+Meanwhile in America, pharmaceutical companies have invented the term seasonal affective disorder so they can get people addicted to even more pills. That's the capitalist solution. Wouldn't you prefer the socialist solution to the happiness problem?
