@@ -127,3 +127,15 @@ Whereas Bill Maher sees religion as stupid, he sees American business as dishone
 Once corporations figured out that providing a service is not the only way for them to make money, it all went downhill very quickly. Now a leading tech company has convinced us that we each need to have the most expensive tech gear and then to throw away every year.
 
 > The only people who really need you to get a new phone every year are the shareholders. But just because they need to sell it so they can jerk off the stock price, it doesn’t mean you have to stand in that nerd line and buy it. You’re not “early adopting.” In fact, quite the opposite; you’re taking too long to catch on.
+
+You're taking too long to understand that capitalism cannot go on unchecked for too long. It must be kept in check by regulations passed by a government that also redirects some of its resources to services that are essential but not profitable.
+
+> Republicans always think if you allow a little socialism it’ll spread out of control—but actually, it’s capitalism that has spread to places it never should be, like our health care system, our prison system and our news media. I’m not arguing against the free market—just not for everything. Socialism as an economic model replacing capitalism is a terrible idea, but socialism as a supplement to capitalism is good.
+
+Social Security is an essential service often overlooked by those who denounce socialism.
+
+> Florida’s Senator Marco Rubio says, “If you want to live in a socialist country, why not move to a socialist country?” You mean like Florida, where half the population is on Social Security? Yes, so many Americans hate the word “socialism” but love the concept.
+
+We can't have functional roads in an exclusively capitalist society.
+
+> Socialism is the reason you don’t have to bring your own highway when you want to drive somewhere.
