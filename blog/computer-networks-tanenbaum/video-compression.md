@@ -10,6 +10,8 @@ The JPEG group has found ways to remove components of the image that are imperce
 
 The MPEG group has found ways to encode only the deltas between the key frames.
 
+![17398190434389014032214723200342](https://github.com/user-attachments/assets/856131e1-bfb5-4d7f-a325-f71280d94e54)
+
 > If a block (say, the actor) is present in the second frame but has moved, MPEG allows the encoder to say, in effect, ‘‘block 29 from the previous frame is present in the new frame offset by a distance (∆x, ∆y) and furthermore the sixth pixel has changed to abc and the 24th pixel is now xyz.’’
 
 It takes ffmpeg considerable computational resources to find ways to come up with the smallest deltas between the frames, and then video players like mpv and vlc can very quickly reconstruct the frames based on their deltas. Hence the encode/decode asymmetry.
