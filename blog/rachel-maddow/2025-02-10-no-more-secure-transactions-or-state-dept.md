@@ -1,6 +1,6 @@
 # [2025-02-10](https://s3.amazonaws.com/writecomments.com/transcripts/b28973d3060237cdd785c2c70f3d17cd.csv): no more security for our financial transactions or the State Department
 
-Your financial transactions are no longer secure. Elon Musk is getting rid of them. He wants to turn Twitter into a payments system like Zelle, and he wants to use his proximity to the President to differentiate his payments system from the rest of the market. Specifically, he wants there to be no government oversight of it.
+Your financial transactions are no longer secure. Elon Musk is getting rid of protections for those. All because he wants to turn Twitter into a payments system like Zelle, and he wants to use his proximity to the President to differentiate his payments system from the rest of the market. Specifically, he wants there to be no government oversight of it.
 
 > They want to fire the financial cops, but they'd like for nobody really to notice that. And particularly, Elon Musk would like nobody to notice that he just wants to get rid of them before he launches his new financial product.
 
