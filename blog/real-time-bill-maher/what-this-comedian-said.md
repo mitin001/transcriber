@@ -163,3 +163,5 @@ Cryptocurrency is a waste of compute power.
 > This kind of mining involves using rooms full of supercomputers to make something that is purposefully arbitrary: essentially, one computer thinks of a number between one and infinity and other computers take trillions of guesses at what it is.
 
 This translates to a waste of environmental resources. Like clean air. The data centers involved in Bitcoin mining output a significant amount of carbon dioxide and consume significant amounts of water to cool off the equipment.
+
+> There’s something inherently not credible about creating trillions in virtual wealth with nothing ever actually being accomplished and no actual product made or service rendered. It’s like Tinker Bell’s light—its power source is based solely on enough children believing in it. Unfortunately, what is real is the unfathomable amount of electricity that those massive supercomputers suck up for their “mining.” The power being used right now to guess numbers and win imaginary prizes is the same as all the electricity needed to light all of New York City.
