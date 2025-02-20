@@ -4,6 +4,8 @@ Left-to-right is not the only writing direction. Some languages alternate betwee
 
 > In most Semitic scripts such as Hebrew and Arabic, characters are arranged from right to left into lines, although digits run the other way, making the scripts inherently bidirectional.
 
+![17400345568911957682246727904261](https://github.com/user-attachments/assets/373cde40-7771-4899-9c59-45db7f040731)
+
 Top-to-bottom, right-to-left is another popular writing direction.
 
 > East Asian scripts are frequently written in vertical lines in which characters are arranged from top to bottom. Lines are arranged from right to left.
@@ -20,6 +22,6 @@ To convert these to left-to-right lines, do rotate the characters.
 
 > When Mongolian is written horizontally, the characters are rotated.
 
-Some prefer alternating between left-to-right and right-to-left directions for odd and even lines.
+Some even prefer alternating between left-to-right and right-to-left directions for odd and even lines.
 
 > Early Greek used a system called boustrophedon (literally, “ox-turning”). In boustrophedon writing, characters are arranged into horizontal lines, but the individual lines alternate between right to left and left to right, the way an ox goes back and forth when plowing a field.
