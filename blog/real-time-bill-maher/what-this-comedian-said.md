@@ -169,3 +169,7 @@ This translates to a waste of environmental resources. Like clean air. The data 
 Their negative impact on the environment has earned cryptocurrencies and their proponents Bill Maher's condemnation.
 
 > Almost all the people who tout Bitcoin and deal in Bitcoin and who won’t shut the fuck up about Bitcoin—the millennials, the Gen Z–ers, the Silicon Valley types—are the same people who see themselves as hip and progressive and big environmentalists. Bullshit. You’re money-hungry opportunists and you’re not allowed to pretend you care about the environment. According to the journal Nature, Bitcoin’s growth could single-handedly push global temperatures above the tipping point of two degrees Celsius. Because it’s a Beanie Baby that runs on coal. I know, melting ice caps can wait, your green new deal involves cash. Social scientists call this “cognitive dissonance”—a disconnect between who you think you are and what you actually do. I call it “being full of shit.”
+
+Bill Maher opposes the colonization of Mars for the same reason. Those efforts are better focused on mitigating the environmental catastrophe here on Earth. Mars should not be our priority at this time in human history. It should be the survival of Earth as a habitable planet.
+
+> If we’re going to spend the time, effort and money to make an entire planet sustainable for human life, why not the one that already has air and water and the right temperature and, oh yeah… we’re already here!
