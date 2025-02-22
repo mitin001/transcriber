@@ -10,8 +10,7 @@ Elon Musk is doing this just so his businesses can proceed without regulations. 
 
 This is a theme for Trump's first weeks in office. Any agency that's inconvenient for Musk's businesses suddenly finds itself gutted.
 
-> There is a lot of overlap between what the administration has done and what you might imagine is a wish list
-for the President's top campaign donor who's been allowed to essentially have his way with the federal government, including a lot of elements of the federal government that were complicating his business life or cramping his style.
+> There is a lot of overlap between what the administration has done and what you might imagine is a wish list for the President's top campaign donor who's been allowed to essentially have his way with the federal government, including a lot of elements of the federal government that were complicating his business life or cramping his style.
 
 Take it from _WIRED_, a news source that's had to switch their focus from AI to Musk's conflicts of interest to have enough journalistic bandwidth to keep track of this scandalous administration.
 
