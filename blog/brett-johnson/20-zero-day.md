@@ -1,6 +1,5 @@
 # [20](https://s3.amazonaws.com/writecomments.com/transcripts/c0c8beec79cda0148d0269267dc7a52e.csv). Zero day
 
-Cybercriminals have perfected a patch-to-beach pipeline. As soon as an update is announced, they start scanning the web for servers that haven't yet received the update and break into them. That's how data was stolen from Equifax.
+Cybercriminals have perfected a patch-to-breach pipeline. As soon as an update is announced, they start scanning the web for servers that haven't yet received the update and break into them. That's how data was stolen from Equifax.
 
 > Before Apache put the update out, Equifax was not being attacked. Within 24 hours of Apache putting that update out, Equifax was breached, compromised and repeatedly breached and compromised after the update. And the reason why is, think of an update as a broadcast to every single criminal on the planet telling you which door to knock on. A lot of people just don't install the updates as soon as they come out. And because of that, it's a broadcast telling you which door to knock on. As soon as that update comes out, criminals start pinging systems. And it's automated. They ping and see which ones haven't been updated yet. Turns out that Equifax wasn't.
-
