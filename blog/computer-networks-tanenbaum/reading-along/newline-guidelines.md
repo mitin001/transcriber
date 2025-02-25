@@ -1,10 +1,14 @@
 # [Newline Guidelines](https://www.unicode.org/versions/Unicode16.0.0/core-spec/chapter-5/#G10213)
 
+![17404617396796545304471543017006](https://github.com/user-attachments/assets/a71c4f09-e999-41ca-905d-f6f64093bb21)
+
 Newline function values differ across operating systems.
 
 > Any NLF causes a line break.
 
 Windows is unlike other operating systems in that it expects two code points to signify an NLF. Because of this, text editors cannot just interpret a CR to be a line break. They must look ahead to check if it's followed by an LF and not treat that as a separate line break. Otherwise, for every line, they would show an additional unnecessary empty line. MacOS made a switch from CR to LF as its NLF in its X release. I predict that Windows will also switch from CRLF to LF in the future.
+
+![17404617549804210079082382724648](https://github.com/user-attachments/assets/5de599c3-d2f4-4a74-85c8-a8156359800b)
 
 When encoded into HTML, line separators are br tags and paragraph separators are p tags. In a subsequent HTML update, p tags were allowed to contain children: text and other HTML elements.
 
