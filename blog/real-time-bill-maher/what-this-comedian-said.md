@@ -40,7 +40,7 @@ Ayn Rand is not all that intellectual. If you discover someone to be a fan of Ay
 
 > Paul Ryan once said Ayn Rand taught him “what [his] value systems are.” And I believe him, because her book has a strange appeal to people who are kind of smart but not really. She wrote things like “Money is the barometer of a society’s virtue” and “The question isn’t who is going to let me; it’s who is going to stop me”—which sounds like something a Batman villain says. It’s all stuff that seems very deep when you’re nineteen years old, about how government is a dirty trick played by the weak on the strong.
 
-Or, they may be a libertarian. But where is the line between libertarianism and selfishness?
+Or, they may be a libertarian. Of libertarians, Bill Maher asks, where is the line between libertarianism and selfishness?
 
 > Libertarians have to stop ruining libertarianism, or at least do a better job of explaining the difference between today’s libertarian and just being a selfish prick. Like, when you see a stoplight your reaction should be “Great. An easy way to ensure we don’t all crash into each other,” not “How dare the government tell me when I can and cannot go!”“Seat belts? I refuse to live in a nanny state—I’m an individual, and I want to soar, free as an eagle, right through the windshield.” Same thing with meat inspectors—who needs ’em? “People can sniff their own meat! And if a few die, the word will get around town: ‘Don’t order the T-bone at the Ponderosa,’ and then the Ponderosa closes—problem solved, thanks to the free market!”
 
@@ -76,11 +76,11 @@ Before speaking out about a purportedly offensive statement, first reflect on wh
 
 > A hallmark of stupid wokeness: getting offended for people who themselves would not be offended. Democrats have gone from the party that protects people to the party that protects feelings. From “Ask not what your country can do for you” to “You owe me an apology.” Republicans apologize for nothing, Democrats for everything—can’t we find a balance?
 
-A theater slaps a trigger warning on *Romeo and Juliet*.
+We live in a time when a theater will slap a trigger warning on *Romeo and Juliet*.
 
 > London’s Globe Theatre felt the need to tell the audience that its production of Romeo and Juliet includes suicide.
 
-How can trigger warnings and spoiler alerts coexist in the same time?
+How can trigger warnings and spoiler alerts coexist?
 
 > It does kind of give away the ending. I don’t understand how a society that’s so in love with spoiler alerts can also be into trigger warnings: tell me what’s gonna happen—but don’t tell me!
 
@@ -148,7 +148,7 @@ Nations that do socialism right not only keep order but also give their citizens
 
 > There’s no sun half the year in a lot of these places, and they’re still in a better mood.
 
-Meanwhile in America, pharmaceutical companies have invented the term seasonal affective disorder so they can get people addicted to even more pills. That's the capitalist solution. Wouldn't you prefer the socialist solution to the happiness problem?
+Meanwhile in America, pharmaceutical companies have invented the term _seasonal affective disorder_ so they can get people addicted to even more pills. That's the capitalist solution. Wouldn't you prefer the socialist solution to the happiness problem?
 
 Bill Maher further criticizes capitalism as the economic system that has allowed the proliferation of cryptocurrencies.
 
@@ -173,3 +173,9 @@ Their negative impact on the environment has earned cryptocurrencies and their p
 Bill Maher opposes the colonization of Mars for the same reason. Those efforts are better focused on mitigating the environmental catastrophe here on Earth. Mars should not be our priority at this time in human history. It should be the survival of Earth as a habitable planet.
 
 > If we’re going to spend the time, effort and money to make an entire planet sustainable for human life, why not the one that already has air and water and the right temperature and, oh yeah… we’re already here!
+
+As the world faces existential threats, Americans are distracted by reality television. 
+
+> Reality TV is acting: acting like you don’t know a glass of wine is about to be thrown in your face.
+
+They like reality TV so much they turned over their government to reality TV personalities.
