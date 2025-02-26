@@ -68,6 +68,10 @@ A former VP at Facebook admits that addiction to social media is destroying soci
 
 > The short-term, dopamine-driven feedback loops that we have created are destroying how society works.
 
+Dating apps amplify our worst traits.
+
+> Dating apps took the worst inherent traits of men and exacerbated them by a magnitude of infinity: “Let’s see, I’m horny, I’m lazy, I’m a coward, and I suck at honest communication—is there a way I could have an electronic harem right in my hand where the only answers are ‘Yes’ and ‘Next’?”
+
 To teach a young person why staring down at his phone during a conversation is rude, when he starts talking, open up a magazine and start reading.
 
 > Cell phones have obliterated courtesy—the fundamental building block of developing any real relationship. We all see it—groups of friends out together at a bar or eating in a restaurant and they’re all staring down at their phones. Imagine how rude that would be if, instead of a phone, you brought a magazine to the table and read it during dinner with a “friend.”
