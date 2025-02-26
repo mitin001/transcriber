@@ -178,4 +178,6 @@ As the world faces existential threats, Americans are distracted by reality tele
 
 > Reality TV is acting: acting like you don’t know a glass of wine is about to be thrown in your face.
 
-They like reality TV so much they turned over their government to reality TV personalities.
+They like reality TV so much they turned over their government to reality TV personalities. Bill Maher sees TV news with their nonstop coverage of Trump as partly responsible for this. It's one of the two biggest sins committed by TV news in Trump times, the other one being their coverage of COVID.
+
+> The more they can get you to stay inside and watch their panic porn, the higher the ratings.
