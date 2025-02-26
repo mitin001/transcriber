@@ -40,7 +40,11 @@ Republicans use "think of the children" as an excuse to play political theater w
 
 > Every Republican on every TV station for two years saying, “What do we tell the children?” And those children are today’s millennials, who, according to polls, don’t know anything about it and don’t care—so I guess you didn’t tell them anything.
 
-Republicans often flaunt their exposure to Ayn Rand as a sign of their intellect forgetting that Ayn Rand is not all that intellectual. If you discover someone to be a fan of Ayn Rand, watch them closely because they may be an imposter, a pseudointellectual.
+Republicans can be stubbornly ignorant. Show them a map of the election results where a Democrat won, and they will think that election got stolen because the map looks mostly red with some small blue spots. America votes by land, apparently.
+
+> When you fly over it, you don’t see red states and blue states, you see vast stretches of land where there’s nothing—and then every once in a while, a city. Every state’s election map looks the same: a sea of red with a few blue spots. You can joke about Alabama all you want—yes, it’s Trump country—but not Birmingham, because that’s a city. It votes Democratic.
+
+They don't understand that most people live in cities. Republicans often flaunt their exposure to Ayn Rand as a sign of their intellect forgetting that Ayn Rand is not all that intellectual. If you discover someone to be a fan of Ayn Rand, watch them closely because they may be an imposter, a pseudointellectual.
 
 > Paul Ryan once said Ayn Rand taught him “what [his] value systems are.” And I believe him, because her book has a strange appeal to people who are kind of smart but not really. She wrote things like “Money is the barometer of a society’s virtue” and “The question isn’t who is going to let me; it’s who is going to stop me”—which sounds like something a Batman villain says. It’s all stuff that seems very deep when you’re nineteen years old, about how government is a dirty trick played by the weak on the strong.
 
