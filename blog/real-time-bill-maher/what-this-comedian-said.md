@@ -1,6 +1,6 @@
 # *[What This Comedian Said Will Shock You](https://www.google.com/books/edition/What_This_Comedian_Said_Will_Shock_You/bCToEAAAQBAJ)*
 
-In his book, Bill Maher notes the tragedy of human nature.
+In his book, Bill Maher points out the tragedy of human nature.
 
 > History is brutal, and humans are not good people. History is sad, and full of wrongs, but you can’t make them unhappen.
 
