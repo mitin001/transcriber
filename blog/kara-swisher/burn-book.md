@@ -8,4 +8,8 @@ Afterwards, CNN founder Ted Turner, a shareholder in Time Warner, found the cras
 
 > I went from no money to a pile of money, just as big as the World Trade Center… Then—just like the World Trade Center—Poof! It was gone.
 
+Kara covered the dotcom bust as it was happening.
+
+> Young Turks on the Web had overturned the old order, sparked an electronic revolution and become impossibly rich. Impossible, it turns out, was the operative word.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
