@@ -10,4 +10,6 @@ If this happens, the company hasn't done a good job training or mentoring the pe
 
 > Provide targeted training and mentorship. Make resources readily accessible.	Encourage continuous learning and knowledge sharing.
 
+![17405314015256431842237946471831](https://github.com/user-attachments/assets/82600825-2ff9-4f03-acac-a8b1807df952)
+
 Other performance gaps arise when there are unclear expectations, poor communication, incorrect priorities, or lacking accountability.
