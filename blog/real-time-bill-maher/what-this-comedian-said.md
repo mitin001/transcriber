@@ -36,7 +36,11 @@ Meanwhile, its detractors have their own snitching practices.
 
 > Texas’s abortion law includes the idea that anyone even helping a woman get an abortion, like the Uber driver who takes her to the clinic, can be sued by some random Citizen Snitch for up to $10,000. Finally a way to tap into that vast reserve of Uber-driver wealth.
 
-Ayn Rand is not all that intellectual. If you discover someone to be a fan of Ayn Rand, watch them closely because they may be an imposter, a pseudointellectual.
+Republicans use "think of the children" as an excuse to play political theater while neglecting said children at the same time. Remember the Monica Lewinsky scandal?
+
+> Every Republican on every TV station for two years saying, “What do we tell the children?” And those children are today’s millennials, who, according to polls, don’t know anything about it and don’t care—so I guess you didn’t tell them anything.
+
+Republicans often flaunt their exposure to Ayn Rand as a sign of their intellect forgetting that Ayn Rand is not all that intellectual. If you discover someone to be a fan of Ayn Rand, watch them closely because they may be an imposter, a pseudointellectual.
 
 > Paul Ryan once said Ayn Rand taught him “what [his] value systems are.” And I believe him, because her book has a strange appeal to people who are kind of smart but not really. She wrote things like “Money is the barometer of a society’s virtue” and “The question isn’t who is going to let me; it’s who is going to stop me”—which sounds like something a Batman villain says. It’s all stuff that seems very deep when you’re nineteen years old, about how government is a dirty trick played by the weak on the strong.
 
