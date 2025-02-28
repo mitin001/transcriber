@@ -12,4 +12,8 @@ Kara covered the dotcom bust as it was happening.
 
 > Young Turks on the Web had overturned the old order, sparked an electronic revolution and become impossibly rich. Impossible, it turns out, was the operative word.
 
+She started in print journalism but pushed for the exploration of digital.
+
+> While having a column in a major publication was the goal for most journalists, I felt trapped in a prison of expectations from a medium I barely believed in.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
