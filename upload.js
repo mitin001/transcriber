@@ -44,7 +44,7 @@ async function transcribe(audio, lang, modelSize, host, time, interval) {
   const txtPublicFilePath = `lookups/${md5}.txt`;
   const txtFilePath = `public/${txtPublicFilePath}`;
   
-  const jobId = await queue(md5, time, interval, modelSize, lang);
+  const jobId = await queue(md5, time, parseInt(interval), modelSize, lang);
 
   const uploadInfo = JSON.stringify({
     name, size, encoding, truncated, mimetype, md5, jobId,
