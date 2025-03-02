@@ -8,7 +8,7 @@ When a user logs in to a bank, Genesis steals their cookies and uses them to mak
 
 > Genesis is so effective that the criminal steals the credentials, steals all the things that are needed to take over your account, comes back in right after you. The bank doesn't know it's not you because it's the correct cookie, it's the correct browser fingerprint, blah, blah, blah. Comes right back in, steals the money. The bank thinks it's you that's sending the money out, denies you fraud protection after that.
 
-Cookies are just one example of the [browser fingerprint](/blog/computer-networks-tanenbaum/device-browser-fingerprinting.md) captured by Genesis. The software is so sophisticated that even MFA does not protect against this kind of automated account takeover attack.
+Cookies are just one example of the [browser fingerprint](/blog/books/computer-networks-tanenbaum/device-browser-fingerprinting.md) captured by Genesis. The software is so sophisticated that even MFA does not protect against this kind of automated account takeover attack.
 
 > Every time I sign in, it sends me an MFA code, but because the criminals captured the cookie of that session, everything he needs in that specific session, when he goes to sign on, that MFA, that multi-factor authentication isn't triggered. It's bypassed because the bank sees it as me just coming right back in at that point.
 

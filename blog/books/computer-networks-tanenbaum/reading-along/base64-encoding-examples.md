@@ -26,4 +26,4 @@ If the last group is missing one sextet, pad the encoded string with =.
 
 ## See also
 
-[Computer Networks. MIME](/blog/computer-networks-tanenbaum/mime.md)
+[Computer Networks. MIME](/blog/books/computer-networks-tanenbaum/mime.md)
