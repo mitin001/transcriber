@@ -23,4 +23,3 @@ LeGrand thinks there are enough people on the planet to make everyone rich. That
 Photoshop is post-production makeup.
 
 > There's like pre-production makeup, which is like the physical thing. And there's post-production makeup, which is Adobe.
-

@@ -10,7 +10,7 @@ Religion is concerned with self-perpetuity within the human populations but woul
 
 > Religion isn't particularly concerned about the survival of the species.
 
-It actively harms the human populations by propagandizing ideas detrimental to their survival.
+It actively harms the human populations by propagandizing [ideas] detrimental to their survival.
 
 > It acts against our interests as a species. It only acts to preserve its own power and its own belief structure. And oftentimes that can act in opposition to what is going to help us survive as a species.
 
@@ -24,7 +24,7 @@ Religion always makes itself the priority in a person's life over anything else.
 
 George Carlin has spoken of the contrast between individuals and groups where people have a tendency to betray virtues and morals as soon as they start forming groups. LeGrand Wolf explains this as a religious influence on the groups.
 
-> They get people as a group to act and behave in a way that they would not probably act or behave individually.
+> They get people as a group to act and [behave] in a way that they would not probably act or behave individually.
 
 LeGrand grew up in a mormon family. His family members turned against him over his homosexuality because of their mormon beliefs.
 
@@ -43,3 +43,8 @@ He condemns the fact that church leaders often take advantage of their power pos
 LeGrand's porn business thrives. Now that he's made a name for himself by telling the mormon sex fantasy, his next contribution to the field is to have it embrace AI.
 
 > You'll be able to upload images of yourself and then have your favorite performer fuck you in those images.
+
+[ideas]: /blog/podcasts/kara-swisher/chris-hayes.md
+<!--0.33--They’ve captured our attention by fearmongering. That’s another way Trump has captured-->
+[behave]: /blog/instagram-reels/labeling.md
+<!--0.41--You essentially wanna give somebody a label of how you want them to act. And when you put an expectation on somebody, they naturally want to reach that expectation.-->
