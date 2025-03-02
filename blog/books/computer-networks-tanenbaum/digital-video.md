@@ -21,5 +21,4 @@ Interlacing (transmitting data for only half the lines per frame, alternating be
 > To reduce the amount of bandwidth required to broadcast television signals over the air, television stations adopted a scheme in which frames were divided into two fields, one with the odd-numbered rows and one with the even-numbered rows, which were broadcast alternately. This meant that 25 frames/sec was actually 50 fields/sec. This scheme is called interlacing, and gives less flicker than broadcasting entire frames one after another. Modern video does not use interlacing and and just sends entire frames in sequence, usually at 50 frames/sec (PAL) or 59.94 frames/sec (NTSC). This is called progressive video.
 
 [15.734 kHz]: /blog/how-video-works/6-color.md
-[not notice]: /blog/books/computer-networks-tanenbaum
-/audio-compression.md
+[not notice]: /blog/books/computer-networks-tanenbaum/audio-compression.md
