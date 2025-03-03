@@ -5,4 +5,3 @@ Seniors who have been paying the Social Security and Medicare taxes their whole 
 > That's our money. We put that in. Nobody gave us that money. We loaned it to the government.
 
 We put a convicted felon in office and are now watching as he steals our money.
-
