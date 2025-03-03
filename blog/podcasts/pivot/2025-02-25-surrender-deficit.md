@@ -24,8 +24,7 @@ Be an expert in one thing and ignore the rest. They're only torturing people for
 
 Scott views American surrender to Russia and deficit as the most important issues to focus on.
 
-> I believe the two most important things are the following. We have decided to surrender to Putin, and we have decided to essentially reconfigure the world order that has created more prosperity and peace and rights than any other 80-year period in history. And that is a very dangerous, stupid thing to do. And two, while everyone is focused on the $60 billion going to Ukraine or the $50 billion savings from DOGE, that is not where they should be looking. They should be looking at the $900 billion a year
-annual increase in the deficit.
+> I believe the two most important things are the following. We have decided to surrender to Putin, and we have decided to essentially reconfigure the world order that has created more prosperity and peace and rights than any other 80-year period in history. And that is a very dangerous, stupid thing to do. And two, while everyone is focused on the $60 billion going to Ukraine or the $50 billion savings from DOGE, that is not where they should be looking. They should be looking at the $900 billion a year annual increase in the deficit.
 
 Trump will say that he'll just charge every immigrant $5 million to enter the US, and that will take care of the deficit problem. He doesn't understand supply and demand. No one will enter the country legally if this is the barrier to entry. So, what else you got, President Trump? 
 
