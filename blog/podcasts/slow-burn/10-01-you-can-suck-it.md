@@ -1,4 +1,4 @@
-# [S10E01](https://slate.com/transcripts/NTEza3VIczRkTkRib3o4MWk2NklTT0F5bkhZemZabWExdGJvYTBOa2RnYz0=): you can suck it
+# [10.01](https://slate.com/transcripts/NTEza3VIczRkTkRib3o4MWk2NklTT0F5bkhZemZabWExdGJvYTBOa2RnYz0=): you can suck it
 
 After George W. Bush is elected, the Fox News Channel becomes popular and starts getting a lot of fan mail.
 
