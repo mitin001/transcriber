@@ -16,4 +16,12 @@ She started in print journalism but pushed for the exploration of digital.
 
 > While having a column in a major publication was the goal for most journalists, I felt trapped in a prison of expectations from a medium I barely believed in.
 
+She also wanted to do reported analysis. That is, she wanted to play the role of both a reporter and an expert. This is a rare intersection of talents, and Kara knew she had to lean into them even if it meant walking away from jobs.
+
+> I wanted to write what I knew based on careful reporting, the network of sources I’d built, and the expertise I’d acquired. I started calling it “reported analysis” to distinguish my take from the ill-informed punditry that had been littering the media landscape.
+
+She walked away from those jobs where her supervisors didn't let her to lean into her domain expertise and tried to limit her to being a reporter and nothing more.
+
+> Editors were always asking me to get someone else to say in a quote what I could say on my own based on the reporting. In addition, they wanted me to always add a “to be sure” statement, in which I explained that even though my querying and number-crunching showed that some startup gave Ponzi schemes a good name, I needed to hedge by noting “to be sure, not everyone is so negative that this was an obvious flaming trash heap.” Even when I was sure it was a flaming trash heap.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
