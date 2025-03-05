@@ -1,6 +1,6 @@
 # [2025-02-25](https://s3.amazonaws.com/writecomments.com/transcripts/6b668649e26f1b1b21ed7473e9fc864a.csv): Surrender and deficit
 
-The Trump administration is torturing people for attention. Stop giving it to him. Focus on his failures: deficit and American surrender to Russia.
+The Trump administration is [torturing people for attention]. [Stop giving it to him.] Focus on his failures: deficit and American surrender to Russia.
 
 Now that Trump and other Republicans scream Russian talking points to Zelenskyy, Scott Galloway reminds us that Russia invaded Ukraine.
 
@@ -28,3 +28,7 @@ Scott views American surrender to Russia and deficit as the most important issue
 
 Trump will say that he'll just charge every immigrant $5 million to enter the US, and that will take care of the deficit problem. He doesn't understand supply and demand. No one will enter the country legally if this is the barrier to entry. So, what else you got, President Trump? 
 
+[torturing people for attention]: /blog/last-week-tonight/2025-02-16-ep-12-01.md
+<!--0.39--The best way to overcome anxiety about an impending doom is to get busy fighting it.-->
+[Stop giving it to him.]: /blog/podcasts/pivot/2025-01-24-trumps-kleptocracy-race-to-the-bottom.md
+<!--0.23--By playing into the worst human instincts, he shows that stealing is how we survive in this country while simultaneously breaking down the institutions that could prevent this.-->
