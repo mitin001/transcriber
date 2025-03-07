@@ -1,6 +1,6 @@
 # [2025-01-31](https://s3.amazonaws.com/writecomments.com/transcripts/79c9969a72f8e92d44cb4da3545649ae.csv): DeepSeek, an offbrand imitation of ChatGPT
 
-> [DeepSeek] released a highly competent model from China. And kind of part of the reason I took the market by storm is the thesis was that it was created for a lot less money and a lot less compute. And what I think is there's certainly some parts of the story that are incorrect.
+> [DeepSeek] released a highly competent model from China. And kind of part of the reason I took [the market by storm] is the thesis was that it was created for a lot less money and a lot less compute. And what I think is there's certainly some parts of the story that are incorrect.
 
 If it uses large language models that were developed expensively, can we really say that it's a cheaply made product?
 
@@ -14,8 +14,9 @@ DeepSeek seems to be the latest in the long tradition of China making an offbran
 
 > Yeah, who would have thought that China would engage in IP theft to create a cheaper product?
 
-
 [DeepSeek]: /blog/podcasts/pivot/2025-01-28-deepseek.md
 <!--0.56--The market responds to the release of DeepSeek by significantly pulling down the valuation of Nvidia.-->
 [larger models]: /blog/podcasts/pivot/2025-02-04-chatgpt-deepseek-thieves.md
 <!--0.33--He doesn’t want to hear Sam Altman complain because Altman is the one who started this practice of training models on copyrighted material without paying the original authors.-->
+[the market by storm]: /blog/podcasts/planet-money/deepseek-markets-mind.md
+<!--0.46--Emerging technology has got the market on a leash because it can quickly disrupt it, and everyone wants in on the gold rush. The latest emerging technology to do so is artificial intelligence. It affects more than software company stocks but also hardware and energy stocks.-->
