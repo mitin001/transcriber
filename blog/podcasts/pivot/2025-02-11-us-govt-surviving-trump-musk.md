@@ -14,7 +14,7 @@ Can it [withstand] the [fascist takeover] by the likes of Trump and Musk? The Am
 <!--0.47--The best way to overcome anxiety about an impending doom is to get busy fighting it.-->
 [take apart]: /blog/podcasts/pivot/2025-01-22-trump-breaking-biden-promises.md
 <!--0.33--Without this mutual respect, the US devolves into a kleptocracy.-->
-[fascist takeover]: /blog/podcasts/rachel-maddow/2024-12-16-trump-muak-govt.md
+[fascist takeover]: /blog/podcasts/rachel-maddow/2024-12-16-trump-musk-govt.md
 <!--0.64--Elon Musk bribes Trump into reshaping the government in such a way that only benefits Musk.-->
 [will not be ruled]: /blog/podcasts/rachel-maddow/2025-02-11-elon-musk-conflicts-of-interest.md
 <!--0.39--Trump and Musk and the oligarchs they work for, they are scared of your power, but they are betting that you will be afraid of them. So afraid that you will accept a buyout or comply in advance with their assertion of absolute power. But we know a president is not a king unless we bow. A dictator is not a dictator unless we bow. Our knees, your knees-->

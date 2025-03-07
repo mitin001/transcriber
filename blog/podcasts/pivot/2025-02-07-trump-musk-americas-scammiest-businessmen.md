@@ -36,7 +36,7 @@ This is all happening while the biggest players in the newest tech industry (Alt
 <!--0.44--By playing into the worst human instincts, he shows that stealing is how we survive in this country while simultaneously breaking down the institutions that could prevent this.-->
 [copy everything]: /blog/podcasts/pivot/2025-02-04-chatgpt-deepseek-thieves.md
 <!--0.55--He doesn’t want to hear Sam Altman complain because Altman is the one who started this practice of training models on copyrighted material without paying the original authors.-->
-[fascist takeover]: /blog/podcasts/rachel-maddow/2024-12-16-trump-muak-govt.md
+[fascist takeover]: /blog/podcasts/rachel-maddow/2024-12-16-trump-musk-govt.md
 <!--0.6--Elon Musk bribes Trump into reshaping the government in such a way that only benefits Musk.-->
 [on an honor system with regulators]: /blog/podcasts/rachel-maddow/2025-02-15-trump-musk-government-saboteurs.md
 <!--0.55--He said the scandal that he and his team had uncovered in social security data is that there are people in the social security database who are listed as being 150 years old. And we don’t know exactly what Mr. Musk was talking about because he’s seeing stuff that I think he’s not allowed to see and neither are we. But today people started gingerly asking if perhaps Mr.-->
