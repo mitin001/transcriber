@@ -1,6 +1,6 @@
 # [DeepSeek changed the market's mind](https://www.npr.org/transcripts/1215793948)
 
-Emerging technology has got the market on a leash because it can quickly disrupt it, and everyone wants in on the gold rush. The latest emerging technology to do so is artificial intelligence. It affects more than software company stocks but also hardware and energy stocks.
+Emerging technology has got the market on a leash because it can quickly disrupt it, and everyone wants in on the gold rush. The latest emerging technology to do so is artificial intelligence. This is more than about software company stocks. AI has a profound effect on hardware and energy stocks, too.
 
 > People wanted a way to invest in the AI future, and so they were pouring money into nuclear stocks, including, of course, our nation's biggest nuclear provider, Constellation Energy.
 
@@ -12,4 +12,7 @@ And as soon as anyone so much as hints at being able to train a model without mu
 
 > The stock price of Constellation dropping off - that is a market collectively saying, *oh, crap, maybe the future doesn't require as much electricity as I was betting on*.
 
-That someone was the Chinese company DeepSeek.
+That someone was the Chinese company [DeepSeek].
+
+[DeepSeek]: /blog/podcasts/pivot/2025-01-28-deepseek.md
+<!--0.48--The market responds to the release of DeepSeek by significantly pulling down the valuation of Nvidia.-->
