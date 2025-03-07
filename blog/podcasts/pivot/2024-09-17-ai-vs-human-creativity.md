@@ -6,11 +6,11 @@ The fact that we're even considering an LLM as a replacement for our work shows 
 
 > The more anodyne what you're doing is, the easier it is for it to be replaced.
 
-AI is here not to replace us but to remind us that we've got to get back to express ourselves uniquely.
+AI is here not [to replace us] but to remind us that we've got to get back to express ourselves uniquely.
 
 > Try to find unique ways to express yourself that are not based on everything that you hear every day.
 
-Creating content that's like everything else is not an option anymore because AI can do it immediately and in infinite quantities.
+Creating content that's like everything else is not an option anymore because AI can do it immediately and in infinite quantities and [cheaply].
 
 > Uniqueness is going to be at a premium.
 
@@ -26,3 +26,7 @@ AI is here to automate away the kind of [bureaucracy] that leaves people with no
 <!--0.23--, not safety. This is designed to milk the populace for every conceivable cent, it has nothing to do with punishing bad drivers.-->
 [You are unique. You are creative.]: /blog/instagram-reels/labeling.md
 <!--0.38--You essentially wanna give somebody a label of how you want them to act. And when you put an expectation on somebody, they naturally want to reach that expectation.-->
+[cheaply]: /blog/podcasts/pivot/2025-01-28-deepseek.md
+<!--0.35--The market responds to the release of DeepSeek by significantly pulling down the valuation of Nvidia.-->
+[to replace us]: /blog/podcasts/planet-money/ai-taking-away-jobs-from-translators.md
+<!--0.34--Unemployment leads to war not only because it’s a historically tried and true way to alleviate a country’s economic hardship and distract its citizens from it but also because of human nature.-->
