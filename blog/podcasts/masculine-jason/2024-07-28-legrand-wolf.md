@@ -18,7 +18,7 @@ Religion clashes with our efforts to ensure continued survival of our species, e
 
 > It's more important that people uphold the belief that exists within a religion than it is that they preserve the environment within which they are living.
 
-Religion always makes itself the priority in a person's life over anything else. Religious people may choose religion over their own lives or the lives of their children.
+Religion always makes itself the priority in a person's life [over anything else]. Religious people may choose religion over their own lives or [the lives of their children].
 
 > The belief is more important than your wellbeing or the wellbeing of your children, and belief must be preserved.
 
@@ -33,14 +33,13 @@ that everyone kind of subscribes to.
 
 So LeGrand has left the mormon religion. Now he uses his deep knowledge of this religion to make mormon porn.
 
-> You know where you should have older religious leaders
-having sex with the 19- and 20- and 21-year-old men? That should exist in porn, not in real life. That's the outlet for it. So it's not disgusting.
+> You know where you should have older religious leaders having sex with the 19- and 20- and 21-year-old men? That should exist in porn, not in real life. That's the outlet for it. So it's not disgusting.
 
-He condemns the fact that church leaders often take advantage of their power positions to demand sexual favors from their young peritioners. At the same time, he makes movies that depict it. Capturing a fantasy on video and experiencing it as a viewer of such a video is moral. Attempting to recreate such a fantasy in real life by using and coercing real people is immoral.
+He condemns the fact that church leaders often take advantage of their power positions to demand sexual favors from their young parishioners. At the same time, he makes movies that depict it. Capturing a fantasy on video and experiencing it as a viewer of such a video is moral. Attempting to recreate such a fantasy in real life by using and coercing real people is immoral.
 
 > It's fantasy material.
 
-LeGrand's porn business thrives. Now that he's made a name for himself by telling the mormon sex fantasy, his next contribution to the field is to have it embrace AI.
+[LeGrand's porn business] thrives. Now that he's made a name for himself by telling the mormon sex fantasy, his next contribution to the field is to have it embrace AI.
 
 > You'll be able to upload images of yourself and then have your favorite performer fuck you in those images.
 
@@ -48,3 +47,9 @@ LeGrand's porn business thrives. Now that he's made a name for himself by tellin
 <!--0.33--They’ve captured our attention by fearmongering. That’s another way Trump has captured-->
 [behave]: /blog/instagram-reels/labeling.md
 <!--0.41--You essentially wanna give somebody a label of how you want them to act. And when you put an expectation on somebody, they naturally want to reach that expectation.-->
+[over anything else]: /blog/podcasts/brett-johnson/23-victims.md
+<!--0.32--If you’re addicted to something, you really can’t love anything else but the addiction. The addiction will always come first. Lord knows I wouldn’t have given up breaking the law for that relationship.-->
+[the lives of their children]: /blog/podcasts/succession/2023-04-16-ep-4-4.md
+<!--0.24--Very few of us in life ever get that unconditional love that should be every child’s due.-->
+[LeGrand's porn business]: /blog/podcasts/masculine-jason/2025-01-20-legrand-wolf.md
+<!--0.47--LeGrand has an advantage in porn thanks to the size is his penis. But Jason sees Photoshop as a way to erase this advantage.-->
