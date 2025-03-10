@@ -24,4 +24,8 @@ She walked away from those jobs where her supervisors didn't let her to lean int
 
 > Editors were always asking me to get someone else to say in a quote what I could say on my own based on the reporting. In addition, they wanted me to always add a “to be sure” statement, in which I explained that even though my querying and number-crunching showed that some startup gave Ponzi schemes a good name, I needed to hedge by noting “to be sure, not everyone is so negative that this was an obvious flaming trash heap.” Even when I was sure it was a flaming trash heap.
 
+She collected her favorite coworkers at the Journal to form an internal skunkworks.
+
+> A tight group of innovators who steal away from a mothership and create a smaller, faster-moving pirate ship. Our hope was to create a crack team of mouthy malcontents willing to innovate news delivery and host live events. We wanted to launch a digital-only publication with attitude and personality, and without all the meddling from those who love to meddle in a news organization.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
