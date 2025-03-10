@@ -32,4 +32,20 @@ At one such live event organized by Kara, Steve Jobs called the Windows operatin
 
 > We’ve got cards and letters from lots of people that say iTunes is their favorite app on Windows. It’s like giving a glass of ice water to somebody in hell.
 
+To Steve Jobs, Windows was hell, and Bill Gates was Satan.
+
+> Jobs, during his solo session, referring to Microsoft as “hell,” he was basically implying that Gates, who ran the joint, was Satan.
+
+This was an unusual outburst for an otherwise thoughtful leader.
+
+> Jobs almost never lost the idea that this was a very short life and that eternity was very long.
+
+His inventions would long outlast him. Podcasting was among them.
+
+> Podcasting is a word that’s a concatenation of iPod and broadcasting.
+
+We no longer associate podcasting with an Apple product, but that's how it started. Apple obsessed over the quality of its product. Amazon similarly obsessed over the consumer. Most other companies cared about neither.
+
+> Other companies didn’t seem to care about either the consumer or the product. It sucks when people settle for an uninspiring product. Facebook comes to mind. These companies tend to see themselves as utilities. We all need electricity, so it doesn’t have to be beautiful or delightful. That’s why the electric company gets away with draping ugly wires all over beautiful cities, ruining the view.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
