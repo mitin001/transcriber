@@ -28,4 +28,8 @@ She collected her favorite coworkers at the Journal to form an internal skunkwor
 
 > A tight group of innovators who steal away from a mothership and create a smaller, faster-moving pirate ship. Our hope was to create a crack team of mouthy malcontents willing to innovate news delivery and host live events. We wanted to launch a digital-only publication with attitude and personality, and without all the meddling from those who love to meddle in a news organization.
 
+At one such live event organized by Kara, Steve Jobs called the Windows operating system _hell_ whereas his company's software gave relief to the souls damned to its eternal toil.
+
+> We’ve got cards and letters from lots of people that say iTunes is their favorite app on Windows. It’s like giving a glass of ice water to somebody in hell.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
