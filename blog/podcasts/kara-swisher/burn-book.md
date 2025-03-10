@@ -48,4 +48,20 @@ We no longer associate podcasting with an Apple product, but that's how it start
 
 > Other companies didn’t seem to care about either the consumer or the product. It sucks when people settle for an uninspiring product. Facebook comes to mind. These companies tend to see themselves as utilities. We all need electricity, so it doesn’t have to be beautiful or delightful. That’s why the electric company gets away with draping ugly wires all over beautiful cities, ruining the view.
 
+Unlike Facebook, both Apple and Amazon eventually made a transition into movie-making in a move Herman J. Mankiewicz would approve.
+
+> Millions are to be grabbed out here and your only competition is idiots.
+
+Hollywood and Silicon Valley have a lot in common. For starters, both are industries built on technology.
+
+> Like Silicon Valley, Hollywood was an industry built on tech—late-nineteenth- and early-twentieth-century tech.
+
+Silicon Valley would bring Hollywood into the twenty-first century. Streaming and outsized investment in content by tech billionaires are the latest in a long history of movie-making technology.
+
+> Movie technology evolved. Sound was added, then color. Video revolutionized TV. Cameras got smaller. Special effects got bigger. Digitalization transformed almost every aspect of the process, including cameras and editing systems and distribution. Most storytellers disdained these changes to the art form, but the smart ones knew that resistance was futile.
+
+George Lucas warned that with new innovations come new opportunities for this industry to get abused.
+
+> Digital technology is a tool. Whatever you do, it’s going to get abused. Sound was abused, color was abused, everything gets abused. But that’s just the nature of human nature: When you get a new toy, you want to use it until it breaks, and then you start to calm down.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
