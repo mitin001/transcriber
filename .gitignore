@@ -4,3 +4,4 @@ models
 public
 semantra
 .slack
+*.md.txt
