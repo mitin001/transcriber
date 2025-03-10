@@ -1,6 +1,6 @@
 # [26](https://s3.amazonaws.com/writecomments.com/transcripts/3d2e7dd435dee557cdb38be81686f003.csv). Account Takeovers
 
-For a bank account takeover, a [criminal] needs to build a fullz.
+For a bank account takeover, a [criminal] needs to build a [fullz].
 
 > TLO and Delvepoint are both skip tracing software. It delivers the complete background check of that individual. Oftentimes includes driver's license scans, socials, all these, I mean, just a complete background check. Those are outstanding if a criminal has access to it.
 
@@ -32,6 +32,7 @@ A credit freeze is one way we can protect ourselves from account takeovers.
 
 > Freeze the credit of every single person in the house. Credit freezes became free September 18th, 2018. Okay, you have to contact all three credit bureaus. They're going to try to talk you into putting some sort of credit monitoring or alert process in place. Screw that. Tell them you want a credit freeze. They're free and they work great for stopping new account fraud.
 
+[fullz]: /blog/books/cloud-storage-security/3-privacy-challenges.md
 [criminal]: /blog/podcasts/brett-johnson/21-bots.md
 <!--law-enforcement friends, or I would write a blog about that specific type of fraud, or I would do a podcast about that specific type of fraud, do some interviews, what have you. And that tended to get rid of the temptation.-->
 [manually]: /blog/books/computer-networks-tanenbaum/reading-along/top-level-navigations-data-urls.md
