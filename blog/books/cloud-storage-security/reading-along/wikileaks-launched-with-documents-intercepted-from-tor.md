@@ -12,6 +12,6 @@ So, WikiLeaks created a Tor exit node to eavesdrop on hacker traffic with the ho
 
 > Millions of secret transmissions passed through the node the WikiLeaks activist operated — believed to be an exit node. The data included sensitive information of foreign governments. The activist believed the data was being siphoned from computers around the world by hackers who appeared to be in China and who were using the Tor network to transmit the stolen data. The activist began recording the data as it passed through his node, and this became the basis for the trove of data WikiLeaks said it had “received.”
 
-Creating Tor exit nodes to eavesdrop on hacker is nothing new.
+Creating Tor exit nodes to eavesdrop on hackers is nothing new.
 
 > The description of how the documents were obtained is similar to how a Swedish computer security consultant named Dan Egerstad intercepted government data from five Tor exit nodes he set up in 2007 — months after WikiLeaks launched — in Sweden, Asia, the United States and elsewhere. Egerstad told Threat Level in August 2007 that he was able to read thousands of private e-mail messages sent by foreign embassies and human rights groups around the world by turning portions of the Tor internet-anonymity service into his own private listening post.
