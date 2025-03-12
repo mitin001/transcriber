@@ -11,4 +11,3 @@ Letting Elon into the government is a consequence of decades of the Americans' w
 Bill Maher points out that recognizing a mountain as a person is no less backward as corporate personhood.
 
 > Ancient horseshit isn't any better than its modern version, that's all I'm saying. Today in America, we have something called corporate personhood, which has gone a long way to corrupting our elections, but that's what we go by, that corporations are people. They're not, and neither are mountains.
-
