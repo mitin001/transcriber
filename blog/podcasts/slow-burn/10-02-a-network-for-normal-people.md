@@ -1,1 +1,1 @@
-# [10.02](https://slate.com/transcripts/VDl1N3AyeTRlVFhYWE1sK2UxNjFUNitmUGMvTm1CenF6eW1jdElQeG1wdz0=). A Network for Normal People
+# [10.02](https://s3.amazonaws.com/writecomments.com/transcripts/c1e14f2afeb330fd6b4d32588b013b4a.csv). A Network for Normal People
