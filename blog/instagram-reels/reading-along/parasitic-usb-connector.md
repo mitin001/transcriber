@@ -4,8 +4,8 @@ A person finds a USB drive laying around, inserts it into the computer, and sees
 
 > A software-controlled mechanical latch that prevents physical removal of a USB thumb drive.
 
-<video controls>
-  <source src="https://x.com/i/status/929177463564918784">
-</video>
+![1741928237808517240985844017947](https://github.com/user-attachments/assets/1bacf378-f832-4e86-a9df-44cee90d6b60)
+
+![17419284176604726494099661226290](https://github.com/user-attachments/assets/611ab3c1-4c99-4d63-9421-1b15be90204d)
 
 > A USB-A connector that I modified and inserted a custom-built latch/hook that you see moving.
