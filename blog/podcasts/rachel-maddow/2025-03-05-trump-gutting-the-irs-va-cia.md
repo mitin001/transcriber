@@ -10,8 +10,7 @@ He's ensuring that once he bleeds it dry, there's no more money left in it to ge
 
 The Trump administration also isn't shy about taking away essential services—and for many a way to make a living—from American veterans. This is what happens when they are allowed to rewrite history. No matter how much pain they want to cause, as long as they lie about it, the people will let them do it.
 
-> They want to fire 80,000 people from the VA, and they'll tell you they love veterans while they're doing it. The firing of 80,000 people from the VA, among other things, will be the firing of tens of thousands of veterans themselves
-who hold those jobs. But they're going to try it to see how much of that they can get away with.
+> They want to fire 80,000 people from the VA, and they'll tell you they love veterans while they're doing it. The firing of 80,000 people from the VA, among other things, will be the firing of tens of thousands of veterans themselves who hold those jobs. But they're going to try it to see how much of that they can get away with.
 
 Do not let them get away with it. Listen to the journalists reporting on the destruction of our government. For example, [Bloomberg] recently caught Trump trying to sell off government buildings.
 
