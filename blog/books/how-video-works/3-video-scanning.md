@@ -17,3 +17,5 @@ Old TVs would flicker in a similar way because there was potential for our eye t
 With new TVs, there's no more dark between the frames, so even if the image is shown for 33.3 ms, it's immediately followed by a new image so there is no flicker. Unfortunately, since so much video was created to be displayed on interlaced displays, we now see the odd lines from the previous frame superimposed with the even lines of the next frame, and the picture can look like teeth of a comb if there's enough constant between the frames (e.g., an action sequence with fast motion).
 
 > When interlaced material is presented on progressive displays, it can lead to a distracting artifact called combing. This leaves fine lines extending from areas of fast motion similar to the teeth of a comb.
+
+![17426677070621297197376569419821](https://github.com/user-attachments/assets/6264a5de-5d6c-4425-96aa-991369f61348)
