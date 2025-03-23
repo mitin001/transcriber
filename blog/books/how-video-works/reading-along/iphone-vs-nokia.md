@@ -1,6 +1,12 @@
 # [iPhone vs Nokia](https://www.reddit.com/r/interestingasfuck/comments/1jgoenr/iphone_vs_nokia/)
 
+![1742710401397511053041015984907](https://github.com/user-attachments/assets/88d7715d-ff32-4a3e-8e0e-32d52d761f08)
+
 The collective wisdom of the Internet has long held a humorous assertion that Nokia was peak cell phone technology. Validate this assertion, and the Internet will reward you. For example, [Brazilian YouTuber Uanderson Conceição went viral] by showing that by default a Nokia phone can take a crisp picture of a rotating blade while an iPhone will take a blurry one.
+
+![17427104459217973126521789510177](https://github.com/user-attachments/assets/6c812324-cf11-44e3-ac5c-31a2bc534c3e)
+
+![17427104602143629426869796883405](https://github.com/user-attachments/assets/4cf71351-8a0d-4a40-84d2-42876174c64d)
 
 A redditor explained that this was because of the sensor. Nokia used CCD, which took the picture at once, while iPhones use CMOS, which take a picture line by line, resulting in motion blur.
 
@@ -42,6 +48,6 @@ All this at the cost of some motion blur, which itself may be a feature, not a b
 
 > Sounds like a scheme from big space to keep us from photographing aliens.
 
-Here is another feature of the Internet: conspiracy theories.
+Herein lies another feature of the Internet: conspiracy theories.
 
 [Brazilian YouTuber Uanderson Conceição went viral]: https://www.instagram.com/uandersonx/reel/DF5QQh0xFIC
