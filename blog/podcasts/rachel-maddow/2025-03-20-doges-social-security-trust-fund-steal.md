@@ -12,11 +12,8 @@ And yet, they don't care about the individual nonprofits they're breaking into.
 
 > What they are doing here is not about the outcomes they are seeking. What they are doing here is all about the power they are trying to exert. They are showing you what they think they have the power to do to you.
 
-They are just sending a message of intimidation to the American people so we don't stand in their way as they transform the American form of government into a kleptocratic authoritarian regime.
+They are just sending a message of intimidation to the American people so we don't stand in their way as they transform the American form of government into a kleptocratic authoritarian regime. Congressman John Larson of Connecticut notes that they are after the Social Security trust fund.
 
-Congressman John Larson of Connecticut notes that they are after the Social Security trust fund.
-
-> What they're up to is to scuttle the agency, make it appear that it's not working and not answering people's concerns and then passing legislation that's unpaid for draining the
-Social Security trust fund. When Trump charges him with finding two trillion dollars, everybody's attention should go up.
+> What they're up to is to scuttle the agency, make it appear that it's not working and not answering people's concerns and then passing legislation that's unpaid for draining the Social Security trust fund. When Trump charges him with finding two trillion dollars, everybody's attention should go up.
 
 The Social Security trust fund is 2.7 trillion dollars. That's where Elon Musk's promise to cut government spending by 2 trillion dollars comes from. Everything else DOGE is doing is done for the purposes of distraction and intimidation.
