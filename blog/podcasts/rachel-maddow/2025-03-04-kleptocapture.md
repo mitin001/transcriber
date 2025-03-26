@@ -20,7 +20,7 @@ His death in a tragic accident was the catalyst for his secret to be exposed.
 
 > He died in that plane crash. But that speech that he had on him, he had in his pocket when he died, turns out that speech was written for him by the Nazi government, by a Nazi agent, by the Hitler government's top paid propaganda agent in the United States. Turns out that Senator Ernest Lundeen was being paid by the Nazis. He had been on Hitler's payroll the whole time.
 
-Now that we have a historic precedent to learn from, we can recognize the patterns of Trump's behavior and expose his ties to Putin while he's alive. Lundeed was never brought to justice, but Trump still can be. Do it before he wrings irreparable damage on the world. His execution of Putin's agenda to dismantle the American government is having implications on not only world peace but also world health.
+Now that we have a historic precedent to learn from, we can recognize the patterns of Trump's behavior and expose his ties to Putin while he's alive. Lundeen was never brought to justice, but Trump still can be. Do it before he wrings irreparable damage on the world. His execution of Putin's agenda to dismantle the American government is having implications on not only world peace but also world health.
 
 > USAID says we can also look forward to a 30 percent global rise in multidrug resistant tuberculosis just this year. A single case of multidrug resistant tuberculosis just for perspective here costs about one hundred and fifty thousand dollars to treat. We'll have a 30 percent rise in multidrug resistant tuberculosis worldwide this year.
 
