@@ -118,4 +118,8 @@ In tech, dudes are everywhere. Women are a vanishing minority. When Kara called 
 
 > Sandberg was the very smoothest of executives with not a hair or word out of place—she was unusually frank when I called her in 2011 to tell her that Meg Whitman had just been named the CEO of Hewlett-Packard. “Now you’ve moved down the stack to become the second most powerful woman in Silicon Valley,” I kidded her. “I’d like to be the sixth,” she responded with a sigh. “Or the fiftieth—wouldn’t that be great?”
 
+And Silicon Valley badly needed diversity. The tech bros were running out of ideas.
+
+> Early Twitter looked an awful lot like current Twitter, where doubling the number of allowed characters counted as innovation.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
