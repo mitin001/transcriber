@@ -62,6 +62,26 @@ Facebook pushed the boundaries on how much it could abuse its users' data and st
 
 > Internal texts from Zuckerberg revealed his true feelings about users who handed over data so easily. “They ‘trust me,’ dumb fucks,” he wrote.
 
+What could go wrong?
+
+> Facebook was moving toward becoming a mecca for those intent on destruction.
+
+Then, Zuckerberg wrote an essay saying he was uncomfortable with making content moderation decisions.
+
+> I feel fundamentally uncomfortable sitting here in California at an office, making content policy decisions for people around the world. But things like, where is the line on hate speech? I mean, who chose me.
+
+Kara responded.
+
+> Well, Mark, you did.
+
+If Zuckerberg wanted to make a social-media platform, he had to do it well, including the parts that made it safe for its users. But safe it was not.
+
+> They didn’t handle the propaganda. Not from the Russians. Not in Iran. And not in Sri Lanka, where a Buddhist mob attacked Muslims over false information spread on Facebook.
+
+Nothing has ever happened to Zuckerberg and his ilk that made them feel unsafe, so they though the world was safe for everyone.
+
+> The innovators and executives ignored issues of safety not because they were necessarily awful, but because they had never felt unsafe a day in their lives. Their personal experience informed the development of unfettered platforms. And, in turn, this inability to understand the consequences of their inventions began to curdle the sunny optimism of tech that had illuminated the sector.
+
 Kara describes Zuckerberg as an arrogant cretin.
 
 > Frequently wrong, but never in doubt.
