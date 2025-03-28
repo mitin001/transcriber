@@ -20,9 +20,13 @@ She also wanted to do reported analysis. That is, she wanted to play the role of
 
 > I wanted to write what I knew based on careful reporting, the network of sources I’d built, and the expertise I’d acquired. I started calling it “reported analysis” to distinguish my take from the ill-informed punditry that had been littering the media landscape.
 
-Kara worked for the Wall Street Journal, whose parent company was Dow Jones, but not for long.
+Kara worked for the Wall Street Journal, whose parent company was Dow Jones, but not for too long.
 
 > We wanted to move on from a soured relationship with Dow Jones.
+
+Eventually, she would even amass enough capital to try to buy what she had created for the Wall Street Journal, but its billionaire owner refused to sell to her.
+
+> We later tried to buy the AllThingsD URL and feed, offering Dow Jones a sum of just under $1 million, which was generous. They countered that Murdoch wanted more like $10 million, which was laughable. “I could buy Fuckyourupert.com for $10,” I told the News Corp minion, who chortled quietly.
 
 She walked away from those jobs where her supervisors didn't let her to lean into her domain expertise and tried to limit her to being a reporter and nothing more.
 
