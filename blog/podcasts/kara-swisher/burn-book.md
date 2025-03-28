@@ -64,4 +64,12 @@ George Lucas warned that with new innovations come new opportunities for this in
 
 > Digital technology is a tool. Whatever you do, it’s going to get abused. Sound was abused, color was abused, everything gets abused. But that’s just the nature of human nature: When you get a new toy, you want to use it until it breaks, and then you start to calm down.
 
+Christopher Nolan resented the move to streaming services, particularly when HBO became HBO Max.
+
+> Some of our industry’s biggest filmmakers and most important movie stars went to bed the night before thinking they were working for the greatest movie studio and woke up to find out they were working for the worst streaming service.
+
+Hollywood incumbents in the filmmaking scene now has to compete with tech-bro disrupters that had questionable taste.
+
+> Hulu’s name came from two Mandarin Chinese words for gourd, as in holder of precious things.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
