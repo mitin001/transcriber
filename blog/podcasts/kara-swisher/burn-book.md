@@ -48,6 +48,26 @@ We no longer associate podcasting with an Apple product, but that's how it start
 
 > Other companies didn’t seem to care about either the consumer or the product. It sucks when people settle for an uninspiring product. Facebook comes to mind. These companies tend to see themselves as utilities. We all need electricity, so it doesn’t have to be beautiful or delightful. That’s why the electric company gets away with draping ugly wires all over beautiful cities, ruining the view.
 
+Facebook pushed the boundaries on how much it could abuse its users' data and still get away with it.
+
+> Internal texts from Zuckerberg revealed his true feelings about users who handed over data so easily. “They ‘trust me,’ dumb fucks,” he wrote.
+
+Kara describes Zuckerberg as an arrogant cretin.
+
+> Frequently wrong, but never in doubt.
+
+Kara was offered to work for Zuckerberg, but she declined opting to make piles of money her own way, in which she got to keep her integrity.
+
+> I was offered a job by one of Mark’s underlings who thought I should come and work on unspecific “editorial” issues. “Do they even care about editorial, about journalism, about anything except letting the algorithm rule?” I asked the executive, arrogantly astride my very high media horse. “No, but you could buy a Gulfstream someday,” he replied. Fair point, but it was lost on me. Coach was fine, and, perhaps someday, first class. And, best of all, I would not have to sit there and nod my head eagerly to a CEO yammering fifteen years later about pivoting Facebook into an all-encompassing virtual reality experience.
+
+The piles would be smaller, but the upside was larger.
+
+> Instead of having piles of money to jump in, I get to say: Fuck your metaverse, Mark.
+
+And yet, most people would still prefer piles of cash every time.
+
+> When the truth stands between a man and his next $100 million, the truth is always going to be escorted off the premises.
+
 Unlike Facebook, both Apple and Amazon eventually made a transition into movie-making in a move Herman J. Mankiewicz would approve.
 
 > Millions are to be grabbed out here and your only competition is idiots.
