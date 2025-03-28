@@ -92,4 +92,20 @@ Hollywood incumbents in the filmmaking scene now has to compete with tech-bro di
 
 > Hulu’s name came from two Mandarin Chinese words for gourd, as in holder of precious things.
 
+The tech-bro era brought us subscription services and apps. One of these apps was Uber. This company's CEO Travis Kalanick wanted to transform the world into a place where no one had to own a car and instead paid Uber for transportation.
+
+> The reason Uber could be expensive is because you’re not just paying for the car—you’re paying for the other dude in the car. When there’s no other dude in the car, the cost of taking an Uber anywhere becomes cheaper than owning a vehicle.
+
+Uber would become a subscription service for people's transportation needs.
+
+> The magic there is, you basically bring the cost below the cost of ownership for everybody, and then car ownership goes away.
+
+While describing his company's objective, his resentment of the common man, one who was driving for Uber in the meantime, shined through.
+
+> Kalanick was actively bragging about using people—or rather “dudes”—as fodder until it was easier and cheaper to replace them with a machine. And it was a day he actually looked forward to.
+
+In tech, dudes are everywhere. Women are a vanishing minority. When Kara called Sheryl Sandberg to celebrate the news of a woman becoming CEO of a tech company for once, Sandberg shared her dream of seeing herself alongside many smart women in the industry, not just a handful.
+
+> Sandberg was the very smoothest of executives with not a hair or word out of place—she was unusually frank when I called her in 2011 to tell her that Meg Whitman had just been named the CEO of Hewlett-Packard. “Now you’ve moved down the stack to become the second most powerful woman in Silicon Valley,” I kidded her. “I’d like to be the sixth,” she responded with a sigh. “Or the fiftieth—wouldn’t that be great?”
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
