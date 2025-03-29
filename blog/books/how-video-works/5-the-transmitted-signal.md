@@ -10,6 +10,8 @@ Data can be carried by radiation of any frequency, including visible light. Find
 
 Fiber optics of today are much more advanced than photophones of Alexander Bell. The fiber optic cables of today can be multimode: the light in them splits into frequency bands, each of which reflects off the coating at a different angle.
 
+![17432277472651481328982385812330](https://github.com/user-attachments/assets/b3f71fde-b010-448d-ad34-1b4024a42fd7)
+
 > Because the core of multimode fiber is much thicker than single mode, as the light is reflected internally some part of the light takes a longer path to the other end. As the light spreads out the waves break into multiple “modes” of propagation. Multimode fibers are capable of carrying more data than single-mode fibers.
 
 The light in a fiber-optic cable has to be reamplified every few km. The thinner the cable, the further it can transmit without reamplification. The higher bandwidth of a thicker cable comes at a cost of its faster attenuation.
