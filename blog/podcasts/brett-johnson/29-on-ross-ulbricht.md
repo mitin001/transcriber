@@ -6,8 +6,9 @@ Bitcoin owes its popularity to marketplaces that sold illegal things (e.g., Silk
 
 The marketplace operated successfully for some time before its owner slipped up. Ulbricht made a [post on BitcoinTalk] looking to recruit a person with Bitcoin knowledge into what was obviously Silk Road, and he used his real name in the email address he gave in the post (rossulbricht@gmail.com). This is how law enforcement learned of the identity of the person in charge of Silk Road.
 
-> Everybody else trying to break out of prison. You're trying
-to break into prison.
+![17432238383412224773276909568443](https://github.com/user-attachments/assets/aef02836-656d-43f1-ab34-31d071c4e782)
+
+> Everybody else trying to break out of prison. You're trying to break into prison.
 
 His arrest involved an undercover DEA agent participating in a scheme where Ulbricht thought he was hiring a hitman. This is similar to the way undercover cops arrest disgruntled husbands willing to hire hitmen to kill their wives.
 
