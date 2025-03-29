@@ -1,6 +1,8 @@
 # [Burn Book]
 
-Kara is a reporter and an investigative journalist. When she heard rumors of the AOL merger with Time Warner, she used instant messaging to bluff AOL executives into confirming them.
+> Doctors discovered that I had a hole in my heart, which apparently is common—20 percent of people are born with a small or large hole in their heart (which is something more than one of my exes had told me).
+
+Kara is not just a woman that both figuratively (if you believe her exes) and literally (if you believe her doctors) has a hole in her heart. She is also a reporter and an investigative journalist. An excellent one. When she heard rumors of the AOL merger with Time Warner, she used instant messaging to bluff AOL executives into confirming them.
 
 > I fired up my AOL software and started directly writing them via AIM, its instant messenger service. Since the top leaders followed me and I followed them back, I could see that they were all online, even though it was already late in San Francisco and the middle of the night back East. “We know,” I typed into the boxes to them, figuring it would be more effective to bluff them into a confession rather than pussyfoot around. Immediately, there was the loud series of digital door slams, which was AOL’s noise when someone closed out their IMs. Luckily, one exec wrote back: “How did you find out?”
 
@@ -19,6 +21,14 @@ She started in print journalism but pushed for the exploration of digital.
 She also wanted to do reported analysis. That is, she wanted to play the role of both a reporter and an expert. This is a rare intersection of talents, and Kara knew she had to lean into them even if it meant walking away from jobs.
 
 > I wanted to write what I knew based on careful reporting, the network of sources I’d built, and the expertise I’d acquired. I started calling it “reported analysis” to distinguish my take from the ill-informed punditry that had been littering the media landscape.
+
+Kara worked for the Wall Street Journal, whose parent company was Dow Jones, but not for too long.
+
+> We wanted to move on from a soured relationship with Dow Jones.
+
+Eventually, she would even amass enough capital to try to buy what she had created for the Wall Street Journal, but its billionaire owner refused to sell to her.
+
+> We later tried to buy the AllThingsD URL and feed, offering Dow Jones a sum of just under $1 million, which was generous. They countered that Murdoch wanted more like $10 million, which was laughable. “I could buy Fuckyourupert.com for $10,” I told the News Corp minion, who chortled quietly.
 
 She walked away from those jobs where her supervisors didn't let her to lean into her domain expertise and tried to limit her to being a reporter and nothing more.
 
@@ -48,6 +58,46 @@ We no longer associate podcasting with an Apple product, but that's how it start
 
 > Other companies didn’t seem to care about either the consumer or the product. It sucks when people settle for an uninspiring product. Facebook comes to mind. These companies tend to see themselves as utilities. We all need electricity, so it doesn’t have to be beautiful or delightful. That’s why the electric company gets away with draping ugly wires all over beautiful cities, ruining the view.
 
+Facebook pushed the boundaries on how much it could abuse its users' data and still get away with it.
+
+> Internal texts from Zuckerberg revealed his true feelings about users who handed over data so easily. “They ‘trust me,’ dumb fucks,” he wrote.
+
+What could go wrong?
+
+> Facebook was moving toward becoming a mecca for those intent on destruction.
+
+Then, Zuckerberg wrote an essay saying he was uncomfortable with making content moderation decisions.
+
+> I feel fundamentally uncomfortable sitting here in California at an office, making content policy decisions for people around the world. But things like, where is the line on hate speech? I mean, who chose me.
+
+Kara responded.
+
+> Well, Mark, you did.
+
+If Zuckerberg wanted to make a social-media platform, he had to do it well, including the parts that made it safe for its users. But safe it was not.
+
+> They didn’t handle the propaganda. Not from the Russians. Not in Iran. And not in Sri Lanka, where a Buddhist mob attacked Muslims over false information spread on Facebook.
+
+Nothing has ever happened to Zuckerberg and his ilk that made them feel unsafe, so they though the world was safe for everyone.
+
+> The innovators and executives ignored issues of safety not because they were necessarily awful, but because they had never felt unsafe a day in their lives. Their personal experience informed the development of unfettered platforms. And, in turn, this inability to understand the consequences of their inventions began to curdle the sunny optimism of tech that had illuminated the sector.
+
+Kara describes Zuckerberg as an arrogant cretin.
+
+> Frequently wrong, but never in doubt.
+
+Kara was offered to work for Zuckerberg, but she declined opting to make piles of money her own way, in which she got to keep her integrity.
+
+> I was offered a job by one of Mark’s underlings who thought I should come and work on unspecific “editorial” issues. “Do they even care about editorial, about journalism, about anything except letting the algorithm rule?” I asked the executive, arrogantly astride my very high media horse. “No, but you could buy a Gulfstream someday,” he replied. Fair point, but it was lost on me. Coach was fine, and, perhaps someday, first class. And, best of all, I would not have to sit there and nod my head eagerly to a CEO yammering fifteen years later about pivoting Facebook into an all-encompassing virtual reality experience.
+
+The piles would be smaller, but the upside was larger.
+
+> Instead of having piles of money to jump in, I get to say: Fuck your metaverse, Mark.
+
+And yet, most people would still prefer piles of cash every time.
+
+> When the truth stands between a man and his next $100 million, the truth is always going to be escorted off the premises.
+
 Unlike Facebook, both Apple and Amazon eventually made a transition into movie-making in a move Herman J. Mankiewicz would approve.
 
 > Millions are to be grabbed out here and your only competition is idiots.
@@ -63,5 +113,33 @@ Silicon Valley would bring Hollywood into the twenty-first century. Streaming an
 George Lucas warned that with new innovations come new opportunities for this industry to get abused.
 
 > Digital technology is a tool. Whatever you do, it’s going to get abused. Sound was abused, color was abused, everything gets abused. But that’s just the nature of human nature: When you get a new toy, you want to use it until it breaks, and then you start to calm down.
+
+Christopher Nolan resented the move to streaming services, particularly when HBO became HBO Max.
+
+> Some of our industry’s biggest filmmakers and most important movie stars went to bed the night before thinking they were working for the greatest movie studio and woke up to find out they were working for the worst streaming service.
+
+Hollywood incumbents in the filmmaking scene now has to compete with tech-bro disrupters that had questionable taste.
+
+> Hulu’s name came from two Mandarin Chinese words for gourd, as in holder of precious things.
+
+The tech-bro era brought us subscription services and apps. One of these apps was Uber. This company's CEO Travis Kalanick wanted to transform the world into a place where no one had to own a car and instead paid Uber for transportation.
+
+> The reason Uber could be expensive is because you’re not just paying for the car—you’re paying for the other dude in the car. When there’s no other dude in the car, the cost of taking an Uber anywhere becomes cheaper than owning a vehicle.
+
+Uber would become a subscription service for people's transportation needs.
+
+> The magic there is, you basically bring the cost below the cost of ownership for everybody, and then car ownership goes away.
+
+While describing his company's objective, his resentment of the common man, one who was driving for Uber in the meantime, shined through.
+
+> Kalanick was actively bragging about using people—or rather “dudes”—as fodder until it was easier and cheaper to replace them with a machine. And it was a day he actually looked forward to.
+
+In tech, dudes are everywhere. Women are a vanishing minority. When Kara called Sheryl Sandberg to celebrate the news of a woman becoming CEO of a tech company for once, Sandberg shared her dream of seeing herself alongside many smart women in the industry, not just a handful.
+
+> Sandberg was the very smoothest of executives with not a hair or word out of place—she was unusually frank when I called her in 2011 to tell her that Meg Whitman had just been named the CEO of Hewlett-Packard. “Now you’ve moved down the stack to become the second most powerful woman in Silicon Valley,” I kidded her. “I’d like to be the sixth,” she responded with a sigh. “Or the fiftieth—wouldn’t that be great?”
+
+And Silicon Valley badly needed diversity. The tech bros were running out of ideas.
+
+> Early Twitter looked an awful lot like current Twitter, where doubling the number of allowed characters counted as innovation.
 
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
