@@ -2,8 +2,7 @@
 
 America celebrates 250 years of independence from a king as it's overtaken by another king.
 
-> Because of where we are in the calendar, we are now starting to have lots of commemorations of things related to the 250th anniversary of the founding of our country. Our revolt against a tyrannical leader who ruled by fiat, the founding of our democracy and our divided system of government with its checks and balances to prevent the emergence of another king. Lots of anniversaries, lots of historical commemorative events coming up on this theme.
-Just a note, if you are a politician who's going to try to associate yourself with that history, do be aware that your relationship to our current struggles along these lines in this country to hold on to our democracy, that will undoubtedly be front of mind for many of your constituents.
+> Because of where we are in the calendar, we are now starting to have lots of commemorations of things related to the 250th anniversary of the founding of our country. Our revolt against a tyrannical leader who ruled by fiat, the founding of our democracy and our divided system of government with its checks and balances to prevent the emergence of another king. Lots of anniversaries, lots of historical commemorative events coming up on this theme. Just a note, if you are a politician who's going to try to associate yourself with that history, do be aware that your relationship to our current struggles along these lines in this country to hold on to our democracy, that will undoubtedly be front of mind for many of your constituents.
 
 As the new king dismantles the old government, he privatizes the services that were enshrined in the Constitution of the old government. For example, one such service is the post office. The American post office was a gift given to generations of Americans by Benjamin Franklin.
 
@@ -11,13 +10,13 @@ As the new king dismantles the old government, he privatizes the services that w
 
 Elon Musk's DOGE is the agency in our new authoritarian government tasked with dismantling the post office and other parts of the government that have served us for 250 years. Elon Musk is the CEO of Tesla, and people are making their voices heard on what they think about his cars now that they're tainted by this fascist mess.
 
+![17433580700861713115824998470672](https://github.com/user-attachments/assets/a9d16599-80a8-4458-9b47-12c39491a73b)
+
 > I never thought that _fastest_ was an imperfect homophone for _fascist_, but I guess it is, and now I can't stop thinking about it.
 
 Meanwhile, America becomes ever more vulnerable to attacks from foreign powers as it shows the world where to read its military secrets. At the same time, it loses the trust of its ever decreasing number of allies.
 
-> Washington has just been rocked by this insane story of Trump's National Security Advisor, his Secretary of Defense, his Intelligence Director, his CIA Director, his
-Secretary of State, his Treasury Secretary and apparently the guy in charge of everything at the actual White House, whose name is Stephen Miller, all participating apparently in a group text over Signal in which they circulated detailed war plans and apparently classified information about a
-military attack in Yemen. They did it in a group text and the reason we know is because they accidentally included the editor-in-chief of the Atlantic magazine in the group text while they were planning that military operation.
+> Washington has just been rocked by this insane story of Trump's National Security Advisor, his Secretary of Defense, his Intelligence Director, his CIA Director, his Secretary of State, his Treasury Secretary and apparently the guy in charge of everything at the actual White House, whose name is Stephen Miller, all participating apparently in a group text over Signal in which they circulated detailed war plans and apparently classified information about a military attack in Yemen. They did it in a group text and the reason we know is because they accidentally included the editor-in-chief of the Atlantic magazine in the group text while they were planning that military operation.
 
 The military secrets are available on a smartphone app called Signal, and if you're a third party like, say, a journalist from the Atlantic magazine, you'll get an invite.
 
