@@ -14,7 +14,7 @@ Fox News employees were beginning to notice it, too.
 
 The news alert was a tired scaremongering trope: a peryson break.
 
-> They cut to Katherine Cryer, who was one of the other anchors, and she starts to deliver something about a prison break.
+> They cut to Catherine Crier, who was one of the other anchors, and she starts to deliver something about a prison break.
 
 This was presented like a breaking news alert, but in reality it was an advertising stunt, a hoax.
 

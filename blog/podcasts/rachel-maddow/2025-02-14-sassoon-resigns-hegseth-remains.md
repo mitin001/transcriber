@@ -1,12 +1,12 @@
 # [2025-02-14](https://s3.amazonaws.com/writecomments.com/transcripts/5454e77782d837628b7f6b0e11cb901c.csv): Trump appointees resign only for moral reasons, never for incompetence
 
-U.S. Attorney for the Southern District of New York Danielle Sassoon wrote a [memo] to Trump-appointed Attorney General Pam Bondi in response to being ordered by Main Justice and associate deputy attorney general Emil Bove to drop corruption charges against Mayor Adams so the Trump administration can hold this over his head should he have any qualms about advancing their policy priorities.
+The [legislative branch] has folded. Now the [judicial branch] is our last line of defense from Trump's fascist takeover of the U.S. government. U.S. Attorney for the Southern District of New York Danielle Sassoon wrote a [memo] to Trump-appointed Attorney General Pam Bondi in response to being ordered by Main Justice and associate deputy attorney general Emil Bove to drop corruption charges against Mayor Adams so the Trump administration can hold this over his head should he have any qualms about advancing their policy priorities.
 
 > The reasons advanced by Mr. Bove for dismissing the indictment are not ones I can in good faith defend as in the public interest and as consistent with the principles of impartiality and fairness that guide my decision-making. First, Mr. Bove proposes dismissing the charges against Adams in return for his assistance in enforcing the federal immigration laws.
 
 Breaking the news of Danielle Sassoon's resignation, Rachel Maddow read parts of her memo on her air.
 
-> Adams has argued in substance—and Mr. Bove appears prepared to concede—that Adams should receive leniency for federal crimes solely because he occupies an important public position and can use that position to assist in the Administration's policy priorities.
+> Adams has argued in substance — and Mr. Bove appears prepared to concede — that Adams should receive leniency for federal crimes solely because he occupies an important public position and can use that position to assist in the Administration's policy priorities.
 
 In her resignation memo, Danielle Sassoon quoted Pam Bondi to herself.
 
@@ -16,14 +16,24 @@ She acknowledged that she herself was a Trump appointee, but unlike Pam Bondi, D
 
 > I understand my duty as a prosecutor to mean enforcing the law impartially, and that includes prosecuting a validly returned indictment regardless whether its dismissal would be politically advantageous, to the defendant or to those who appointed me.
 
-The theme of Trump's Presidency is a Survivor-style battle for who can remain on the game the longest despite the intensifying stretch of immorality. When his appointees discover their morals, they resign. This means that those who have no morals will remain there until the end, even if they discover their incompetence early on. Rachel Maddow reported on Pete Hegseth's fumbling of the U.S. preparations to attend peace talks between Ukraine and Russia.
+Trump enables [the worst of human instincts]. He knows that one [can do anything if unencumbered by morals]. The theme of Trump's Presidency is a Survivor-style battle for who can remain on the game the longest despite the intensifying stretch of immorality. When his appointees discover their morals, they resign. This means that those who have no morals will remain there until the end, even if they discover their incompetence early on. Rachel Maddow reported on Pete Hegseth's fumbling of the U.S. preparations to attend peace talks between [Ukraine and Russia].
 
 > Pete Hegseth having essentially told the world that Ukraine needed to give away all of its leverage in any potential peace negotiations with Russia ahead of those peace negotiations starting.
 
 Maddow reminded the viewers why Hegseth wasn't right for the job in the first place.
 
-> Oops, did I mess that up? On Fox and Friends Weekend, we just do another take.
+> Oops, did I mess that up? On _Fox and Friends Weekend_, we just do another take.
 
 His resume as a talk show host did not give him the experience needed to be a United States Secretary of Defense.
 
 [memo]: https://www.presidency.ucsb.edu/documents/letter-from-us-attorney-for-the-southern-district-new-york-danielle-sassoon-attorney
+[judicial branch]: /blog/podcasts/rachel-maddow/2025-02-06-judicial-branch-tries-to-defend-us-govt-from-fascist-takeover.md
+<!--0.29--Not to mention the reputational damage of America where it is no longer the land of opportunity for people fleeing oppressive regimes elsewhere.-->
+[legislative branch]: /blog/podcasts/rachel-maddow/2025-03-13-cuts-to-social-security-and-noaa.md
+<!--0.36--knew that the executive branch does not have total authority over the legislature unless you have a willing party that says, no, we’re gonna do exactly what you tell us to do, Mr. Musk and Mr. President.-->
+[the worst of human instincts]: /blog/podcasts/pivot/2025-01-24-trumps-kleptocracy-race-to-the-bottom.md
+<!--0.57--By playing into the worst human instincts, he shows that stealing is how we survive in this country while simultaneously breaking down the institutions that could prevent this.-->
+[can do anything if unencumbered by morals]: /blog/podcasts/succession/2023-05-14-ep-4-8.md
+<!--0.44--Roman Roy of Succession tells his newsroom to prematurely declare a candidate he favors to be a winner of the presidential election, which will likely sway judges in favor of this candidate even if he hasn’t gotten enough votes to win.-->
+[Ukraine and Russia]: /blog/podcasts/rachel-maddow/2025-03-04-kleptocapture.md
+<!--0.51--He wanted to coerce the Great Britain into giving the US their land in exchange for our assistance in their defense from the Nazis. Trump is slapping a similar insult on a country fighting off an invasion in the 21st century.-->
