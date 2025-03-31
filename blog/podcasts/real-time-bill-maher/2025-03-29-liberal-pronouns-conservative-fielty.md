@@ -17,4 +17,3 @@ Our predecessors have gotten used to using _you_ in the singular, so why should 
 > And then people started using _you_ in the singular. There were people writing whole pamphlets. _Don't you know the difference? Don't you understand grammar?_ And now, here we are. And now there's the _they_ thing. And so the idea is that we're questioning our notion, not of biological sex, but of gender identity.
 
 Don't kiss up to Trump because he represents the curdgeonly movement resisting change that would benefit people on the margins of gender identity. Don't kiss up to anyone. Don't be a follower, be a leader.
-
