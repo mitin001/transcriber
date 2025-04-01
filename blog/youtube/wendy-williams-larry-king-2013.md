@@ -10,8 +10,7 @@ Wendy Williams sees pop culture as a rich source of ice breakers for those of us
 
 Hot topics from pop culture do not threaten people as much as political opinions.
 
-> Hot topics are a very common non-threatening thing to mention. You go to a dinner party and you talk about Syria.
-Well, now you have political opinions.
+> Hot topics are a very common non-threatening thing to mention. You go to a dinner party and you talk about Syria. Well, now you have political opinions.
 
 Pop culture can be a gateway into a conversation.
 
