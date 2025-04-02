@@ -146,4 +146,26 @@ And Silicon Valley badly needed diversity. The tech bros were running out of ide
 
 > Early Twitter looked an awful lot like current Twitter, where doubling the number of allowed characters counted as innovation.
 
+And late Twitter became a wasteland of conspiracy theories from MAGA morons, thanks in large part to its acquisition by Elon Musk. This man is a classic case of a malignant narcissist where he pretends to be a hero before letting his inner ugliness explode in our faces. Musk originally charmed even Kara Swisher.
+
+> I’ve said I want to die on Mars, just not on impact.
+
+But the charm offensive didn't last long. Watch a narcissist long enough, and red flags will come flying one day. When Kara approached several high-profile people to record a cameo for her retiring colleague Walt Mossberg, Elon Musk showed his true colors.
+
+> Everyone I approached about recording a question for Walt said yes, including Sheryl Sandberg, Mark Cuban, and Tim Cook. I called Musk with the same simple request, noting that he could record it quickly on his phone and ask Walt anything. The reply came as a shock. “Is this the same Walt that attacked me on Twitter?”
+
+Apparently, if you say anything that could be perceived as remotely negative about anything connected to him, even if true and fair, even if it's a reporter saying it, in his mind Musk will twist it to be an attack and forever hold a grudge.
+
+> All he said was that Tesla was trading on future hopes and dreams rather than real fundamentals. Musk’s overreaction indicated that he had the thinnest of skins. Thinner, apparently. He responded to my defense of Walt: “ ‘As per usual.’ Kara, don’t ever email me again.” So, I did not, as it was so ridiculously juvenile, like arguing with an overly sensitive seventh grader.
+
+And if you defend said reporter, Musk will lash out at you, too, in the most juvenile of ways. And now this juvenile cretin heads a department of the US government much to its great detriment. Kara saw the danger in overconfident dumbasses drowning out competent voices early on.
+
+> Most techies now dabbling in media are arrogant amateurs who think that because they excel in one area they are masters of all domains, when what they really are is just incompetent at giving any insight or illumination beyond their own narrow self-interests. Do we want to know what some loudmouthed VC with no expertise thinks about Covid or Ukraine or the tragedy unfolding in the fall of 2023 in Israel, without any self-reflection of their own role in cheapening discourse? Take a seat, boys.
+
+Kara also saw a danger in AI because of the misplaced trust of the people using it.
+
+> The dangers of very large language models to both take over all thinking and also vomit up endless misinformation.
+
+If they take it at its word, they become misinformed. If they outsource all their thinking to it, they become dependent on it and unable to function without it. Let reporters and journalists warn us of the bleak future they see unfolding for humanity and let their expert-informed analysis serve as the guide to save us from it.
+
 [Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
