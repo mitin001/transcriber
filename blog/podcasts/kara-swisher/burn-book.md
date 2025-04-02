@@ -122,7 +122,11 @@ Hollywood incumbents in the filmmaking scene now has to compete with tech-bro di
 
 > Hulu’s name came from two Mandarin Chinese words for gourd, as in holder of precious things.
 
-The tech-bro era brought us subscription services and apps. One of these apps was Uber. This company's CEO Travis Kalanick wanted to transform the world into a place where no one had to own a car and instead paid Uber for transportation.
+The tech-bro era brought us subscription services and apps.
+
+> Over the years, Silicon Valley had become full of smart people working on stupid things like online laundry services and food delivery apps and weird hook-up software—so much so that I had taken to describing the world they were creating as “assisted living for millennials.”
+
+Another one of these apps was Uber. This company's CEO Travis Kalanick wanted to transform the world into a place where no one had to own a car and instead paid Uber for transportation.
 
 > The reason Uber could be expensive is because you’re not just paying for the car—you’re paying for the other dude in the car. When there’s no other dude in the car, the cost of taking an Uber anywhere becomes cheaper than owning a vehicle.
 
