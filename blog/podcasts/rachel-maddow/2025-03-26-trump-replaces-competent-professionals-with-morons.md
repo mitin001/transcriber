@@ -7,4 +7,3 @@ Trump orders government-sponsored research to back the claims of the anti-vax mo
 Meanwhile, Trump also replaces Defense Department professionals that respected security protocols with morons who ignore them.
 
 > Last week, all Defense Department personnel received an advisory warning them that they should not use the app Signal, even for unclassified information, not because of the security of Signal as an app per se, but because Russian professional hacking groups were targeting Signal users with phishing attacks. That was last week. That followed a Defense Department instruction from two years ago in 2023 that reminded Defense Department personnel that Signal should not be used. It could not be used for any non-public Defense Department information. Nevertheless, Signal, of course, is the app on which Donald Trump's hand-picked Defense Secretary led a robust and detailed group chat about forthcoming military strikes in Yemen.
-
