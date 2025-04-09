@@ -1,11 +1,16 @@
 # 2. Single-Qubit Quantum Systems
 
+![17441708595118184185529712689343](https://github.com/user-attachments/assets/02b0443c-c82c-4aa1-994e-3eed792ec6ab)
+
 > Single polaroid attenuates unpolarized light by 50 percent.
 
 Every photon has a polarization. It is a superposition of horizontal and vertical. If the photon's polarization is more horizonal than vertical, it is then more likely to align itself into the horizontal direction of the polaroid. If it's more vertical than horizontal, then it's more likely to get absorbed by the horizontally polarized polaroid. On average, 50% of photons are absorbed and the other 50% pass through.
 
-> The polaroid has a preferred axis, its polarization. When a photon with polarization |v⟩ = a|↑⟩ + b|→⟩ meets a polaroid with preferred axis |↑⟩, the photon will get through with probability |a|² and will be absorbed with probability |b|²; the probability that a photon passes through the polaroid is the square of the magnitude of the amplitude of its polarization in the direction of the polaroid’s preferred axis. The probability that the photon is absorbed by the polaroid is the square of the magnitude of the amplitude in the direction perpendicular to the polaroid’s preferred axis.
-Furthermore, any photon that passes through the polaroid will now be polarized in the direction of the polaroid’s preferred axis.
+![17441708943164252045026899297282](https://github.com/user-attachments/assets/4b6cbe11-5fea-4edc-8088-0848f62177e5)
+
+> The polaroid has a preferred axis, its polarization. When a photon with polarization |v⟩ = a|↑⟩ + b|→⟩ meets a polaroid with preferred axis |↑⟩, the photon will get through with probability |a|² and will be absorbed with probability |b|²; the probability that a photon passes through the polaroid is the square of the magnitude of the amplitude of its polarization in the direction of the polaroid’s preferred axis. The probability that the photon is absorbed by the polaroid is the square of the magnitude of the amplitude in the direction perpendicular to the polaroid’s preferred axis. Furthermore, any photon that passes through the polaroid will now be polarized in the direction of the polaroid’s preferred axis.
+
+![17441709374557180774722496938962](https://github.com/user-attachments/assets/3c1b4fc8-a54b-4cb7-8863-cb7800647156)
 
 The photons leaving polaroid A are polarized in a direction of its polarization, orthogonal to polaroid B.
 
@@ -16,6 +21,8 @@ Since all the photons are now deterministically horizontal, all of them are abso
 > Any photons that pass through polaroid A will leave polarized in the direction of polaroid A’s preferred axis, in this case horizontal, |→⟩. A horizontally polarized photon has no amplitude in the vertical direction, so it has no chance of passing through polaroid C, which was given a vertical orientation. For this reason, no light reaches the screen. Had polaroid C been in any other orientation, a horizontally polarized photon would have some amplitude in the direction of polaroid C’s preferred axis, and some photons would reach the screen.
 
 If we repolarize the photons to be a superposition of vertical and horizontal polarizations, then we will allow a certain percentage of photons to align itself with the vertical direction of polaroid C and pass through it.
+
+![17441711721136046346806336120337](https://github.com/user-attachments/assets/4361d359-8ba7-4969-b50a-f127969f4357)
 
 > At most polarization angles of B, light shines on the screen. The intensity of this light will be maximal if the polarization of B is at 45 degrees to both A and C.
 
@@ -59,7 +66,7 @@ The particles can have similar axis superposition proportions but be pointed in 
 
 > We refer to the state space of a single-qubit system as the surface of the Bloch sphere.
 
-Figure.
+![17441711945082566051842263897540](https://github.com/user-attachments/assets/6053dd2e-49aa-4548-b461-c3efb5277e37)
 
 > Orthogonal states correspond to antipodal points of the Bloch sphere. In particular, every diameter of the Bloch sphere corresponds to a basis for the single-qubit state space.
 
