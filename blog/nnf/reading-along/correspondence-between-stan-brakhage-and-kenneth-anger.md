@@ -1,5 +1,7 @@
 # [Correspondence between Brakhage and Anger](https://desistfilm.com/rabbits-moon-a-brief-but-consequential-correspondence-between-stan-brakhage-and-kenneth-anger/)
 
+![17442985531058573930841173198730](https://github.com/user-attachments/assets/55f96109-7aff-455d-8d83-ee42aa4a995e)
+
 When communication channels close, opportunities get missed and life is lived in emptiness.
 
 > Across a short series of letters, the two artists go from deep admiration and love to vicious rage and profound hurt, and the result would be a loss to film history and scholarship.
