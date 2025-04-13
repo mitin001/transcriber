@@ -14,6 +14,10 @@ Echoes of Soviet experiments on the revival of dogs drained of blood by Sergei B
 
 https://github.com/user-attachments/assets/b850a62a-54a5-4aa2-b044-7bcb5db8c89a
 
+Sometimes the SOVSEC team leaves us with little room for subtlety. For example, we once see white powder coming out of the newspaper with the word Deutsch printed on it.
+
+https://github.com/user-attachments/assets/e0a81947-56e7-479b-a77f-4b6e3434998b
+
 Elsewhere in the documentary we see glimpses of old Soviet technology (e.g., old [circuit breaker] panels).
 
 https://github.com/user-attachments/assets/b6e8d68b-4a75-4afe-b458-b0c6ab91a287
