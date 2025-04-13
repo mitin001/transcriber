@@ -10,6 +10,10 @@ There is overlap in the libraries of archival footage between SOVSEC films and N
 
 https://github.com/user-attachments/assets/a717e308-e3fb-4cbb-ac9f-f42b284646ab
 
+Aside from this overlap, there is plenty of other interesting footage in this documentary. For example, we see an illustration of the cult of Stalin as his face was lifted up by giant air balloons into the sky in [1927].
+
+https://github.com/user-attachments/assets/af8d2f11-bf99-4329-afda-0f8fa83d616a
+
 Echoes of Soviet experiments on the revival of dogs drained of blood by Sergei Brukhonenko or dog head transplants by Vladimir Demikhov continue to shock the world to this day.
 
 https://github.com/user-attachments/assets/b850a62a-54a5-4aa2-b044-7bcb5db8c89a
@@ -28,3 +32,4 @@ We see an ad on a pole in the middle of a busy street purporting to sell poison 
 [YouTube]: https://www.youtube.com/watch?v=uJsP1tQEPuc
 [March 20, 2009]: http://tvp.netcollect.ru/prog.php?id=153749
 [circuit breaker]: https://stock.adobe.com/images/-The-old-circuit-breaker-panel./1109024434
+[1927]: https://www.gettyimages.com/detail/video/giant-banner-of-josef-stalins-face-being-lifted-by-hot-news-footage/2010-501
