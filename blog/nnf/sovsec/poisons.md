@@ -12,7 +12,13 @@ https://github.com/user-attachments/assets/a717e308-e3fb-4cbb-ac9f-f42b284646ab
 
 Aside from this overlap, there is plenty of other interesting footage in this documentary. For example, we see an illustration of the cult of Stalin as his face was lifted up by giant air balloons into the sky in [1927] (another source says this was in [1938]). This footage was used in many other documentaries about Stalin, including, notably, the 1978 film from the series _[Those Who Shaped the 20th Century]_.
 
-https://github.com/user-attachments/assets/af8d2f11-bf99-4329-afda-0f8fa83d616a
+https://github.com/user-attachments/assets/24029fdd-77c3-46d7-9f1f-91b15aea14cd
+
+There is footage of a WWII train shot from the tracks.
+
+https://github.com/user-attachments/assets/f2fa6626-0d60-4310-8cab-dd495530fcd0
+
+This footage has been used in many documentaries (_[...Я лейтенант Махнач]_, _[Репетиция Апокалипсиса - Тоцкий полигон]_, etc). The cinematic potential of the shooting angle from under the train has been noticed [elsewhere].
 
 Echoes of Soviet experiments on the revival of dogs drained of blood by Sergei Brukhonenko or dog head transplants by Vladimir Demikhov continue to shock the world to this day.
 
@@ -35,3 +41,6 @@ We see an ad on a pole in the middle of a busy street purporting to sell poison 
 [1927]: https://www.gettyimages.com/detail/video/giant-banner-of-josef-stalins-face-being-lifted-by-hot-news-footage/2010-501
 [1938]: https://web.archive.org/web/20070524122442/http://www.sakharov-center.ru/publications/page5.htm
 [Those Who Shaped the 20th Century]: https://www.youtube.com/watch?v=fnHFm_PwRSQ
+[...Я лейтенант Махнач]: https://www.youtube.com/watch?v=nd9bDhhPR9M
+[Репетиция Апокалипсиса - Тоцкий полигон]: https://www.youtube.com/watch?v=1BUunCf_7dk
+[elsewhere]: https://gifyu.com/image/CPMb
