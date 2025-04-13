@@ -12,6 +12,15 @@ https://github.com/user-attachments/assets/a717e308-e3fb-4cbb-ac9f-f42b284646ab
 
 Echoes of Soviet experiments on the revival of dogs drained of blood by Sergei Brukhonenko or dog head transplants by Vladimir Demikhov continue to shock the world to this day.
 
+https://github.com/user-attachments/assets/b850a62a-54a5-4aa2-b044-7bcb5db8c89a
+
+Elsewhere in the documentary we see glimpses of old Soviet technology (e.g., old [circuit breaker] panels).
+
+https://github.com/user-attachments/assets/b6e8d68b-4a75-4afe-b458-b0c6ab91a287
+
+We see an ad on a pole in the middle of a busy street purporting to sell poison for 5,000 USD. Satisfaction guaranteed, apparently. It also appears that at least seven people have already torn off the tear-away pieces with the phone number of the seller printed on them.
+
 [Kinoon]: https://web.archive.org/web/20191104075929/http://kinoon.me/god/2005/
 [YouTube]: https://www.youtube.com/watch?v=uJsP1tQEPuc
 [March 20, 2009]: http://tvp.netcollect.ru/prog.php?id=153749
+[circuit breaker]: https://stock.adobe.com/images/-The-old-circuit-breaker-panel./1109024434
