@@ -8,6 +8,10 @@ https://github.com/user-attachments/assets/ecc3d3fd-c8ee-40aa-8969-a6930cd33642
 
 There is overlap in the libraries of archival footage between SOVSEC films and NNF episodes. There is also overlap in the music library. Both teams have included soundtracks of the films _Brotherhood Of The Wolf_ and _The 6th Day_ into the scores of their work. Perhaps, these teams share their trade secrets with each other. Or bith teams just peruse the same library. Perhaps, there was only one choice for the footage of animal experimentation in the Runet of 2005. Perhaps, there were very few choices of available movie soundtracks that would sound good in a bleak Russian documentary.
 
+https://github.com/user-attachments/assets/a717e308-e3fb-4cbb-ac9f-f42b284646ab
+
+Echoes of Soviet experiments on the revival of dogs drained of blood by Sergei Brukhonenko or dog head transplants by Vladimir Demikhov continue to shock the world to this day.
+
 [Kinoon]: https://web.archive.org/web/20191104075929/http://kinoon.me/god/2005/
 [YouTube]: https://www.youtube.com/watch?v=uJsP1tQEPuc
 [March 20, 2009]: http://tvp.netcollect.ru/prog.php?id=153749
