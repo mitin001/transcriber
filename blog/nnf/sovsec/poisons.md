@@ -6,11 +6,17 @@ What got me interested in this documentary was that it used footage also used in
 
 https://github.com/user-attachments/assets/ecc3d3fd-c8ee-40aa-8969-a6930cd33642
 
-There is overlap in the libraries of archival footage between SOVSEC films and NNF episodes. There is also overlap in the music library. Both teams have included soundtracks of the films _Brotherhood Of The Wolf_ and _The 6th Day_ into the scores of their work. Perhaps, these teams share their trade secrets with each other. Or bith teams just peruse the same library. Perhaps, there was only one choice for the footage of animal experimentation in the Runet of 2005. Perhaps, there were very few choices of available movie soundtracks that would sound good in a bleak Russian documentary.
+There is overlap in the libraries of archival footage between SOVSEC films and NNF episodes. There is also an overlap in the music library. Both teams have included soundtracks of the films _Brotherhood Of The Wolf_ and _The 6th Day_ into the scores of their work. Perhaps, these teams share their trade secrets with each other. Or both teams just peruse the same library. Perhaps, there was only one choice for the footage of animal experimentation in the Runet of 2005. Perhaps, there were very few choices of available movie soundtracks that would sound good in a bleak Russian documentary.
 
 https://github.com/user-attachments/assets/a717e308-e3fb-4cbb-ac9f-f42b284646ab
 
-Aside from this overlap, there is plenty of other interesting footage in this documentary. For example, we see an illustration of the cult of Stalin as his face was lifted up by giant air balloons into the sky in [1927] (another source says this was in [1938]). This footage was used in many other documentaries about Stalin, including, notably, the 1978 film from the series _[Those Who Shaped the 20th Century]_.
+Aside from this overlap, there are many other clips with horror-movie potential to terrify the viewer. There are rows of students wearing gas masks reminiscent of the panel of jurors wearing monstrous prosthetics on their heads in _[Getting Gertie's Garter]_ or the row of medical students in _[Dracula]_ (1931). The mad doctors in gas masks are not too far off the ones in _[Johnny Got His Gun]_. The video for One by Metallica used clips from _Johnny Got His Gun_. They're even closer to the ones in [Unit 731]. WWII documentaries often embed compelling footage like this (e.g., the one about [Abakan]).
+
+https://github.com/user-attachments/assets/a0bb48af-5ac9-48ed-a5de-34ef1a456dc4
+
+[Vintage gas masks] are an effective movie trope. [Konstantin Mitenev] is one director who has used gas masks for their necrorealistic potential.
+
+There is also plenty of other interesting footage in this documentary. For example, we see an illustration of the cult of Stalin as his face was lifted up by giant air balloons into the sky in [1927] (another source says this was in [1938]). This footage was used in many other documentaries about Stalin, including, notably, the 1978 film from the series _[Those Who Shaped the 20th Century]_.
 
 https://github.com/user-attachments/assets/24029fdd-77c3-46d7-9f1f-91b15aea14cd
 
@@ -44,3 +50,10 @@ We see an ad on a pole in the middle of a busy street purporting to sell poison 
 [...Я лейтенант Махнач]: https://www.youtube.com/watch?v=nd9bDhhPR9M
 [Репетиция Апокалипсиса - Тоцкий полигон]: https://www.youtube.com/watch?v=1BUunCf_7dk
 [elsewhere]: https://gifyu.com/image/CPMb
+[Vintage gas masks]: https://www.gettyimages.com/search/2/film?phrase=vintage+gas+mask
+[Konstantin Mitenev]: https://seance.ru/articles/mitenev/
+[Getting Gertie's Garter]: https://dcairns.wordpress.com/2016/04/02/gertie-getting-guttered/
+[Johnny Got His Gun]: https://cinefan.hkiff.org.hk/movie/johnny-got-his-gun
+[Unit 731]: https://haokan.baidu.com/v?pd=wisenatural&vid=12706176755920186636
+[Abakan]: https://rutube.ru/video/18a103715bcf3b9915e5d6f8ab879433/
+[Dracula]: https://www.alamy.com/usa-frances-dade-in-a-scene-from-the-universal-pictures-movie-dracula-1931-plot-the-ancient-vampire-count-dracula-arrives-in-england-and-begins-to-prey-upon-the-virtuous-young-mina-ref-lmk110-j6636-070720-supplied-by-lmkmedia-editorial-only-landmark-media-is-not-the-copyright-owner-of-these-film-or-tv-stills-but-provides-a-service-only-for-recognised-media-outlets-pictures@lmkmediacom-image365369859.html
