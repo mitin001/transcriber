@@ -19,4 +19,3 @@ Justice Department lawyers are now all thinking the same thing.
 And so, they are choosing the quit.
 
 > At least half of the front-line lawyers in the Solicitor General's office are either preparing to leave or have announced their departures already. What's the Solicitor General's office? That's the office that specifically argues cases for the administration in front of the Supreme Court.
-
