@@ -16,5 +16,4 @@ In his capacity as President, Trump stars in commercials for Tesla and removes a
 
 > It's like putting Putin's listening device in the White House, but that might already be there in the form of the president.
 
-So tough times may not be here yet, but we're heading there fast. 
-
+Tough times may not be here yet, but we're heading there fast. 
