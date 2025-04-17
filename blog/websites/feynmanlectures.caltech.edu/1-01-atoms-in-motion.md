@@ -30,7 +30,7 @@ The atomic hypothesis explains evaporation. When the temperature of a liquid is 
 
 The ideal gas law (PV~nT or PV=nRT where R is the ideal gas constant) can also be derived from the atomic hypothesis. If we imagine a cylindrical vessel with a piston holding a gas, we can see how that the gas molecules interact with the movable piston.
 
-Fig.1.3.
+![17448613175877910823445433555666](https://github.com/user-attachments/assets/522085b2-7c0d-414b-8ae9-a00885d0fc78)
 
 > These things are in perpetual motion in all directions. So many of them are hitting the top piston all the time that to keep it from being patiently knocked out of the tank by this continuous banging, we shall have to hold the piston down by a certain force, which we call the pressure (really, the pressure times the area is the force). Clearly, the force is proportional to the area, for if we increase the area but keep the number of molecules per cubic centimeter the same, we increase the number of collisions with the piston in the same proportion as the area was increased.
 
@@ -56,13 +56,13 @@ When a substance is in a liquid state, its molecules are no longer haphazardly s
 
 In ice, the units arranged in an array are water molecules. In salt, the units arranged are alternating ions of sodium and chloride, which is why there's no such thing as a salt molecule. 
 
-Fig1.7.
+![1744861388648285774906402773574](https://github.com/user-attachments/assets/b60b91d0-d7a4-47c1-b1f1-6fbb239b2d6a)
 
 > The concept of a molecule of a substance is only approximate and exists only for a certain class of substances. It is clear in the case of water that the three atoms are actually stuck together. It is not so clear in the case of sodium chloride in the solid. There is just an arrangement of sodium and chlorine ions in a cubic pattern. There is no natural way to group them as “molecules of salt.”
 
 While salt forms a cubic structure, ice exhibits hexagonal symmetry.
 
-Fig1.4.
+![174486137134989783540988077166](https://github.com/user-attachments/assets/e8dd2992-704a-4c2d-8048-4c3ad369f593)
 
 > If we turn the picture around an axis by 60°, the picture returns to itself. So there is a symmetry in the ice which accounts for the six-sided appearance of snowflakes.
 
