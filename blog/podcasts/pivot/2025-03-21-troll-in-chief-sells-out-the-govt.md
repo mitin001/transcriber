@@ -1,6 +1,6 @@
 # [2025-03-21](https://s3.amazonaws.com/writecomments.com/transcripts/84c56a884a66765613e9b0f1fc66dcbd.csv): tough times are coming as contributions of minority populations are striken from history as the US government is sold off to Musk and Putin
 
-_Adolescence_ premiers on Netflix presenting a bleak picture of the Internet turning young men into monsters. The show is a hit, and Scott deduces that times must still be good if we can still stomach fictional tragedies like this without getting too wrapped up in our own to change the channel.
+_Adolescence_ premieres on Netflix presenting a bleak picture of the Internet turning young men into monsters. The show is a hit, and Scott deduces that times must still be good if we can still stomach fictional tragedies like this without getting too wrapped up in our own to change the channel.
 
 > In boom times or positive times, tragedies and dramas are more popular. And then in depressing times, romantic comedies are much more popular. People want to get out of the mood they're in.
 
