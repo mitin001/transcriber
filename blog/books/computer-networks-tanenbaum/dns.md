@@ -2,6 +2,8 @@
 
 DNS serves a seemingly simple purpose (translation of a domain name to its IP address), but it is a complex distributed database that has to be highly replicated and cached.
 
+![17449875905776718364124310692363](https://github.com/user-attachments/assets/bd06ca9a-8019-421f-8fb3-4e29f154f655)
+
 > DNS is a large and complex distributed system that is comprised of millions of name servers that work together. It forms a key link between human-readable domain names and the IP addresses of machines. It includes replication and caching for performance and reliability and is designed to be highly robust.
 
 DNS resolvers try to protect themselves from cache poisoning attacks by making use of the 0x20 encoding. If a string is case-insensitive, varying the cases of the characters in it allows us to encode additional data, which can be used to validate the authenticity of the request.
