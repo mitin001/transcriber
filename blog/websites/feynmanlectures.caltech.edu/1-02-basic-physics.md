@@ -27,3 +27,31 @@ Quantum electrodynamics, which incorporates the uncertainty principle, can predi
 QED predicts that almost everything in the Universe is the function of the mass and charge of the electron.
 
 > In quantum electrodynamics, two numbers are put in and most of the other numbers in the world are supposed to come out. The two numbers that are put in are called the mass of the electron and the charge of the electron.
+
+QED deals with interactions between particles that have mass and charge and those that have zero mass and no charge. The idea of zero mass arises from the fact that masses are usually given at rest, and photons are never at rest.
+
+> The fact that a particle has zero mass means, in a way, that it cannot be at rest.
+
+Disturbances of a field behave like waves at low frequencies and like detectable particles at high frequencies (x-ray frequencies and higher). Particles arising from high-frequency disturbances of the electromagnetic field are photons. In the same way, gravitons arise from disturbances of the gravitational field while leptons, mesons, and baryons arise from disturbances of the nuclear field.
+
+> The forces between neutrons and protons also have a field of some kind, and that when this field jiggles it behaves like a particle. Thus there could be some other particles in the world besides protons and neutrons.
+
+Particles interact with each other across fields.
+
+> There seem to be just four kinds of interaction between particles which, in the order of decreasing strength, are the nuclear force, electrical interactions, the beta-decay interaction, and gravity.
+
+The nuclear force is the meson-baryon interaction while the electrical interactions are interactions between photons and charged particles.
+
+> The photon is coupled to all charged particles.
+
+QED models such interactions in rich detail.
+
+> The detailed law of this coupling is known, that is quantum electrodynamics.
+
+The theory of relativity models energy in terms of its gravitational interactions.
+
+> Gravity is coupled to all energy.
+
+The only remaining kind of interaction between particles is the disintegration of the neutron.
+
+> There are the so-called weak decays—beta decay, which causes the neutron to disintegrate into proton, electron, and neutrino, relatively slowly.
