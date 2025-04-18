@@ -5,4 +5,3 @@
 The Trumpy UK Prime Minister Rishi Sunak had a similar arrangement with Rwanda last year. Deporting people to random countries at the expense of taxpayers seems to be a thing in right-wing circles nowadays. It's encouraging to see pushback to these cruel stunts.
 
 > Just in case Trump had designs on sending people to yet another random country to which the deportees had no connection, a federal judge tonight in Massachusetts has blocked him from doing that.
-
