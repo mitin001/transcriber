@@ -34,7 +34,7 @@ Our bodies provide us with an intimate connection to physical phenomena like ele
 
 > Biology helped physics in the discovery of the conservation of energy, which was first demonstrated by Mayer in connection with the amount of heat taken in and given out by a living creature.
 
-Unlike biology and geology, mathematics, although it is just as important for physicists as the other fields of study, is not a natural science.
+Conservation of energy is a deduced mathematical principle. Unlike biology and geology, mathematics, although it is just as important for physicists as the other fields of study, is not a natural science.
 
 > The test of its validity is not experiment.
 
