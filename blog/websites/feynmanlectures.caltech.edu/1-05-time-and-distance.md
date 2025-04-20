@@ -16,13 +16,13 @@ Measuring time allows us to determine co-occurrence of events. For example, beca
 
 Distances can also be determined analytically. For example, we know distances to nearby stars by measuring the angles to them in winter and summer and using triangulation to compute the length of hypotenuse. The diameter of the Earth's orbit around the Sun form the base of this triangle.
 
-Fig5.5.
+![17451203449428761402674693408939](https://github.com/user-attachments/assets/b197de96-1e27-4e34-b00b-f216843ce611)
 
 For stars too distant for triangulation, we can tell their distance to Earth from their color and apparent brightness. The color is correlated to the star's intrinsic brightness, and the difference between the intrinsic brightness and apparent brightness on Earth is correlated with the distance the light has had to traverse to reach us.
 
 > It is found that there is a smooth relationship between the color and the intrinsic brightness of stars (in most cases). If one now measures the color of a distant star, one may use the color-brightness relationship to determine the intrinsic brightness of the star. By measuring how bright the star appears to us at the earth (or perhaps we should say how dim it appears), we can compute how far away it is. (For a given intrinsic brightness, the apparent brightness decreases with the square of the distance.) A nice confirmation of the correctness of this method of measuring stellar distances is given by the results obtained for groups of stars known as globular clusters.
 
-Fig5.6.
+![17451202666103733137926239928869](https://github.com/user-attachments/assets/e68511a7-2c9c-4226-ac69-ffcbb2a3a0fd)
 
 The distances to the stars in a globular cluster can be estimated from the color-brightness relationship, and the measurements agree with each other and the distance estimates we have for the whole cluster.
 
