@@ -36,4 +36,12 @@ Distances to other galaxies can then be measured by triangulation where the base
 
 > Galaxies are all about the same size.
 
+Distance measurements on astronomical scales have uncertainty to them because of the limited range of our instruments. Distance measurements on the small scale (the scale of the Planck length) also have uncertainty to them because of the wave nature of particles at this scale. The better we know the mass and velocity of the particle, the fuzzier its position.
+
+> The errors in a measurement of the position of an object must be at least as large as Δx≥ℏ/2Δp, where ℏ is a small fundamental physical constant called the reduced Planck constant and Δp is the error in our knowledge of the momentum (mass times velocity) of the object whose position we are measuring.
+
+Similarly, time measurements have inherent uncertainty. The better we know the energy of the particle (related to its mass by the energy-mass equivalence), the fuzzier our timing of the experiments we could run on it.
+
+> The relativity of space and time implies that time measurements have also a minimum error, given in fact by Δt≥ℏ/2ΔE, where ΔE is the error in our knowledge of the energy of the process whose time period we are measuring. If we wish to know more precisely when something happened we must know less about what happened, because our knowledge of the energy involved will be less. The time uncertainty is also related to the wave nature of matter.
+
 [biological]: /blog/websites/feynmanlectures.caltech.edu/1-03-other-sciences.md
