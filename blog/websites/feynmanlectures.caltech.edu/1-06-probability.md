@@ -34,4 +34,4 @@ Quantum mechanical predictions can be made only in terms of probabilities. So fa
 
 ![17452136557225117524385737915062](https://github.com/user-attachments/assets/5b7df4f2-46f8-402b-a730-5baf879281f5)
 
-For example, the probability of finding an election in a certain range of distances with respect to r can be determined by integrating the probability density function p(r)=Ae^(−2r/a) for a given interval.
+For example, the probability of finding an electron in a certain range of distances away from the atomic nucleus with respect to r can be determined by integrating the probability density function p(r)=Ae^(−2r/a) for a given interval (where a is a typical atomic radius and A is a constant that makes the total area under the probability density function equal 1).
