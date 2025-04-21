@@ -18,7 +18,7 @@ The average of those two cases is ⟨D_{N}²⟩=⟨D_{N-1}²⟩+1. If ⟨D₁²�
 
 That is, we expect the random walk of 30 steps to conclude within 5.5 steps of the x-axis. This result generalizes to any sample of 30 binary choices. For example, if we tossed a coin and every time it landed on its head we moved up (and when it landed on its tail we moved down), then we would expect there to be 15±2.75 heads in 30 such coin tosses. The histogram of the results of 100 games with 30 coin tosses takes the shape of the Gaussian curve. The curve has its inflection points at 15±2.75 (it changes from being concave up to concave down at 15-2.75 and then from concave down to concave up at 15+2.75). The width of this curve is 2.75 units from the center. The standard deviation of this distribution is 2.75.
 
-Fig6.2.
+![17452135201292202267705673539650](https://github.com/user-attachments/assets/b3d53cda-5516-4e27-a5c6-20b9371da6ea)
 
 The probability density curves for random walks have widths proportional to √N.
 
