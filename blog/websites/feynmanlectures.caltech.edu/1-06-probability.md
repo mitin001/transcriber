@@ -1,12 +1,12 @@
 # [6. Probability](https://www.feynmanlectures.caltech.edu/I_06.html)
 
-Fig6.5.
+![17452135890621287093123081435185](https://github.com/user-attachments/assets/d407f1c2-e938-453f-937a-71b79814dbe3)
 
 If we run a random walk algorithm (start at the origin and advance up or down randomly with each step), then after N steps, we expect to be Dᵣₘₛ=√N points away from the origin. Dᵣₘₛ is the root-mean-square distance from the x-axis (√D², square root of the mean square distance). We can derive this from a recurrence relation that starts with ⟨D₁²⟩=1.
 
 > After one step, D² is always +1, so we have certainly ⟨D₁²⟩=1.
 
-Eq6.7.
+![17452136023156982189214021403552](https://github.com/user-attachments/assets/9669f00e-d0ee-477c-bddd-48ca1ccb581f)
 
 If D_N=D_{N−1}+1 or D_{N−1}−1, then D_{N}²=(D_{N−1}−1)² or (D_{N−1}+1)².
 
@@ -24,14 +24,14 @@ The probability density curves for random walks have widths proportional to √N
 
 > Their heights must be proportional to 1/√N to maintain the total area equal to 1.
 
-Fig6.7.
+![17452136181347270417666102286037](https://github.com/user-attachments/assets/895a53c1-cba9-4814-a273-0e911f4e1309)
 
 The Gaussian curve is a function of its standard deviation σ=√N or Sᵣₘₛ√N if the step size is variable with a known root-mean-square value (Sᵣₘₛ).
 
-Eq6.20.
+![17452136388636755108221147376626](https://github.com/user-attachments/assets/b6cc9fea-b716-429c-b6c6-f1c4d0da7b88)
 
 Quantum mechanical predictions can be made only in terms of probabilities. So far, probability density is the only structure that has been used to successfully model positions and velocities of particles. The Heisenberg uncertainty principle states that the widths of the curves of probability density functions for estimating the position and the velocity of a particle depend on each other and their product must be at least the reduced Planck constant over 2 times particle mass ([Δx][Δv]≥ℏ/2m).
 
-Fig6.10.
+![17452136557225117524385737915062](https://github.com/user-attachments/assets/5b7df4f2-46f8-402b-a730-5baf879281f5)
 
 For example, the probability of finding an election in a certain range of distances with respect to r can be determined by integrating the probability density function p(r)=Ae^(−2r/a) for a given interval.
