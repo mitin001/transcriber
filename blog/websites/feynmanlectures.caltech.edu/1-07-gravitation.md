@@ -8,7 +8,7 @@ If a bullet is shot horizonally with a sufficient velocity, it will move in orbi
 
 Such escape velocity can be calculated geometrically.
 
-Fig7.4.
+![17454516516894870126500526831078](https://github.com/user-attachments/assets/0c79279d-8726-4967-a3b1-79b15727d907)
 
 > Acceleration toward the center of a circular path. From plane geometry, x/S=(2R−S)/x≈2R/x, where R is the radius of the earth, 4000 miles; x is the distance “travelled horizontally” in one second; and S is the distance “fallen” in one second (16 feet).
 
@@ -18,7 +18,7 @@ x²≈2SR=8000*(16/5280) so x≈5 miles per second, the escape velocity. (There 
 
 The Moon pulls in the side of the Earth closest to it. This effect is more pronounced in the liquid water than the solid Earth. The water rises up toward the Moon. The night tide is from the water getting pulled by the Moon while the day tide is from the centrifugal force balancing out the rotation due to gravity in the Earth-Moon system.
 
-Fig7.5.
+![17454516248788386536299169177359](https://github.com/user-attachments/assets/8bfa0f2f-841b-43e9-9743-3c520e0350a2)
 
 > The water on the far side is “unbalanced” because the moon’s attraction there is weaker than it is at the center of the earth, where it just balances the “centrifugal force.” The result of this imbalance is that the water rises up, away from the center of the earth. On the near side, the attraction from the moon is stronger, and the imbalance is in the opposite direction in space, but again away from the center of the earth. The net result is that we get two tidal bulges.
 
@@ -48,7 +48,7 @@ Not only is gravity subject to a delay due to the finiteness of the speed of lig
 
 The orbit of Sirius B around Sirius A as it is observed from Earth is elliptical, but Sirius A is not at the ellipses focus. This is because we're observing this orbit at a tilt.
 
-Fig7.7.
+![17454515953226586897125044456758](https://github.com/user-attachments/assets/6d3d5b62-44c9-4988-a874-100b54bd5acf)
 
 > Everything coincides with Newton’s laws, except that the star Sirius A is not at the focus. Why should that be? Because the plane of the ellipse is not in the “plane of the sky.” We are not looking at right angles to the orbit plane, and when an ellipse is viewed at a tilt, it remains an ellipse but the focus is no longer at the same place.
 
