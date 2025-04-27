@@ -12,11 +12,11 @@ Then, we divide out the Δt.
 
 ![17457254835638975868647790159987](https://github.com/user-attachments/assets/5cc4002d-3967-496a-85b7-9fce45f63fa5)
 
-Finally, we make the replacement Δt→0 to find that ds/dt=3At²+B.
+Finally, we make the replacement Δt→0 to find that ds/dt=3At²+B. The opposite of differentiation is integration, which can always be computed as a sum of products. For example, to find the total displacement from the function that models velocity with respect to time, we multiply the velocity at some time t by the step size Δt and sum these products for every time steps: s=ΣvΔt.
 
 ![17457254676478973943321957078038](https://github.com/user-attachments/assets/f30b49c1-4520-4ee8-a70d-282a26552e7c)
 
-To find the total displacement from the function that models velocity with respect to time, we multiply the velocity at some time t by the step size Δt and sum these products for every time steps: s=ΣvΔt. A displacement calculated from i such steps will result in a sum with i terms.
+A displacement calculated from i such steps will result in a sum with i terms.
 
 ![17457254542008849772411255066077](https://github.com/user-attachments/assets/c5cd9c1d-67de-4f1f-9756-385e5e07cf2f)
 
