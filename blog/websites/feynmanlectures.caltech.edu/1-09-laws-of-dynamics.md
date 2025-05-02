@@ -30,34 +30,34 @@ Mass changes with velocity, so this derivative is not as trivial to compute as i
 
 The law of dynamics tells us that the force of a spring, which can be measured by the displacement x of a weight on its end times the spring constant k, equals the momentum of the weight: -kx=m(dvₓ/dt).
 
-Fig9.3.
+![1746161692131672282035734709741](https://github.com/user-attachments/assets/0ba775c8-731e-481d-8892-bf1aee38c544)
 
 If we find a spring and a weight such that k=m, the equation simplifies to -x=dvₓ/dt=aₓ.
 
-Table 9.1.
+![17461617173959150532959663823814](https://github.com/user-attachments/assets/be2319b0-a778-46dc-a996-33bded51bd12)
 
 If we start at x=1,vₓ=0 at t=0 and advance with time step size of ϵ=0.1s, we will notice that the position x fits the cosine curve.
 
-Fig9.4.
+![17461617334186794755071748320707](https://github.com/user-attachments/assets/f15c3733-ccad-410f-bb91-01303e554905)
 
 For greater accuracy, the velocities were calculated at intermediate times (t+ϵ/2).
 
-Eq9.16.
+![17461617463648133261512592680083](https://github.com/user-attachments/assets/689ed718-5492-43e5-bb1e-6e225117ee3c)
 
 The elliptical orbits of planets can also be calculated numerically, even the part that a planet speeds up when near the focus containing sun and slows down when near the other focus of the ellipse.
 
-Fig9.6.
+![17461617605277664109888862274366](https://github.com/user-attachments/assets/a17a8ff7-883a-4c8d-bc0d-30525d151277)
 
 The values for x and y can be calculated from dvₓ/dt=-x/r³, dvᵧ/dt=-y/r³, r=sqrt(x²+y²) starting with (x,y)=(0.5,0), vₓ=0, vᵧ=1.63.
 
-Table 9.2.
+![17461617803045697734600086486891](https://github.com/user-attachments/assets/2c144251-8452-4c80-b821-19490f22f2c1)
 
 The derivatives of velocity components result from forces of gravity between two massive bodies and setting, for convenience, GM=1.
 
-Eq9.17.
+![17461618015476276220644051162284](https://github.com/user-attachments/assets/8fb4d7af-9038-4757-af47-526dbf8624c4)
 
 Because Fₓ and |F| are sides of a triangle similar to the one with sides x and r, Fₓ/|F|=-x/r.
 
-Fig9.5.
+![17461618184236086000049203399839](https://github.com/user-attachments/assets/67692491-7fa6-4ef5-8d20-4f9ed5563fb2)
 
 We know from the theory of gravitation that |F|=GMm/r². We know from the law of dynamics that Fₓ=m(dvₓ/dt). We know from the above that Fₓ/|F|=-x/r. Putting it all together, m(dvₓ/dt)=-GMmx/r³. Using this equation and a similar one for Fᵧ, we can trace the orbit of the planet's motion around the sun.
