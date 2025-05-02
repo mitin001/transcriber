@@ -28,7 +28,7 @@ Mass changes with velocity, so this derivative is not as trivial to compute as i
 
 > The direction of the change in the velocity and the direction of the force are the same.
 
-The law of dynamics tells us that the force of a spring, which can be measured by the displacement x of a weight on its end times the spring constant k, equals the momentum of the weight: -kx=m(dvₓ/dt).
+The law of dynamics tells us that the force of a spring, which can be measured by the displacement x of a weight on its end times the spring constant k, is the time derivative of the momentum of the weight: -kx=m(dvₓ/dt).
 
 ![1746161692131672282035734709741](https://github.com/user-attachments/assets/0ba775c8-731e-481d-8892-bf1aee38c544)
 
