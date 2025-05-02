@@ -50,7 +50,7 @@ The elliptical orbits of planets can also be calculated numerically, even the pa
 
 The values for x and y can be calculated from dvₓ/dt=-x/r³, dvᵧ/dt=-y/r³, r=sqrt(x²+y²) starting with (x,y)=(0.5,0), vₓ=0, vᵧ=1.63.
 
-![17461617803045697734600086486891](https://github.com/user-attachments/assets/2c144251-8452-4c80-b821-19490f22f2c1)
+![17461619625262856514684700802983](https://github.com/user-attachments/assets/bf93a2ca-327c-40d7-b544-b330b5fec055)
 
 The derivatives of velocity components result from forces of gravity between two massive bodies and setting, for convenience, GM=1.
 
