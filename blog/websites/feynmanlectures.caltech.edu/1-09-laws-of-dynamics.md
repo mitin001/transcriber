@@ -44,7 +44,7 @@ For greater accuracy, the velocities were calculated at intermediate times (t+ϵ
 
 ![17461617463648133261512592680083](https://github.com/user-attachments/assets/689ed718-5492-43e5-bb1e-6e225117ee3c)
 
-The elliptical orbits of planets can also be calculated numerically, even the part that a planet speeds up when near the focus containing sun and slows down when near the other focus of the ellipse.
+The elliptical orbits of planets can also be calculated numerically, even the part where a planet speeds up when near the focus containing sun and slows down when near the other focus of the ellipse.
 
 ![17461617605277664109888862274366](https://github.com/user-attachments/assets/a17a8ff7-883a-4c8d-bc0d-30525d151277)
 
