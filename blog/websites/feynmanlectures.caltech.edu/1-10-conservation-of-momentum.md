@@ -1,0 +1,33 @@
+# [10. Conservation of Momentum](https://www.feynmanlectures.caltech.edu/I_10.html)
+
+The consequence of the law of conservation of momentum is that in an elastic collision between two objects of equal mass, one gains the velocity lost by the other.
+
+> If both bodies are moving, with different velocities, they simply exchange velocity at impact.
+
+And when the masses are different, the velocities are gained and lost proportionally to the masses so the momentum before the collision equals the momentum after. However, the momentum component of a collision is hard to separate from its energy component because no collision in nature is perfectly elastic.
+
+> Two bodies of equal mass which collide with equal speeds and then rebound. For a brief moment they are in contact and both are compressed. At the instant of maximum compression they both have zero velocity and energy is stored in the elastic bodies, as in a compressed spring. This energy is derived from the kinetic energy the bodies had before the collision, which becomes zero at the instant their velocity is zero. The loss of kinetic energy is only momentary, however.
+
+The law of conservation of momentum predicts that the objects should come apart with equal speeds, which are the same as their speeds before the collision. But the speeds are less because some of the kinetic energy has gotten transferred to heat energy during the collision.
+
+> This speed of rebound is less, in general, than the initial speed, because not all the energy is available for the explosion, depending on the material. If the material is putty no kinetic energy is recovered, but if it is something more rigid, some kinetic energy is usually regained. In the collision the rest of the kinetic energy is transformed into heat and vibrational energy—the bodies are hot and vibrating. The vibrational energy also is soon transformed into heat. It is possible to make the colliding bodies from highly elastic materials, such as steel, with carefully designed spring bumpers, so that the collision generates very little heat and vibration. In these circumstances the velocities of rebound are practically equal to the initial velocities; such a collision is called elastic. That the speeds before and after an elastic collision are equal is not a matter of conservation of momentum, but a matter of conservation of kinetic energy. That the velocities of the bodies rebounding after a symmetrical collision are equal to and opposite each other, however, is a matter of conservation of momentum. We might similarly analyze collisions between bodies of different masses, different initial velocities, and various degrees of elasticity, and determine the final velocities and the loss of kinetic energy.
+
+Approximately elastic collisions occur between materials engineered not to lose significant kinetic energy during collisions. They can also occur between materials so simple that they cannot store the energy of the collision.
+
+> Between very elementary objects, the collisions are always elastic or very nearly elastic. For instance, the collisions between atoms or molecules in a gas are said to be perfectly elastic.
+
+However, perfectly elastic materials (or perfectly elastic collisions) do not exist. Even collisions between gas molecules are, on the average, expected to emit some infrared radiation.
+
+> Although this is an excellent approximation, even such collisions are not perfectly elastic; otherwise one could not understand how energy in the form of light or heat radiation could come out of a gas. Once in a while, in a gas collision, a low-energy infrared ray is emitted, but this occurrence is very rare and the energy emitted is very small. So, for most purposes, collisions of molecules in gases are considered to be perfectly elastic.
+
+Just as energy can be transferred to a different form (e.g., kinetic energy to heat energy), so can momentum.
+
+> In situations involving electrical forces, for instance, if an electrical charge at one location is suddenly moved, the effects on another charge, at another place, do not appear instantaneously—there is a little delay. In those circumstances, even if the forces are equal the momentum will not check out; there will be a short time during which there will be trouble, because for a while the first charge will feel a certain reaction force, say, and will pick up some momentum, but the second charge has felt nothing and has not yet changed its momentum. It takes time for the influence to cross the intervening distance, which it does at 186,000 miles a second. In that tiny time the momentum of the particles is not conserved. Of course after the second charge has felt the effect of the first one and all is quieted down, the momentum equation will check out all right, but during that small interval momentum is not conserved. We represent this by saying that during this interval there is another kind of momentum besides that of the particle, mv, and that is momentum in the electromagnetic field. If we add the field momentum to the momentum of the particles, then momentum is conserved at any moment all the time. The fact that the electromagnetic field can possess momentum and energy makes that field very real, and so, for better understanding, the original idea that there are just the forces between particles has to be modified to the idea that a particle makes a field, and a field acts on another particle, and the field itself has such familiar properties as energy content and momentum, just as particles can have.
+
+The particle momentum is the product of the particle's mass and velocity whereas the field momentum can be measured by the number of waves in a distance of propagation.
+
+> When the particles are represented as particles, the momentum is still mv, but when the particles are represented as waves, the momentum is measured by the number of waves per centimeter: the greater this number of waves, the greater the momentum.
+
+Because field momentum can be transferred to particle momentum, we can see that even massless particles like photons can exert pressure on particles that have mass.
+
+> An electromagnetic field has waves, which we call light; it turns out that light also carries momentum with it, so when light impinges on an object it carries in a certain amount of momentum per second; this is equivalent to a force, because if the illuminated object is picking up a certain amount of momentum per second, its momentum is changing and the situation is exactly the same as if there were a force on it. Light can exert pressure by bombarding an object; this pressure is very small, but with sufficiently delicate apparatus it is measurable.
