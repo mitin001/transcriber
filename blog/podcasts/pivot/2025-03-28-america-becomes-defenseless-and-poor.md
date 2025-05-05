@@ -4,8 +4,7 @@
 
 Pete Hegseth drunk-texted classified military intelligence to a journalist. The journalist reported on this incident, so now we know that Pete Hegseth drunk-texts state secrets. Who else has been the recipient of such texts from our embattled Secretary of Defense?
 
-> What are the other 79 times that secure information
-has been leaked to bad actors who aren't going to follow security protocols?
+> What are the other 79 times that secure information has been leaked to bad actors who aren't going to follow security protocols?
 
 Meanwhile, the US loses the trust of its allies. Why should they entrust us with military intelligence when there's too high of a chance our defense secretary will drunk-text it to the enemy?
 
