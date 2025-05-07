@@ -1,5 +1,9 @@
 # [12. Characteristics of Force](https://www.feynmanlectures.caltech.edu/I_12.html)
 
+Gravitational, electric, and magnetic forces on a particle can be calculated accurately by multiplying the mass or charge of the particle by the gravitational, electric, or magnetic field around this particle.
+
+![17466331833734617954326217259753](https://github.com/user-attachments/assets/a4e9631a-60b9-4946-9c52-9f01243a6490)
+
 A choice of a coordinate system is important for the accuracy of analysis of the forces acting on a particle.
 
 > Suppose that the positions of a particle as measured by Joe are x and by Moe are x′; then the laws are as follows: x=x′+s,y=y′,z=z′, where s is the displacement of Moe’s system relative to Joe’s.
