@@ -12,7 +12,7 @@ When we push a jar of water across a table, the water level becomes diagonal eve
 
 > Push a jar of water along a table, with acceleration. Gravity, of course, acts downward on the water, but because of the horizontal acceleration there is also a pseudo force acting horizontally and in a direction opposite to the acceleration. The resultant of gravity and pseudo force makes an angle with the vertical, and during the acceleration the surface of the water will be perpendicular to the resultant force, i.e., inclined at an angle with the table, with the water standing higher in the rearward side of the jar. When the push on the jar stops and the jar decelerates because of friction, the pseudo force is reversed, and the water stands higher in the forward side of the jar.
 
-Fig4.
+![17466326346093193937666398071480](https://github.com/user-attachments/assets/f45a1dbe-e2af-46c8-b196-497976fedc9e)
 
 A centrifugal force is another example of a pseudo force resulting from the observer being in a rotating coordinate system.
 
@@ -50,7 +50,7 @@ We may be tempted to think of polar molecules when thinking of molecular forces,
 
 > When atoms or molecules get too close they repel with a very large repulsion; that is what keeps us from falling through the floor!
 
-Fig2.
+![17466326030893297433463144811283](https://github.com/user-attachments/assets/6f383938-7de2-49c1-89fb-4e3d3fda5bda)
 
 There is very little curvature on the F=k/r⁷ line around F=0, so at this region, the molecular force can be approximated with a straight line. For this reason, when we pull a spring, the force seems to vary linearly with displacement.
 
