@@ -20,11 +20,13 @@ We buy electricity from energy companies in kilowatt hours. That is, we're buyin
 
 > The work done in going around any path in a gravitational field is zero.
 
-Fig4.
+![17467644576284178171370402430541](https://github.com/user-attachments/assets/e9e4f105-ea0e-4f36-be42-ebdc5e59dce7)
 
 If we approximate the path with a large number of straight lines (hypotenuses), the work done by traversing each hypotenuse ac is the same as work done by traversing the horizontal leg ab when the force is in the horizontal direction.
 
-Wac, Wbc.
+![17467644081948894071754389025213](https://github.com/user-attachments/assets/e274b42a-34c3-4b33-a94b-eefdcb081999)
+
+![17467644384987406539587595207996](https://github.com/user-attachments/assets/a70e5c05-6b4d-42bf-a81a-4a9e8c4f875c)
 
 > The work done in going along the sides of a small triangle is the same as that done going on a slant, because s cosθ is equal to x.
 
