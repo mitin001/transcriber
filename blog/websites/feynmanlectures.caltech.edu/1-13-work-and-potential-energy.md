@@ -1,6 +1,6 @@
 # [13. Work and Potential Energy](https://www.feynmanlectures.caltech.edu/I_13.html)
 
-The time derivative of the kinetic energy of an object is the power (delivered to an object by a force): dT/dt=Fv. This is a dot product of two vectors: force and velocity are both vectors.
+The time derivative of the kinetic energy of an object is the power (delivered to the object by a force): dT/dt=Fv. This is a dot product of two vectors: force and velocity are both vectors.
 
 > F⋅v is called power: the force acting on an object times the velocity of the object (vector “dot” product) is the power being delivered to the object by that force.
 
