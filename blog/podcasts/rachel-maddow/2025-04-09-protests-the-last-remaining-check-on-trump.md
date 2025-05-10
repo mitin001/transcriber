@@ -17,4 +17,3 @@ Put these people in office again, and the enemy will know by then what to do to 
 > For some problems, the people who are most affected and most hurt by it are the people who can at least make a ruckus.
 
 For example, Social Security is the lifeline to the elderly and disabled people. Because they are not as able to assemble against Trump, they rely on us to assemble for them and demand Social Security to be restored on their behalf.
-
