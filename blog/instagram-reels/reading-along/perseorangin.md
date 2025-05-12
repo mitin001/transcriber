@@ -31,7 +31,7 @@ Structures suggested by IR spectroscopy aren't conclusive on their own. They hav
 
 The IR spectroscopy method used was attenuated total reflection (ATR) Fourier transfer-infrared spectroscopy (FTIR). The output of this experiment is a spectrum of frequencies, many of which are known to be characteristic of distinct molecular structures.
 
-> Other characteristic IR frequencies appear in the spectrum include bands of the C=C in the ring at 1600–1500 cm⁻¹, the CH₂ at 1475 cm−⁻¹, the =C–H at 3000 cm⁻¹ and the C–O stretching of alkyl ether groups at 1200–1275 cm⁻¹.
+> Other characteristic IR frequencies appear in the spectrum include bands of the C=C in the ring at 1600–1500 cm⁻¹, the CH₂ at 1475 cm⁻¹, the =C–H at 3000 cm⁻¹ and the C–O stretching of alkyl ether groups at 1200–1275 cm⁻¹.
 
 Additionally, heteronuclear single-quantum coherence (HSQC-DEPT) showed the CH bonds (negative signals, blue) and CH₂ bonds (positive signals, red).
 
