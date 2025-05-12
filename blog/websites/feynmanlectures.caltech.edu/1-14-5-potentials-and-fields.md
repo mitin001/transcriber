@@ -4,7 +4,7 @@ When two objects are near each other, a gravitational field forms between them. 
 
 > The objects A and B generate the field, i.e., they “make” the vector C. When an object is put in a field, the force on it is equal to its mass times the value of the field vector at the point where the object is put. We can also do the same with the potential energy. Since the potential energy, the integral of (−force)⋅(ds) can be written as m times the integral of (−field)⋅(ds), a mere change of scale, we see that the potential energy U(x,y,z) of an object located at a point (x,y,z) in space can be written as m times another function which we may call the potential Ψ. The integral ∫ C⋅ds=−Ψ, just as ∫ F⋅ds=−U; there is only a scale factor between the two.
 
-Eq7
+![17470636399958605957925840218492](https://github.com/user-attachments/assets/d8aa7dde-c044-4541-a538-f58846852fa5)
 
 Potential energy of an object with mass m at point (x,y,z) is simply the potential at point (x,y,z) scaled by mass m.
 
@@ -14,7 +14,7 @@ Every time we introduce an object into this system, it increases the potential a
  
 > Suppose we have point masses m1, m2, … at the points 1, 2, … and we wish to know the potential Ψ at some arbitrary point p. This is simply the sum of the potentials at p due to the individual masses taken one by one.
 
-Eq8
+![17470636560593586538258797660090](https://github.com/user-attachments/assets/f2d1b662-0abe-430b-8080-7b7066ae5168)
 
 This is why there is superposition of forces and superposition of potential energies. If the potential is constant (e.g., as in a spherical shell), there is no field, i.e., an object in it has no potential energy and no force acts on it; no work is done when an object moves.
  
