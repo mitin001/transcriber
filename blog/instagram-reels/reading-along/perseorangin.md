@@ -33,6 +33,6 @@ The IR spectroscopy method used was attenuated total reflection (ATR) Fourier tr
 
 > Other characteristic IR frequencies appear in the spectrum include bands of the C=C in the ring at 1600–1500 cm⁻¹, the CH₂ at 1475 cm−⁻¹, the =C–H at 3000 cm⁻¹ and the C–O stretching of alkyl ether groups at 1200–1275 cm⁻¹.
 
-Additionally, heteronuclear single-quantum coherence (HSQC-DEPT) shows CH bonds (negative signals, blue) and CH₂ bonds (positive signals, red).
+Additionally, heteronuclear single-quantum coherence (HSQC-DEPT) showed the CH bonds (negative signals, blue) and CH₂ bonds (positive signals, red).
 
 ![17470619261539031903282358978760](https://github.com/user-attachments/assets/f9fedb86-ecb8-4d3e-9951-ee3bb72a1e1b)
