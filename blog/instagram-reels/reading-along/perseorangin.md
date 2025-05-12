@@ -15,7 +15,7 @@ In looking for the molecular formula, chemists also find evidence for its molecu
 
 > Perseorangin is a glycosylated benzotropone-containing compound with a molecular formula of C₂₉H₃₀O₁₄.
 
-Fig2A.
+![17470619067884997869446019241259](https://github.com/user-attachments/assets/a86772b2-e22e-4c18-b533-55fb397e5c14)
 
 Benzotropone is the benzene ring fused with the tropolone ring. The benzene ring is a six-sided ring (ghijk) with a CH at each edge, except for edge i, which is COH. The alternating single and double bonds in the ring signify conjugation: the C-C bonds are not actually alternating; they are all of the same length, longer than single bonds but shorter than double bonds. The tropolone is the seven-sided ring (abcdekj) with a CH at each edge, except for edge a, which is C=O. The glycosylation takes place on the opposite side of the molecule at C1'.
 
@@ -35,4 +35,4 @@ The IR spectroscopy method used was attenuated total reflection (ATR) Fourier tr
 
 Additionally, heteronuclear single-quantum coherence (HSQC-DEPT) shows CH bonds (negative signals, blue) and CH₂ bonds (positive signals, red).
 
-Fig3.
+![17470619261539031903282358978760](https://github.com/user-attachments/assets/f9fedb86-ecb8-4d3e-9951-ee3bb72a1e1b)
