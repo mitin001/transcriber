@@ -1,6 +1,6 @@
 # [15. The Special Theory of Relativity](https://www.feynmanlectures.caltech.edu/I_15.html)
 
-Eq1
+![17472883884282435371690020280389](https://github.com/user-attachments/assets/d6702915-93b6-4465-99c0-d0a0c6d226f2)
 
 > That is all there is to the theory of relativity—it just changes Newton’s laws by introducing a correction factor to the mass.
 
@@ -8,7 +8,7 @@ The correction is inconsequential for ordinary speeds and is usually only needed
 
 > This mass increase is very small in ordinary circumstances. If the velocity is even as great as that of a satellite, which goes around the earth at 5 mi/sec, then v/c=5/186,000: putting this value into the formula shows that the correction to the mass is only one part in two to three billion, which is nearly impossible to observe. Actually, the correctness of the formula has been amply confirmed by the observation of many kinds of particles, moving at speeds ranging up to practically the speed of light.
 
-Eq10
+![17472884035605385920051620994527](https://github.com/user-attachments/assets/c66cd673-8050-4257-8037-882c9aa956a2)
 
 Force is a time derivative of momentum (F=d(mv)/dt). The closer the velocity approaches the speed of light, the less it can change, but the momentum is conserved because the mass changes proportionally.
 
@@ -16,7 +16,7 @@ Force is a time derivative of momentum (F=d(mv)/dt). The closer the velocity app
 
 The mass correction can be expanded in an infinite power series using the binomial theorem.
 
-Above eq11
+![17472883152015674717609500804619](https://github.com/user-attachments/assets/b2ecc82e-eb0b-4d31-acac-18a44f8c9c77)
 
 > The series converges rapidly when v is small, and the terms after the first two or three are negligible.
 
@@ -26,7 +26,7 @@ Above eq11
 
 The formula for mass-energy equivalence (E=mc²) comes from this idea (after multiplying both sides by c²).
 
-Eq12
+![1747288172499262186969345291654](https://github.com/user-attachments/assets/75a78baf-fd61-4d2d-b540-06990e19870c)
 
 > The term on the left expresses the total energy of a body, and we recognize the last term as the ordinary kinetic energy. Einstein interpreted the large constant term, m₀c², to be part of the total energy of the body, an intrinsic energy known as the “rest energy.”
 
