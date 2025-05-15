@@ -20,7 +20,7 @@ Above eq11
 
 > The series converges rapidly when v is small, and the terms after the first two or three are negligible.
 
-Eq11
+![1747288032493733883483074136054](https://github.com/user-attachments/assets/bd0de879-ec63-47f7-b4ba-3f69e236380d)
 
 > Since 1/2m₀v² is the kinetic energy in the old-fashioned Newtonian sense, we can also say that the increase in mass of all this body of gas is equal to the increase in kinetic energy divided by c², or Δm=Δ(K.E.)/c².
 
@@ -37,14 +37,18 @@ Eq14
 If we then multiply both sides by 2m, we recognize the left side as c² d(m²)/dt and the right side as d(m²v²)/dt.
 
 Eq15
-Eq16
+
+![17472880135012005673622578098522](https://github.com/user-attachments/assets/8ef54734-8143-467b-a270-7c30c9d063f2)
 
 > If the derivatives of two quantities are equal, the quantities themselves differ at most by a constant, say C.
 
+![17472879826323259347239414745544](https://github.com/user-attachments/assets/d478e825-cde2-427f-9771-b98f05045696)
+
 If we set C=m₀c² (i.e., set v=0 and solve for C), then we get Einstein's mass correction. 
 
-Eq18
-Eq19
+![17472879443125842928390705870589](https://github.com/user-attachments/assets/10b4160a-56c2-4713-b977-97b66e213ec3)
+
+![17472879289714238688894893507624](https://github.com/user-attachments/assets/c03167a2-7d67-4905-a88a-e4f842828338)
 
 Einstein's mass correction was influenced by Maxwell's equations that unified electricity, magnetism, and optics into a single theory.
 
