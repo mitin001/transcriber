@@ -88,8 +88,6 @@ The same result will come out from any other similar experiment involving an att
 
 > The greater u is, the more slowly the moving clock appears to run. Not only does this particular kind of clock run more slowly, but if the theory of relativity is correct, any other clock, operating on any principle whatsoever, would also appear to run slower, and in the same proportion.
 
-Particles as short-lived as muons can traverse long distances because
-
 A particle that's only supposed to have the lifetime of 2×10⁻⁶ s traverses 10,000 m of space. Is it moving at 5,000×10⁶ m/s? Impossible, nothing can move faster than the speed of light, which is 300×10⁶ m/s.
 
 > Muons, which are particles that disintegrate spontaneously after an average lifetime of 2.2×10⁻⁶ sec. They come to the earth in cosmic rays, and can also be produced artificially in the laboratory. Some of them disintegrate in midair, but the remainder disintegrate only after they encounter a piece of material and stop. It is clear that in its short lifetime a muon cannot travel, even at the speed of light, much more than 600 meters. But although the muons are created at the top of the atmosphere, some 10 kilometers up, yet they are actually found in a laboratory down here, in cosmic rays. How can that be? The answer is that different muons move at various speeds, some of which are very close to the speed of light. While from their own point of view they live only about 2 μsec, from our point of view they live considerably longer—enough longer that they may reach the earth.
