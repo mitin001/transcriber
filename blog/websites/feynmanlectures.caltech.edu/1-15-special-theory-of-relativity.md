@@ -32,11 +32,11 @@ The formula for mass-energy equivalence (E=mc²) comes from this idea (after mul
 
 E=mc² can also be derived from the fact that the dot product of force and velocity is the time derivative of energy: dE/dt = F⋅v. We can start by making the following replacements: E→mc², F→d(mv)/dt.
 
-Eq14
+![17472885901814243998146385336726](https://github.com/user-attachments/assets/7cc4213c-edf6-4321-a988-150ca83b64de)
 
 If we then multiply both sides by 2m, we recognize the left side as c² d(m²)/dt and the right side as d(m²v²)/dt.
 
-Eq15
+![17472885778616374715683966556356](https://github.com/user-attachments/assets/93024588-f693-46f6-8e06-3bf8ec948b29)
 
 ![17472880135012005673622578098522](https://github.com/user-attachments/assets/8ef54734-8143-467b-a270-7c30c9d063f2)
 
@@ -56,7 +56,7 @@ Einstein's mass correction was influenced by Maxwell's equations that unified el
 
 It was discovered that Maxwell's equations are invariant under a Lorentz transformation.
 
-Eq3
+![17472886411336517212951108742651](https://github.com/user-attachments/assets/7108c0c2-de8e-4307-b9fc-6a40aed1f77f)
 
 > Maxwell’s equations remain in the same form when this transformation is applied to them.
 
@@ -70,13 +70,13 @@ As a consequence, if we can build a space ship that can travel 86.6% of the spee
 
 This can be verified by imagining a clock that ticks by bouncing a light from a flashtube to a mirror, which reflects it to a photocell. The light appears to travel at a near-zero angle regardless whether we are on Earth or in a moving spaceship.
 
-Fig3a
- 
+![17472887300233546566082067386158](https://github.com/user-attachments/assets/df4c03f8-b17e-4edf-9593-f22a846cca96)
+
 > If anything at all changed because of the motion, he could tell he was moving. But the principle of relativity says this is impossible in a uniformly moving system, so nothing has changed. On the other hand, when the external observer looks at the clock going by, he sees that the light, in going from mirror to mirror, is “really” taking a zigzag path, since the rod is moving sidewise all the while.
 
 However, if we can see inside a moving spaceship with such a clock, the angle between the flashtube, mirror, and photocell appears much larger and therefore the distance taken by the light appears longer. As the rod emitting and receiving the light moves a distance proportional to u, the light travels the distance proportional to c.
 
-Fig3bc
+![17472887444052371951298944121554](https://github.com/user-attachments/assets/dc63b9b4-3843-40d3-86ec-28d23a793064)
 
 > The vertical distance is therefore proportional to sqrt(c²−u²).
 
