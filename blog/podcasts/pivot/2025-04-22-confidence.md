@@ -27,4 +27,3 @@ America had let a con man rule over it, and once he took over the government, he
 We used to be a proper country. We used to be certain that our government would obey its own laws.
 
 > We no longer have that certainty.
-
