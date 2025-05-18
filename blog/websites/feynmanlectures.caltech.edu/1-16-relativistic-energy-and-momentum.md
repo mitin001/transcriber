@@ -6,11 +6,11 @@ A common mistake we run into when testing our theories, formulas, code, etc, is 
 
 To make Newton's theory of gravitation exact, the mass must be corrected to be dependent on the velocity. This has consequences on the choice of the coordinate system to analyze the forces acting on an object (with the mass to be corrected): the force is the time rate of change of momentum (mass times velocity) and the velocity is the time rate of change of the object's position (e.g., along the x axis). The Lorentz transformation provides a succinct way to transform the coordinate system as to make Newton's laws hold for all observers: those at rest as well as those in motion. The x coordinate and the time coordinate must be stretched to accommodate the velocity of the object moving through it (u).
 
-Eq1
+![17475409118055015063945402741830](https://github.com/user-attachments/assets/d19ffc63-1d00-40d7-b5be-cdd4cc7a627c)
 
 If we express the equations in terms of the coordinate system of the other observer, the factor by which we stretch the coordinates is the same; only the direction of motion is different.
 
-Eq2
+![17475408806041721899060568541794](https://github.com/user-attachments/assets/25d23a10-2054-4880-a343-4e1ccbf6d858)
 
 > It tells us how a system of coordinates “at rest” looks from the point of view of one that is “moving.” Of course, since the motions are relative and of uniform velocity, the man who is “moving” can say, if he wishes, that it is really the other fellow who is moving and he himself who is at rest. And since he is moving in the opposite direction, he should get the same transformation, but with the opposite sign of velocity.
 
