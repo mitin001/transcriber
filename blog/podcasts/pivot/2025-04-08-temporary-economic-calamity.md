@@ -17,4 +17,3 @@ Jim Cramer's advice to sell stocks at the bottom was bad advice.
 > He told investors at the very bottom, if you don't like this volatility, you should sell your stocks. Within 14 months, we had recovered all of our losses. If you sold when Jim Cramer suggested you might want to think about getting out, you saw your net worth cut in half. And even more damaging to your financial wellbeing was your mental wellbeing because you saw everybody else get to back exactly where they were. And you were the idiot that sold at the bottom.
 
 Scott Galloway predicts that no matter the calamity, the American stocks will bounce back.
-
