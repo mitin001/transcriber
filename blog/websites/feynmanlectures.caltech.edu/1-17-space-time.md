@@ -6,8 +6,9 @@ If we move diagonally through a room, we can intuitively approximate how much we
 
 The Lorentz transformation shows that time can be treated mathematically like a spatial dimension.
 
-Eq1
-Eq3
+![17476310300814061497565793541875](https://github.com/user-attachments/assets/668f32e2-6c26-4df5-81e8-d77b0ae0c7b1)
+
+![17476309560682044803696974054137](https://github.com/user-attachments/assets/138f71e8-7ccb-44e0-be5e-0e99eeb03031)
 
 > Nature is telling us that time and space are equivalent; time becomes space; they should be measured in the same units. What distance is a “second”?
 
@@ -19,7 +20,9 @@ Space-time can therefore be measured purely in units of time. It can also be mea
 
 > Another way that we could make the units equal is to measure time in meters. What is a meter of time? A meter of time is the time it takes for light to go one meter, and is therefore 1/3×10⁻⁸ sec, or 3.3 billionths of a second! We would like, in other words, to put all our equations in a system of units in which c=1. If time and space are measured in the same units, as suggested, then the equations are obviously much simplified.
 
-Eq4,5
+![17476310125354265136658168725072](https://github.com/user-attachments/assets/3de948be-7539-40c8-bcbd-e7453d625aeb)
+
+![17476309765245502071814782327781](https://github.com/user-attachments/assets/79525df0-0810-469d-81bb-d57462a353f6)
 
 Laws of physics can be remembered by the units of the quantities involved.
 
@@ -31,7 +34,7 @@ A vector in three dimensions has a length, the sum of the squares of its magnitu
 
 Just as the Lorentz transformation applies to time and space, it applies to energy and momentum: the energy transforms the same as time, and the momentum transforms the same as space. 
 
-Eq12
+![17476309941977454411044754038534](https://github.com/user-attachments/assets/e91edc07-a6e9-41a7-8f57-f46b534f5286)
 
 Momentum in the time dimension is energy.
 
