@@ -12,9 +12,9 @@ By analyzing forces in terms of work they do on an object, we deduce that there 
 
 > We shall get to the theory of torques quantitatively by studying the work done in turning an object, for one very nice way of defining a force is to say how much work it does when it acts through a given displacement. We are going to try to maintain the analogy between linear and angular quantities by equating the work that we do when we turn something a little bit when there are forces acting on it, to the torque times the angle it turns through. In other words, the definition of the torque is going to be so arranged that the theorem of work has an absolute analog: force times distance is work, and torque times angle is going to be work.
 
-In two dimensions, for object i turning around the origin of some coordinate system, the torque is the difference between the vertical force weighted by the distance to the horizontal axis and the horizontal force weighted by the distance to the vertical axis.
+In two dimensions, for some object turning around the origin of some coordinate system, the torque is the difference between the vertical force weighted by the distance to the horizontal axis and the horizontal force weighted by the distance to the vertical axis.
 
-Eq12
+![17477768284157239953519116537851](https://github.com/user-attachments/assets/104ba116-0804-44c4-9760-bdcc601d0c01)
 
 > The torque is also often called the moment of the force.
 
@@ -26,7 +26,7 @@ Thus the moment of a force is a necessary consequence of a force propagating in 
 
 > Just as external force is the rate of change of a quantity p, which we call the total momentum of a collection of particles, so the external torque is the rate of change of a quantity L which we call the angular momentum of the group of particles.
  
-Eq16
+![17477768183301104145696212628498](https://github.com/user-attachments/assets/f77cdf4a-5c1d-43ae-b817-e90fe748c705)
 
 The angular momentum relates to the linear momentum in the same way torque relates to force. The angular momentum is the moment of the linear momentum.
  
@@ -46,7 +46,7 @@ Regular mass is insufficient to calculate the angular momentum. We need a quanti
 
 The further away an object from its axis of rotation the more inertia it has against turning.
 
-Fig4
+![17477767867114889071932803051509](https://github.com/user-attachments/assets/eece4166-dd51-468d-b493-676cd940d0c7)
 
 > A weight M is kept from falling very fast because it has to turn the large weighted rod. At first, the masses m are close to the axis, and M speeds up at a certain rate. But when we change the moment of inertia by putting the two masses m much farther away from the axis, then we see that M accelerates much less rapidly than it did before, because the body has much more inertia against turning. The moment of inertia is the inertia against turning, and is the sum of the contributions of all the masses, times their distances squared, from the axis.
 
