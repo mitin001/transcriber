@@ -4,4 +4,10 @@ Rachel calls the [Tesla Regret Syndrome hotline] and listens to the reasons it g
 
 > TRS is a condition afflicting tens of thousands of Tesla owners. It's characterized by persistent feelings of deep discomfort when driving a Tesla you bought because you cared about the future, only to find that the CEO is a fascist megalomaniac out to destroy the US government and sell it for parts, then enrich himself with contracts to do some of the same work.
 
+![image](https://github.com/user-attachments/assets/62d14fbe-80c2-4fb0-a437-b4459d298464)
+
+The business operating this hotline also offers Tesla debadging services. They will remove the Tesla badge from your Tesla and replace it with a badge for a different car manufacturer.
+
+![image](https://github.com/user-attachments/assets/9c9d1296-0b3a-4052-9341-0414aa0ad1eb)
+
 [Tesla Regret Syndrome hotline]: https://archive.org/details/MSNBCW_20250415_010000_The_Rachel_Maddow_Show/start/540/end/600
