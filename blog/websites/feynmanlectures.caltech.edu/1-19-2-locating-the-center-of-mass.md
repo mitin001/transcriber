@@ -2,7 +2,7 @@
 
 Suppose we want to extrude a right triangle into a cone. If take the triangle at the midpoint of its bottom side and drag it 360 degrees around until we come back to the starting position (by walking the distance of πD), we would notice that we didn't make a cone around the axis of its side but rather a truncated hollow cone with a cylindrical cavity. Picking it up at the midpoint creates an axis of rotation that's not at the origin of the triangle but further away. If we want to make a perfect cone with no hollow cylinder in the middle by dragging the triangle a certain circular distance, we must start at a point closer to the triangle's origin. We can calculate that point to be exactly a third of the way away from the origin by setting the volume of revolution we're extruding to be equal to the volume of the cone we want to create.
 
-Fig2
+![17483210476098307016186305936006](https://github.com/user-attachments/assets/4dff1c7a-2bc1-4bf6-83bd-a04c0dd7017e)
 
 > Imagine an axis along H, and rotate the triangle about that axis through a full 360 degrees. This generates a cone. The distance that the x-coordinate of the center of mass has moved is 2πx. The area which is being moved is the area of the triangle, ½HD. So the x-distance of the center of mass times the area of the triangle is the volume swept out, which is of course πD2H/3. Thus (2πx)(½HD)=πD2H/3, or x=D/3. In a similar manner, by rotating about the other axis, or by symmetry, we find y=H/3. In fact, the center of mass of any uniform triangular area is where the three medians, the lines from the vertices through the centers of the opposite sides, all meet. That point is 1/3 of the way along each median.
 
