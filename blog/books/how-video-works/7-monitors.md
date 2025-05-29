@@ -26,7 +26,7 @@ Plasma displays were a luxury whereas LCD/LED displays made monitors a mainstrea
 
 > Gamma is the property of displays that deals with the relationship of the amount of light produced for the amount of voltage applied to the display. Older tube type displays were non-linear, meaning that it took different amounts of change voltage to see a difference in the dark part of the picture than in the lighter parts. Early broadcasts fixed this problem in the camera, applying an opposite curve. By building this circuit into the camera rather then each TV, sets could be priced more inexpensively. Now a larger range of display types are used, each with different gamma char-acteristics. Our video, however, still carries the correction factor for CRT’s. So the displays must now be adjusted to suit the video gamma, which is normally set at 2.2 when you are calibrating your computer’s video card.
 
-Fig4
+![17485353257161440601212634223035](https://github.com/user-attachments/assets/e954f0e4-b53d-4698-adf4-3247ef172bac)
 
 While gamma correction is a setting on a video card, most settings that affect the appearance of the image are in the display. The brightness and contrast settings are the top of the list. The best time to adjust those settings is when viewing a grayscale stairstep pattern.
 
