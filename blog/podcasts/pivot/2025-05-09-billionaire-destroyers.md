@@ -12,7 +12,7 @@ It took another billionaire, Bill Gates, to tell the [New York Times Magazine] j
 
 > He put it in the wood chipper because he didn't go to a party that weekend.
 
-He also told the magazine that Elon Musk has set the world in fire out of pure pettiness.
+He also told the magazine that Elon Musk has set the world on fire out of pure pettiness.
 
 > The world's richest man has been involved in the deaths of the world's poorest children.
 
