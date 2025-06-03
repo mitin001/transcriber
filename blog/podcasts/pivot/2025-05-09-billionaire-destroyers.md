@@ -19,4 +19,3 @@ He also told the magazine that Elon Musk has set the world in fire out of pure p
 Democrats didn't invite his to a party one time, so Elon aligned himself with Republicans intent on destroying everything Democrats stand for.
 
 [New York Times Magazine]: https://www.nytimes.com/2025/05/08/magazine/bill-gates-foundation-closing-2045.html
-
