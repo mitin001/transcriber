@@ -13,4 +13,3 @@ The lesson is that if you make a product and want market differentiation for it,
 > These things reverse-engineer each other.
 
 You would think that decades of Chinese IP thievery would teach American companies this lesson.
-
