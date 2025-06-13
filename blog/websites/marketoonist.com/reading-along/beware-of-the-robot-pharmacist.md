@@ -22,6 +22,10 @@ Interruptions force people into an unnatural state of multitasking. The higher t
 
 > Performance degrades rapidly when people try to do several things simultaneously.
 
+This leads to quantifiable reduction of safety in hospitals.
+
+> Every interruption increased the risk of a medication error by 13 percent. When a nurse was interrupted four times, the rate of errors likely to lead to permanent harm or death doubled.
+
 In the Swiss cheese model, catastrophic failure can only find its way into normal operations if it can pass through the holes in every safeguard. However, hospitals can often seem to be made not of safeguards but rather of mines ready to detonate at any moment.
 
 > Social, logistical, and cognitive land mines to sidestep.
