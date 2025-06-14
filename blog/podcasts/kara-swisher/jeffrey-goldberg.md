@@ -4,7 +4,7 @@ Kara Swisher makes jokes with Jeffrey Goldberg to try—in a healthy way—to ge
 
 > You know what _tech bro_ stands for? Technically broken.
 
-She also refers to Trump as a " coin-operated president" in response to Jeffrey's bleak assessment of America being overtaken by corruption.
+She also refers to Trump as a "coin-operated president" in response to Jeffrey's bleak assessment of America being overtaken by corruption.
 
 > Deeply corrupt governments and societies don't work very well. And sometimes, they bring themselves to a crisis point, at which point the people say enough, and something good happens out of that. So I mean, I think that's ultimately where we're heading unless the American people who are supplied with cheap calories, abundant video entertainment, and actual drugs just have given up on the idea of standing up for traditional American principles.
 
