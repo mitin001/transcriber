@@ -75,7 +75,7 @@ $$
 
 The system that consists of a mass on a spring with an applied oscillating force and friction is analogous to an oscillatory electrical circuit with resistance, inductance, and capacitance, which can be represented by a linear differential equation of the same form.
 
-Fig5
+![17498826391107454509562360190755](https://github.com/user-attachments/assets/d2ed15be-cbd4-48e9-b1bd-f5d872aa9646)
 
 $$
 L\,d^2q/dt^2+R\,dq/dt+q/C=V(t)
@@ -85,7 +85,7 @@ $$
 \hat{q}=\hat{V}/L(\omega_0^2-\omega^2+i\gamma\omega)
 $$
 
-Table 1
+![17498826096025873003275298495090](https://github.com/user-attachments/assets/e606a98e-cc6e-473f-98c0-fc9423c29411)
 
 > If we think of the charge q on a capacitor as being analogous to the displacement x of a mechanical system, we see that the current, I=dq/dt, is analogous to velocity, 1/C is analogous to a spring constant k, and R is analogous to the resistive coefficient c=mγ.
 
