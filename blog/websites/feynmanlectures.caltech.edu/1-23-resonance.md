@@ -44,7 +44,7 @@ $$
 (d^2x/dt^2)+\gamma(dx/dt)+\omega_0^2x=F/m
 $$
 
-If we again assume that the force is $F\cos\omega t$ and can be replaced with $\hat{F}e^{i\omega t}$ while $x$ can be replaced with $\hat{x}e^{i\omega t}$, we get easily diffentiable expressions. Differentiating them leaves us with a simple, factorable algebraic equation.
+If we again assume that the force is $F\cos\omega t$ and can be replaced with $\hat{F}e^{i\omega t}$ while $x$ can be replaced with $\hat{x}e^{i\omega t}$, we get easily differentiable expressions. Differentiating them leaves us with a simple, factorable algebraic equation.
 
 $$
 [(i\omega)^2\hat{x}+\gamma(i\omega)\hat{x}+\omega_0^2\hat{x}]
@@ -89,9 +89,9 @@ Table 1
 
 > If we think of the charge q on a capacitor as being analogous to the displacement x of a mechanical system, we see that the current, I=dq/dt, is analogous to velocity, 1/C is analogous to a spring constant k, and R is analogous to the resistive coefficient c=mγ.
 
-If inductance L is analogous to mass and I is analogous to velocity, then electric potential difference V is analogous to a mechanical force.
+If inductance L is analogous to mass and I is analogous to velocity, then the electric potential difference V is analogous to a mechanical force.
  
-> There exists another circuit element which is the analog of mass! This is a coil which builds up a magnetic field within itself when there is a current in it. A changing magnetic field develops in the coil a voltage that is proportional to dI/dt (this is how a transformer works, in fact). The magnetic field is proportional to a current, and the induced voltage (so-called) in such a coil is proportional to the rate of change of the current.
+> There exists another circuit element which is the analog of mass! This is a coil that builds up a magnetic field within itself when there is a current in it. A changing magnetic field develops in the coil a voltage that is proportional to dI/dt (this is how a transformer works, in fact). The magnetic field is proportional to a current, and the induced voltage (so-called) in such a coil is proportional to the rate of change of the current.
 
 $$
 V=L\,dI/dt=L\,d^2q/dt^2
