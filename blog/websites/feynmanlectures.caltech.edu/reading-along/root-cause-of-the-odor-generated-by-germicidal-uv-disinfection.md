@@ -18,7 +18,7 @@ Visible light is not energetic enough to break sulphur bonds in cysteine, but UV
 
 The UV light with the 254 nm wavelength has the photon energy of 470 kJ/mole, which is enough to break many organic chemical bonds.
 
-Table 1
+![17504388018588531732451826656369](https://github.com/user-attachments/assets/b7bb4ea8-7f15-4b4e-8b06-e0a81bafcc7d)
 
 If a room that is almost too dusty for safe occupancy is irradiated with UV light, it will generate thiol concentrations that still wouldn't make the air unsafe to breathe.
 
