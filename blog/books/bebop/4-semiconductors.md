@@ -62,4 +62,4 @@ Once we introduce active components into a circuit, it is no longer simply an el
 
 > In order for a circuit to be properly called “electronic, ” it must contain one or more active devices. On this basis, a circuit comprising only resistors, capacitors, and inductors would be considered to be an “electric circuit ” rather than an “electronic circuit.”
 
-[backlight]: blog/books/how-video-works/7-monitors.md
+[backlight]: /blog/books/how-video-works/7-monitors.md
