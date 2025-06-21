@@ -22,7 +22,7 @@ However, once a vacuum-tube computer was finally constructed by 1946 (ENIAC: Ele
 
 > Semiconductors can be persuaded to exhibit both conducting and insulating properties.
 
-Silicon is the cheapest, most abundant material that can be easily modified into a semiconductor.
+[Silicon] is the cheapest, most abundant material that can be easily modified into a semiconductor.
 
 > Pure crystalline silicon acts as an insulator; however, scientists at Bell Laboratories in the United States found that by inserting certain impurities into the crystal lattice, they could make silicon act as a conductor.
 
@@ -63,3 +63,4 @@ Once we introduce active components into a circuit, it is no longer simply an el
 > In order for a circuit to be properly called “electronic, ” it must contain one or more active devices. On this basis, a circuit comprising only resistors, capacitors, and inductors would be considered to be an “electric circuit ” rather than an “electronic circuit.”
 
 [backlight]: /blog/books/how-video-works/7-monitors.md
+[Silicon]: /blog/books/bebop/g-semiconductors.md
