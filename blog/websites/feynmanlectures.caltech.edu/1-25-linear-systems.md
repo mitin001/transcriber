@@ -52,5 +52,5 @@ The relationship between voltage, inductance, and time rate of charge of current
 
 > One volt applied to an inductance of one henry produces a change of one ampere per second in the current.
 
-[inductance]: blog/websites/feynmanlectures.caltech.edu/1-23-resonance.md
+[inductance]: /blog/websites/feynmanlectures.caltech.edu/1-23-resonance.md
 [modeled by an electric circuit]: /blog/websites/feynmanlectures.caltech.edu/1-24-transients.md
