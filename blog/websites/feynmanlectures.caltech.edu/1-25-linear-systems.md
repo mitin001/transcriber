@@ -16,7 +16,7 @@ Many mechanical systems can similarly be simulated with electric circuits. This 
 
 The radio is a real-world simulation of mechanical resonance, which found its application in information exchange. The tuning knob of a radio receiver is connected to its capacitor. As we change the capacitance of an electric circuit, we change the radio frequency (ω) with which it resonates. That is, most of the electric current (x) that flows through a circuit with a certain capacitance is due to the radio signal with the resonant frequency for that capacitance. We can decode the information carried by the resonant radio frequency out of the current induced by it.
 
-Fig3
+![17505668221711495144255539971698](https://github.com/user-attachments/assets/1d8d80aa-9849-4a80-abe7-d9740fd659b3)
 
 Since the resonant frequency is a function of both [inductance], we could also vary the inductance of the electric circuit within the radio receiver.
 
@@ -24,7 +24,7 @@ Since the resonant frequency is a function of both [inductance], we could also v
 
 The resonance curve goes to infinity at the resonant frequency for electric circuits without resistance (or for springs without friction). In the real world, the maximum of the resonance curve is proportional to the work done to keep the system oscillating (or the voltage applied to keep the current flowing).
 
-Fig5
+![17505668367851372362586540519256](https://github.com/user-attachments/assets/8ac06e7f-a323-4575-8710-4e1954d5bed4)
 
 > Instead of becoming infinite near resonance, the curve is only going to get so high that the work done by our tapping each time is enough to compensate for the loss of energy by friction during the cycle. So the top of the curve is rounded off—it does not go to infinity.
 
@@ -48,7 +48,7 @@ Inductors show us that mechanical inertia has an electrical analog.
 
 > There is an electrical analog to inertia also. It is possible to make something called an inductor, having a property called inductance, such that a current, once started through the inductance, does not want to stop.
 
-The relationship between voltage, inductance, and time rate of charge of current ($V=L(dI/dt)=L(d^2q/dt^2)$) is the electrical analog of Newton's law of inertia ($F=m(dv/dt)=m(d^2x/dt)$). One volt is one henry (unit of inductance) times one ampere per second.
+The relationship between voltage, inductance, and time rate of charge of current ( $V=L(dI/dt)=L(d^2q/dt^2)$ ) is the electrical analog of Newton's law of inertia ( $F=m(dv/dt)=m(d^2x/dt)$ ). One volt is one henry (unit of inductance) times one ampere per second.
 
 > One volt applied to an inductance of one henry produces a change of one ampere per second in the current.
 
