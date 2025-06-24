@@ -1,5 +1,7 @@
 # [7 Deadly Sins of Data-Driven Marketing](https://marketoonist.com/2024/10/7-deadly-sins-of-data-driven-marketing.html)
 
+![17508012226317217465266927006385](https://github.com/user-attachments/assets/e95532ed-d6e7-4b42-bce4-d72bf85f678f)
+
 Vanity metrics do not do anyone any good. They're distractions. No one cares about how many Facebook friends you have or how many impressions your old blog post received. Do not fall for the empty reassurance of a vanity metric.
 
 > The seductive allure of focusing on data that makes us look good.
