@@ -12,7 +12,7 @@ Emotionally immature people will not make the effort to understand your emotions
 
 > Not saying everything you think is a sign of good sense.
 
-When emotionally immature people say that they can't change, they are right. Unfortunately, this is what dooms them to the life of abandonment. The kinds of relationships they want with other people are one-sided, so other people avoid them.
+When emotionally immature people say they can't change, they are right. Unfortunately, this is what dooms them to a life of abandonment. The kinds of relationships they want with other people are one-sided, so other people avoid them.
 
 > People can’t mature without changing who they are.
 
@@ -24,7 +24,7 @@ Should you request them to change their behavior, they will understand such requ
 
 > For emotionally immature people, all interactions boil down to the question of whether they’re good people or bad ones, which explains their extreme defensiveness if you try to talk to them about something they did. They often respond to even mild complaints about their behavior with an extreme statement, like “Well, then, I must be the worst mother ever!” or “Obviously I can’t do anything right!” They would rather shut down communication than hear something that could make them feel like bad people.
 
-Another thing they could do is tell you that it's not your place to request them to correct their behavior.
+Another thing they could do is tell you that it's not your place to request that they correct their behavior.
 
 > Role entitlement is an attitude of demanding certain treatment because of your social role. When parents feel entitled to do what they want simply because they’re in the role of parent, this is a form of role entitlement. They act as though being a parent exempts them from respecting boundaries or being considerate.
 
@@ -40,11 +40,11 @@ On the other hand, when dealing with emotionally mature people, we have to give 
 
 > Emotionally immature people have a completely unrealistic idea of what forgiveness means. To them, forgiveness should make it like the rift never happened, as though a completely fresh start is possible. They have no awareness of the need for emotional processing or the amount of time it may take to rebuild trust after a major betrayal. They just want things to be normal again. Others’ pain is the only fly in the ointment. Everything would be fine if others would just get past their feelings about the situation.
 
-It takes emotional work to rebuild trust in a relationship, but emotionally immature people will never do it. They won't be inconvenienced with the emotions of other people. They will try to manipulate you into forgiving them with emotional cohersions like guilt and shame. Relationships with them are one-sided. This has the most profound effect on their children.
+It takes emotional work to rebuild trust in a relationship, but emotionally immature people will never do it. They won't be inconvenienced by the emotions of other people. They will try to manipulate you into forgiving them with emotional coercions like guilt and shame. Relationships with them are one-sided. This has the most profound effect on their children.
 
 > Emotionally immature parents often have the fantasy that their babies will make them feel good about themselves. When their children turn out to have their own needs, it can send such parents into a state of intense anxiety. Those who are extremely emotionally immature may then use punishment, threats of abandonment, and shaming as trump cards in an attempt to feel in control and bolster their self-esteem—at their children’s expense.
 
-Growing up emotionally neglected in this way will result in a child that need psychotherapy to repair their self-concept, build up their inner world, and get in touch with their true self. Emotionally immature parents sometimes pretend that their children don't need too much care.
+Growing up emotionally neglected in this way will result in a child who needs psychotherapy to repair their self-concept, build up their inner world, and get in touch with their true self. Emotionally immature parents sometimes pretend that their children don't need much care.
 
 > Emotionally immature parents relate on the basis of roles, not individuality. If you had an independent, self-reliant personality, your parent wouldn’t have seen you as a needy child for whom he or she could play the role of rescuing parent. Instead, you may have been pegged as the child without needs, the little grown-up.
 
