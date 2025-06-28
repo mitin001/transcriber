@@ -6,7 +6,7 @@ Suppose we want to focus light into a single point. We can bend a mirror in such
 
 > When the various rays have arrived at some plane KK′, perpendicular to the rays, all the times in this plane are equal.
 
-Figure 12
+![17510930719552088952876571572330](https://github.com/user-attachments/assets/f5e2f0d7-a142-42bd-91cb-61cc3d42e07c)
 
 > The rays must then come down to the mirror and proceed toward P′ in equal times. That is, we must find a curve which has the property that the sum of the distances XX′+X′P′ is a constant, no matter where X is chosen. An easy way to find it is to extend the length of the line XX′ down to a plane LL′. Now if we arrange our curve so that A′A′′=A′P′, B′B′′=B′P′, C′C′′=C′P′, and so on, we will have our curve, because then of course, AA′+A′P′=AA′+A′A′′ will be constant. Thus our curve is the locus of all points equidistant from a line and a point. Such a curve is called a parabola; the mirror is made in the shape of a parabola.
 
@@ -18,7 +18,7 @@ Fermat’s principle of least time is a way of thinking about optics that correc
 
 > Out of all possible paths that it might take to get from one point to another, light takes the path which requires the shortest time.
 
-Figure 3
+![17510930027071505062626734228149](https://github.com/user-attachments/assets/fb2f87d1-7d86-40c7-927b-29350d82047b)
 
 > When is the sum of these two lengths the least? The answer is easy: when the line goes through point C as a straight line from A to B′.
 
@@ -26,7 +26,7 @@ The fact that the incidence and refraction angles are equal for mirrors is impli
 
 > Let us imagine that a beautiful girl has fallen out of a boat, and she is screaming for help in the water at point B. The line marked x is the shoreline. We are at point A on land, and we see the accident, and we can run and can also swim. But we can run faster than we can swim.
 
-Fig4
+![17510930377879186844365834875322](https://github.com/user-attachments/assets/8de6c919-080c-4999-85a9-ad4d931af36c)
 
 > It would be advantageous to travel a little greater distance on land in order to decrease the distance in the water, because we go so much slower in the water.
 
@@ -46,7 +46,7 @@ When we see the sky reflected off the road, our brains first interpret it as the
 
 > What we are really seeing is the sky light “reflected” on the road: light from the sky, heading for the road, can end up in the eye.
 
-Figure 8
+![17510930510123959776831771497135](https://github.com/user-attachments/assets/05eebd82-5a85-4c8e-9584-b3fd8a71807e)
 
 > The air is very hot just above the road but it is cooler up higher. Hotter air is more expanded than cooler air and is thinner, and this decreases the speed of light less. That is to say, light goes faster in the hot region than in the cool region. Therefore, instead of the light deciding to come in the straightforward way, it also has a least-time path by which it goes into the region where it goes faster for awhile, in order to save time. So, it can go in a curve.
 
