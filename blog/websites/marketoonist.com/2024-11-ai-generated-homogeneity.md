@@ -1,5 +1,7 @@
 # [AI-Generated Homogeneity](https://marketoonist.com/2024/11/ai-generated-homogeneity.html)
 
+![17515133542835432806411647108637](https://github.com/user-attachments/assets/7ebdee1d-1da5-4a28-8bc4-f97a7d6541f7)
+
 AI has a bias toward homogeneity.
 
 > The tendency for AI results to look alike. As AI predicts what to generate, the path of least resistance is an averaging of the content in its source material.
