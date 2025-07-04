@@ -1,0 +1,11 @@
+# [109](https://darknetdiaries.com/transcript/109/). TeaMp0isoN
+
+Computers simplify everything, even committing crimes. When you're watching a person's keyboard movements, you may be witnessing a crime taking place, but you may never know.
+
+> The right combinations of keystrokes are illegal.
+
+One can rob a bank just by pushing buttons on a computer. This is because as a system gets more complicated, it gets easier to find ways to get it to glitch. Online banking is a complicated system; it allows its users to manage all their money. However, with the right commands, the system can be manipulated in such a way that the user gets unauthorized access to another user's money or even the bank's money, as long as there's a vulnerability in the system. If you discover such a vulnerability, the illegal thing to do is to exploit it or sell it to a black-hat hacker who will exploit it. The legal thing to do is to sell it to Zerodium or Trend Micro. Either way, you can get money for your discovery. When a vulnerability has just gotten discovered, it's been a known vulnerability for zero days, so it's called a zero-day vulnerability. The software maintainer has only had zero days to fix it.
+
+> Zerodium pays more, much more, but they’ll take the exploit and sell it to government entities who will use the exploit as a weapon to attack.  You really don’t know what governments Zerodium is selling their exploits to.  Trend Micro’s Zero-Day Initiative doesn’t pay as much but will take the exploit and develop anti-virus signatures for it and report it to the software maker so it can be fixed.  Both of these are legal for someone to report bugs to.
+
+When you're in the business of finding vulnerabilities, you probably know how to exploit them to turn a profit, and the risk of criminal prosecution can translate to a very high profit. However, if you want to avoid this risk, you could sell to Zerodium. Selling to Zerodium doesn't make you a criminal, but it may still go against your morals. Having a guilty conscience can translate to a high profit. Thankfully, there's a company that will put a price on your discovery by removing the criminality and guilt components from the sale: Trend Micro. It will substantially lower the payoff, but to those who won't put a price on their morals, it's worth it 
