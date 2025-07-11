@@ -193,3 +193,5 @@ As the world faces existential threats, Americans are distracted by reality tele
 They like reality TV so much they turned over their government to reality TV personalities. Bill Maher sees TV news with their nonstop coverage of Trump as partly responsible for this. It's one of the two biggest sins committed by TV news in Trump times, the other one being their coverage of COVID.
 
 > The more they can get you to stay inside and watch their panic porn, the higher the ratings.
+
+When speaking of Trump himself, Bill Maher often refers to him as a "whiny little bitch," the sort of attention whore that thrives as a TV personality or an Internet troll. Maher describes America electing Trump as President as "let's let the dog drive for a while." This is where we are. We need voices like Bill's to help get us out of this mess.
