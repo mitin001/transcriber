@@ -4,7 +4,7 @@ Suppose you just met a person who tells you that you're exactly who they've been
 
 > EIPs often use flattery to coax you into going along with whatever they want. They may act like you have all the answers or are uniquely strong and capable of fixing their problems. They tell you they don’t know what they would do without you. (My guess is that they would soon find someone else more willing.) EIPs offer a spectacular relationship deal: if you do what they want, then you will be everything to them. However, the fine print says that you are only as good as the last thing you did for them. In this distorted arrangement, you can be everything one minute and nothing the next. This is because they have an extremely self-preoccupied way of looking at relationships. You are either wonderful or useless to them—with nothing in between.
 
-It's like the [Marketoonist] said, _the large print giveth, and the small print taketh away_. If it's too good to be true, it is. The small print in relationships with emotionally immature people is that you must surrender yourself to them.
+It's like [Marketoonist] said, _the large print giveth, and the small print taketh away_. If it's too good to be true, it is. The small print in relationships with emotionally immature people is that you must surrender yourself to them.
 
 > You don’t matter as much as they do.
 
