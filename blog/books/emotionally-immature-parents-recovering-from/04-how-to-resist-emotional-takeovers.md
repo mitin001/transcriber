@@ -1,10 +1,10 @@
 # 4: How to Resist Emotional Takeovers
 
-Did you just meet a person that tells you that you're exactly who they've been waiting for, an answer to their prayers? Are they being excessively nice to you? Does something about them feel off? Beware, you may have befriended an emotionally immature person (EIP). If that's the case, as soon as you stop giving them what they want, they will turn around and start treating you like garbage.
+Suppose you just met a person who tells you that you're exactly who they've been waiting for, an answer to their prayers. Are they being excessively nice to you? Does something about them feel off? Beware, you may have befriended an emotionally immature person (EIP). If that's the case, as soon as you stop giving them what they want, they will turn around and start [treating you like garbage].
 
 > EIPs often use flattery to coax you into going along with whatever they want. They may act like you have all the answers or are uniquely strong and capable of fixing their problems. They tell you they don’t know what they would do without you. (My guess is that they would soon find someone else more willing.) EIPs offer a spectacular relationship deal: if you do what they want, then you will be everything to them. However, the fine print says that you are only as good as the last thing you did for them. In this distorted arrangement, you can be everything one minute and nothing the next. This is because they have an extremely self-preoccupied way of looking at relationships. You are either wonderful or useless to them—with nothing in between.
 
-It's like the Marketoonist said, _the large print giveth, and the small print taketh away_. If it's too good to be true, it is. The small print in relationships with emotionally immature people is that you must surrender yourself to them.
+It's like the [Marketoonist] said, _the large print giveth, and the small print taketh away_. If it's too good to be true, it is. The small print in relationships with emotionally immature people is that you must surrender yourself to them.
 
 > You don’t matter as much as they do.
 
@@ -24,14 +24,18 @@ When someone rushes you, it is exactly the right time to stop and assess whether
 
 > They use their sense of urgency as entitlement to your help.
 
-If your emotionally immature mother tries to lure you into her home with a home-cooked meal, but you have to come right away while it's still hot, don't rush. The meal might not be as fresh when you arrive, and you may have to reheat it, but at least, you will be there in your own terms, with an intact ability to resist manipulation. You will not be in a heightened emotional state, something you can't be in if you're going into a negotiation.
+If your emotionally immature mother tries to lure you into her home with a home-cooked meal, but you have to come right away while it's still hot, don't rush. The meal might not be as fresh when you arrive, and you may have to reheat it, but at least, you will be there on your own terms, with an intact ability to resist manipulation. You will not be in a heightened emotional state, something you can't be in if you're going into a negotiation. [Always negotiate unemotionally].
 
 > Claim your right to take time to think your way through situations when you feel pressured to do more than you want to.
 
-Every time someone makes you feel uncomfortable, stop going along with them and tell them you'll get back to them later. If your inner self signals something to you through discomfort, it is your cue to exit the situation, consult with your inner self, and then re-enter it with a clearer state of mind.
+Every time someone makes you feel uncomfortable, stop going along with them and tell them you'll get back to them later. If your inner self signals something to you through discomfort, it is your cue to exit the situation, consult with your inner self, figure out what the discomfort means, and then re-enter the conversation with a clearer state of mind.
 
 > Recognize an EIP’s exaggerations and consciously and actively refuse any request that makes you uncomfortable.
 
-Emotionally immature people actively work to sever the channel of communication between you and your inner self. When talking to them, you must counter this by actively ensuring that your relationship with your inner self continues to be strong.
+Emotionally immature people actively work to sever the channel of communication between you and your inner self. When talking to them, you must actively counter this by repeatedly checking in with your inner self, making sure that your relationship with it continues to be strong.
 
 > An EIP’s intimidating pressure, anger, and judgments can disconnect you from yourself to the point of dissociation.
+
+[treating you like garbage]: /blog/books/emotionally-immature-parents/10-how-to-identify-emotionally-mature-people.md
+[Marketoonist]: /blog/websites/marketoonist.com/2024-03-the-large-print-giveth.md
+[Always negotiate unemotionally]: /blog/podcasts/pivot/2025-04-25-boring-investments-unemotional-negotiations.md
