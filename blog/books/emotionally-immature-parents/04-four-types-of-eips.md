@@ -12,4 +12,7 @@ While most emotionally immature people consistently exhibit their emotional imma
 
 > Parents of any type can exhibit traits of the other types when very stressed.
 
-In this way, even an otherwise emotionally mature person can exhibit immaturity under such stress. Do not beat yourself up over making emotional mistakes. To err is human. Learn from your mistakes, grow your inner world, and stay in touch with your inner self.
+In this way, even an otherwise emotionally mature person can exhibit immaturity under such stress. Do not beat yourself up over making emotional mistakes. To err is human. Learn from your mistakes, grow your [inner world], and stay in touch with your [inner self].
+
+[inner self]: /blog/books/emotionally-immature-parents/07-breaking-down-and-awakening.md
+[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
