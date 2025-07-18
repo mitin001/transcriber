@@ -16,4 +16,7 @@ Emotionally neglectful people will exploit not only your desperation but also yo
 
 > Manage the overdeveloped empathy that may have held you emotionally hostage to manipulative, nonreciprocal people.
 
-Stay away from emotionally neglectful people. Remember that you've survived childhood. Your inner self has gotten you through it. Reward it by further developing your inner world through learning and imagination. Connect with it on a deeper level through journaling or meditation. Your inner self is your ultimate source for psychological healing. A true connection with another person is a connection of your inner worlds. Find people you can connect with on that level, not those who want to manipulate you.
+Stay away from emotionally neglectful people. Remember that you've survived childhood. Your [inner self] has gotten you through it. Reward it by further developing your [inner world] through learning and imagination. Connect with it on a deeper level through journaling or meditation. Your inner self is your ultimate source for psychological healing. A true connection with another person is a connection of your inner worlds. Find people you can connect with on that level, not those who want to manipulate you.
+
+[inner self]: /blog/books/emotionally-immature-parents/07-breaking-down-and-awakening.md
+[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
