@@ -20,7 +20,7 @@ Depression, anxiety, and other [psychiatric distress] are signs of mental trauma
 
 > Your parents gave you life and love, but only of the sort they knew. You can honor them for that but cease to give them unwarranted power over your emotional well-being. Your mission now is for your own growth: to become an individual who is fully engaged with both yourself and other people.
 
-Only if you develop your inner world can you form deep and truly intimate relationships with others. [True intimacy] lies in the connection of inner worlds.
+Only if you develop your [inner world] can you form deep and truly intimate relationships with others. [True intimacy] lies in the connection of the inner worlds of two people.
 
 [psychiatric distress]: /blog/books/emotionally-immature-parents/07-breaking-down-and-awakening.md
-[True intimacy]: /blog/books/emotionally-immature-parents/01-how-ei-parents-affect-their-adult-childrens-lives.md
+[True intimacy]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
