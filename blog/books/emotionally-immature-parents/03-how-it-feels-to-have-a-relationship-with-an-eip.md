@@ -44,8 +44,10 @@ It takes emotional work to rebuild trust in a relationship, but emotionally imma
 
 > Emotionally immature parents often have the fantasy that their babies will make them feel good about themselves. When their children turn out to have their own needs, it can send such parents into a state of intense anxiety. Those who are extremely emotionally immature may then use punishment, threats of abandonment, and shaming as trump cards in an attempt to feel in control and bolster their self-esteem—at their children’s expense.
 
-Growing up emotionally neglected in this way will result in a child who needs psychotherapy to repair their self-concept, build up their inner world, and get in touch with their true self. Emotionally immature parents sometimes pretend that their children don't need much care.
+Growing up emotionally neglected in this way will result in a child who needs psychotherapy to repair their self-concept, build up their [inner world], and get in touch with their true self. Emotionally immature parents sometimes pretend that their children don't need much care.
 
 > Emotionally immature parents relate on the basis of roles, not individuality. If you had an independent, self-reliant personality, your parent wouldn’t have seen you as a needy child for whom he or she could play the role of rescuing parent. Instead, you may have been pegged as the child without needs, the little grown-up.
 
 When it comes to emotional development, you can't take it till you make it. You can't pretend to be fully emotionally developed and expect to be able to establish mature relationships and true intimacy with other people. They will quickly detect fakery and move on.
+
+[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
