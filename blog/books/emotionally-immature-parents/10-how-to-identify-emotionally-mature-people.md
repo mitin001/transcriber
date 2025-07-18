@@ -12,7 +12,7 @@ When you notice that you're sliding back into old, dysfunctional patterns, the b
 
 > If someone says something I find offensive, I’ll offer an alternative viewpoint. I won’t try to change the other person’s mind; I just won’t let the statement go unremarked upon.
 
-By speaking up, you're not trying to correct the emotionally clumsy person. Rather, you're giving your inner self a voice and thus strengthening your connection to it. The more you speak with your inner self, the more true to yourself you will be. Other people who are true to themselves will recognize this and gravitate toward you. The joy you will get from being in their company is worth the effort.
+By speaking up, you're not trying to correct the emotionally clumsy person. Rather, you're giving your [inner self] a voice and thus strengthening your connection to it. The more you speak with your inner self, the more true to yourself you will be. Other people who are true to themselves will recognize this and gravitate toward you. The joy you will get from being in their company is worth the effort.
 
 > Because emotionally mature people have a integrated sense of self, they usually won’t surprise you with unexpected inconsistencies. You can count on them to be basically the same across different situations. They have a strong self, and their inner consistency makes them reliable custodians of your trust.
 
@@ -43,3 +43,4 @@ They will lash out at you for disappointing or inconveniencing them, something m
 When you're dating someone, look at their social media posts. Do they troll people when hiding behind the computer screen? Note that this is how they're gonna treat you when the rose-colored glasses come off.
 
 [TED talkers]: /blog/youtube/the-beauty-of-conflict.md
+[inner self]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
