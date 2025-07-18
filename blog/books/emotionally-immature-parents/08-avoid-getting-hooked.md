@@ -1,6 +1,6 @@
 # 8. How to Avoid Getting Hooked by an Emotionally Immature Parent
 
-When you were a helpless child, you were desperate for your parents' attention. You're alive, so they must've done a good job providing for you. However, that doesn't necessarily mean they've given you enough emotional support to develop your inner world. So, you may still be looking for the sort of attention that would nurture your emotional development. It's too late for that.
+When you were a helpless child, you were desperate for your parents' attention. You're alive, so they must've done a good job providing for you. However, that doesn't necessarily mean they've given you enough emotional support to develop your [inner world]. So, you may still be looking for the sort of attention that would nurture your emotional development. It's too late for that.
 
 > Our early dependence on our parents makes us seek their love and attention. However, we must step away from our childhood roles if we don’t want to repeat them in our adult relationships.
 
@@ -41,3 +41,4 @@ You can't have relationships with emotionally immature people. At most, you can 
 > Engaging in a real relationship means being open and establishing emotional reciprocity. If you try this with emotionally immature people, you’ll feel frustrated and invalidated. As soon as you start looking for emotional understanding from such people, you won’t be as balanced within yourself. It makes more sense to aim for simple relatedness with them, saving your relationship aspirations for people who can give something back.
 
 [negotiation]: /blog/podcasts/pivot/2025-04-25-boring-investments-unemotional-negotiations.md
+[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
