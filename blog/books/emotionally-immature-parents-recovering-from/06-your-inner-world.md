@@ -14,15 +14,27 @@ By deepening your inner world, you will also further develop a sense of compassi
 
 > Emotional self-awareness allows you to share emotionally intimate relationships with others. The better you know yourself, the more compassionately you will feel toward other people. Real intimacy is a shared understanding of each other’s inner experiences. Otherwise, it’s just two people bouncing their needs and impulses off each other.
 
+If you feel trapped in a soul-crushing relationship but everything looks fine from the outside and you can't even put into words specifically what repels you from the other person, this is likely because your inner worlds are disconnected. Your relationship with yourself feels the same if you are disconnected from your own inner world.
+
 > A good relationship with your inner world reveals what’s meaningful to you and directs your life’s purpose. If you don’t form that trusting relationship with your inner world, you will be dependent on whatever your peers, the culture, or authorities tell you to be.
+
+Your inner self won't let you be manipulated by other people, unless you're shutting it out.
 
 > Your adult inner world of feelings and opinions challenge their belief that you still need their input and direction.
 
+To deeper one's inner world, the stronger their connection to their inner self. Emotionally immature (EI) people realize that on an intuitive level, but instead of using this knowledge constructively to get in touch with themselves, they use it to destructively. They try get other people out of touch with their inner selves to make them powerless against their emotional coercions. Children make the easiest targets. A child haven't yet developed a connection to their inner self, so there's nothing to sever. All an emotionally immature parent has to do to emotionally enslave their child is to stunt the development of their inner world, nip it in the bud.
+
 > Because EI parents want to direct how other people should be, their child’s inner experience isn’t relevant to them. They think of children as empty boxes to be filled with what parents want them to know.
+
+Emotionally immature parents don't hollow out their child's inner world deliberately, of course. It's just that this is the effect their emotionally immaturity has on them.
 
 >	EI parents’ disinterest in other people’s inner experience explains why they don’t listen very well. It doesn’t occur to them that anything of much importance could be going on inside you, so they see no point in trying to grasp your point of view. Their dismissive attitude toward your inner subjective experience in childhood also teaches you to view your inner world as insignificant.
 
+If you come to psychotherapy to figure out why you're having such a hard time forming relationships with other people, you may finally admit to yourself that you have unsupportive parents.
+
 > Once you make your decision, they often shoot holes in it.
+
+The sooner a child learns to pursue their happiness against their parent's disapproval, the stronger the bond they will have with their inner self and, by extension, with other people. They will be more assertive, more resilient, and more genuine.
 
 > Taking thoughtful action toward your own goals is evidence of your individuation from them, and that makes them insecure.
 
