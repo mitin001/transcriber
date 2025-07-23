@@ -1,5 +1,7 @@
 # 1. Introduction to computer hardware
 
+> You cannot name the inventor of the computer because what we now call a computer emerged after a long series of incremental steps.
+
 Computers as we know them today were only made possible by the development of electronics and telecommunications. These present such a challenge for humans that the first attempt to connect Europe and North America with an electric cable didn't happen until 1858. Until then, no signals could be sent back and forth across the Atlantic Ocean. Once the longest submarine cable was finally in place, when people tried sending a signal across this cable, they found that it attenuated so much that it couldn't be perceived on the other end. Either a more sensitive device was needed to decode the signal, or the signal needed to be stronger. They tried the latter, which, of course, melted the cable.
 
 > The receiver used the magnetic field from the current in the cable to deflect a magnetized needle. Unfortunately, after crossing the Atlantic the signal was too weak to be detected reliably. The original voltage used to drive a current down the cable was approximately 600 V. So, they raised the voltage to about 2000 V to drive more current along the cable and improve the detection process. Unfortunately, such a high voltage burned through the primitive insulation, shorted the cable, and destroyed the first transatlantic telegraph link.
@@ -40,6 +42,10 @@ This boils down to which shortcuts are available to the machine to perform its o
 
 Table 1
 
-We can rely on such tricks to speed up computation in our heads, too. For example, we may remember that 12²=144 and 13²=169 but not remember the value of 14². Because we know two successive squares before it, we can easily compute their difference: 169-144=25. The next odd integer is 27, so 14²=169+27=196. Similarly, 15²=196+29=225.
+We can rely on such tricks to speed up computation in our heads, too. For example, we may remember that 12²=144 and 13²=169 but not remember the value of 14². Because we know two successive squares before it, we can easily compute their difference: 169-144=25. The next odd integer is 27, so 14²=169+27=196. Similarly, 15²=196+29=225. Note that such operations can be reduced to rapid but trivial movements of bits across transistors and conductors. So it is with everything a computer does. A computer can only do very simple things, but it can do them very fast.
+
+> A high-speed moron.
+
+It's a numbers game. With that appears to be intricate and complex arises from a combination of a very large number of rapidly performed trivial, straightforward operations.
 
 [shift, carry, and xor]: /blog/books/feynmans-lectures-on-computation/01-introduction.md
