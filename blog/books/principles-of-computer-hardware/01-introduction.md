@@ -40,7 +40,7 @@ Today's computers vary in the way they compute. The computation result you're se
 
 This boils down to which shortcuts are available to the machine to perform its operations. For example, the multiplication operation on present-day architectures is an abstraction of a combination of nand gates arranged to perform [shift, carry, and xor] operations. A present-day computer is organized in such a way that there are many nand gates that can readily be programmed to perform such operations. The organization of an older computer relied on other tricks. For example, the square of an integer can be expressed in terms of a sum of odd integers.
 
-Table 1
+<img width="864" height="479" alt="17532927561441796100040158026967" src="https://github.com/user-attachments/assets/f017f327-5392-4034-9293-aaf99e84ea7b" />
 
 We can rely on such tricks to speed up computation in our heads, too. For example, we may remember that 12²=144 and 13²=169 but not remember the value of 14². Because we know two successive squares before it, we can easily compute their difference: 169-144=25. The next odd integer is 27, so 14²=169+27=196. Similarly, 15²=196+29=225. Note that such operations can be reduced to rapid but trivial movements of bits across transistors and conductors. So it is with everything a computer does. A computer can only do very simple things, but it can do them very fast.
 
