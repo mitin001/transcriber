@@ -22,7 +22,7 @@ Your inner self won't let you be manipulated by other people, unless you're shut
 
 > Your adult inner world of feelings and opinions challenge their belief that you still need their input and direction.
 
-The deeper one's inner world, the stronger their connection to their inner self. Emotionally immature (EI) people realize that on an intuitive level, but instead of using this knowledge constructively to get in touch with themselves, they use it to destructively. They try get other people out of touch with their inner selves to make them powerless against their emotional coercions. Children make the easiest targets. A child haven't yet developed a connection to their inner self, so there's nothing to sever. All an emotionally immature parent has to do to emotionally enslave their child is to stunt the development of their inner world, nip it in the bud.
+The deeper one's inner world, the stronger their connection to their inner self. Emotionally immature (EI) people realize that on an intuitive level, but instead of using this knowledge constructively to get in touch with themselves, they use it to destructively. They try to get other people out of touch with their inner selves to make them powerless against their emotional coercions. Children make the easiest targets. A child haven't yet developed a connection to their inner self, so there's nothing to sever. All an emotionally immature parent has to do to emotionally enslave their child is to stunt the development of their inner world, nip it in the bud.
 
 > Because EI parents want to direct how other people should be, their child’s inner experience isn’t relevant to them. They think of children as empty boxes to be filled with what parents want them to know.
 
