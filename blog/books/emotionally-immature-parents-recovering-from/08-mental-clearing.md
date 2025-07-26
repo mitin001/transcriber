@@ -8,16 +8,31 @@ Herein lies the link between EQ and IQ. Both can resist manipulation tactics. Hi
 
 > The process of mental clearing is very simple: mistrust any thought that gives you a sinking feeling. Many people think self-critical thoughts are the voice of their conscience, but that’s not true. Legitimate conscience guides you; it doesn’t make sweeping indictments of how good or bad you are. A healthy conscience supports moral growth by leading you to make corrections or offer amends.
 
-> Creative thought depends on access to your whole mind, no matter where your next thought leads. Your creativity and problem-solving ability shrink when you start censoring thoughts that might offend or threaten an EIP in your life. To be a good problem solver, you can’t limit your ideas just because they might upset an insecure person.
-
-> As an adult, your job is to take care of your own emotional health, not try to win the approval of someone who may be thoughtlessly asking for more than you can comfortably give.
+[Putting yourself down] comes from a misunderstanding of your inner self. All genuine self-criticism is constructive criticism. Remember to be kind to yourself. It strengthens your connection to your inner self.
 
 > Train your mind to immediately counter extreme or hopeless thoughts with reason and perspective, much like a defense attorney might cross-examine an opponent’s witness.
 
+Negative thinking can be safely labeled as a hand-me-down from a negative person in your life. Your inner self does not think negatively; it only thinks constructively.
+
 > Instead of listening to all your demoralizing thoughts as if they were facts, you can label them as negative thinking and contest their distorted view of life. You can reframe hopeless, critical, and discouraging thoughts into more realistic, hopeful ideas.
+
+When encountering a negative thought, regard it as clutter.
 
 > Mental clutter are thoughts that didn’t originally belong to you. They cause feelings like shame, fear, obsessive worry, hopelessness, helplessness, pessimism, and self-criticism.
 
+Such thoughts are not to be believed. You don't need to make yourself feel negative feelings. Trace them back to the source and assert that you will no longer let this person's negative judgement affect you with the thoughts you were once naive enough to accept as your own.
+
 > They were not originally a part of you and have nothing to do with the natural functioning of your mind. They just create disorder and distortion. Think of these thoughts as debris left over from EI parents’ emotional coercions. EI parents often promote demoralized thinking in their children because it makes them easier to control.
 
-[dirty tricks]: manipulation tactics
+Remember also not to shut yourself away from what your inner self is trying to tell you, regardless of how such a thought would be received by others.
+
+> Creative thought depends on access to your whole mind, no matter where your next thought leads. Your creativity and problem-solving ability shrink when you start censoring thoughts that might offend or threaten an EIP in your life. To be a good problem solver, you can’t limit your ideas just because they might upset an insecure person.
+
+Your conversation with your inner self is private. It does not concern others. They don't need to hear it.
+
+> As an adult, your job is to take care of your own emotional health, not try to win the approval of someone who may be thoughtlessly asking for more than you can comfortably give.
+
+Have a conversation with your inner self without misinterpreting or censoring its messages to you. The more genuine you are with yourself, the clearer your mind will be, the less prone you will be to manipulation.
+
+[dirty tricks]: /blog/websites/inoculation.science/incoherence.md
+[Putting yourself down]: /blog/books/emotionally-immature-parents-recovering-from/07-relationship-with-self.md
