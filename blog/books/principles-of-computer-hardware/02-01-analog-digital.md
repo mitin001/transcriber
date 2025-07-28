@@ -17,6 +17,6 @@ Digitizing the world introduces latency. The latency arises when the digital var
 
 The more the range of the analog physical quantities (e.g., 0-3 V), the further away is the threshold for the digit change (e.g., 1.5 V), but also the less likely it is that the error in the physical quantity will trip the digit threshold and cause the wrong digit to be reported (e.g., if interference ups the voltage to 1 V where it should be 0 V, the computer still treats it as a 0). In real circuits, if the voltage is too close to the threshold (in a region designated as the forbidden zone), no determination is made for whether it's a 1 or a 0.
 
-p.27
+<img width="864" height="912" alt="17536778190266049728854025696943" src="https://github.com/user-attachments/assets/0b7c3860-36bc-47cc-b9e7-a05ef365d853" />
 
 Each digital component comes with an input range and an output range, which designate how to classify the incoming and outgoing voltages as bits. The input range does not necessarily match the output range. If it is expected that the output of one component will get distorted by noise as to raise its voltage before it reaches the input of the next component, the input range is increased relative to the output range.
