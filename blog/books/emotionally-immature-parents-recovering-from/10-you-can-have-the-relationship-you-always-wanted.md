@@ -1,14 +1,26 @@
 # 10: Now You Can Have the Relationship You’ve Always Wanted
 
-> It’s as if you unwittingly “signed” a relationship contract with them in childhood without realizing what it would cost you in your adult life. Thankfully, you can now revise that old relationship arrangement to be fairer to you.
+In _[Social Studies]_, Fran Lebowitz listed a number of things that shouldn't concern children. Making contractual obligations was one of them.
+
+> You unwittingly “signed” a relationship contract with them in childhood without realizing what it would cost you in your adult life. Thankfully, you can now revise that old relationship arrangement to be fairer to you.
+
+If you entered a contractual obligation as a child, it is your responsibility to renegotiate such a contact in adulthood. This is what is meant by growing up for you. If you finally broke your old patterns with your parents where they expect you to be their [passive audience] in their interactions with you, congratulations. You have voided the contract.
 
 > Your mission was accomplished as soon as you asked to talk. That act alone reversed your old childhood role. By sharing your concern, you changed your old relationship contract (such as “I agree not to speak my mind around you”). Short talks like this show both of you that your connection can survive some honesty and leave things feeling more real.
 
+Two adults are always [co-equals], no matter their relationship or the terms of the contracts one of them was manipulated into in their tender age. By breaking its terms, you have shown that the contract is void.
+
 > You acted like an equal and took the lead with clear, intimate communication. This is a huge step forward.
+
+To break the old patterns, stop being susceptible to [emotional contagion] of an emotionally immature person (EIP) in your life. When they try to stir up negativity, kill it with kindness. Negativity has [nowhere to go] when the topic has shifted to a positive direction.
 
 > Respond to the EIP’s hostility with empathy as if they were looking for understanding rather than a fight. By discerning their deeper emotional desire for connection, you interpret their unpleasant behavior as a cry for attention and acceptance. Sometimes the surprise of an empathetic response transforms a belligerent situation and instead allows something creative, meaningful, and connecting to take place.
 
+Toddlers, or adults who behave like toddlers, need to be able to [cry it out]. Let them process their feelings in solitude. You don't have to be there and take it. It's better for them if you leave them alone.
+
 > I can see you’re really sad, Mom. I’m going to let you work it out. When you’re ready, I’ll be downstairs, and we can go shopping like we planned. But I want you to take as much time as you need to feel sad.
+
+Don't try to change anyone's mind about anything, especially if you're talking to an emotionally immature person. Let them see you have fun without them. Maybe they'll join you. Letting people figure things out on their own is the best persuasion tactic.
 
 > Please don’t do anything you don’t want to. We’re going to leave in about a half hour. If you change your mind, we’d love to have you go with us, or you can catch a cab over later if you’d like to join us for coffee and dessert.
 
