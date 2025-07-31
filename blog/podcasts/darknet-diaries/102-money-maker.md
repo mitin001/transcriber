@@ -1,10 +1,10 @@
 # [102](https://darknetdiaries.com/transcript/102/). Money Maker
 
-One day Frank Bourassa realized that the most efficient way of making money is just printing it himself.
+One day Frank Bourassa realized that the most efficient way to make money is just to print it himself.
 
 > Frank thought going to work to earn money was like a maze that you had to solve slowly, and he just wanted to go around the maze and head directly to the exit by making counterfeit money himself; just print the cash himself.
 
-Why earn money when you can print it?
+Why earn money when you can just make it yourself?
 
 > Instead of finding a way to make money, just make money.
 
