@@ -20,11 +20,11 @@ Saying one thing and doing another is a big part of the job for any expert that 
 
 > A big part of a real-estate agent’s job, it would seem, is to persuade the homeowner to sell for less than he would like while at the same time letting potential buyers know that a house can be bought for less than its listing price. To be sure, there are more subtle means of doing so than coming right out and telling the buyer to bid low.
 
-They have follow a special code when selecting words when they write house listings.
+They follow a special code when selecting words when they write house listings.
 
 > Agents convey information through the for-sale ads they write.
 
-Those who don't know the realtor code will easily miss the information encoded in such listings. Some words convey positive information about a house when read in general English but negative information when read in realtor English.
+Those who don't know the realtor code will easily miss the information encoded in such listings. Some words convey positive information about a house when read in everyday English but negative information when read in realtor English.
 
 > Certain words are powerfully correlated with the final sale price of a house. This doesn’t necessarily mean that labeling a house “well maintained” causes it to sell for less than an equivalent house. It does, however, indicate that when a real-estate agent labels a house “well maintained,” she may be subtly encouraging a buyer to bid low.
 
@@ -35,6 +35,8 @@ What does "well maintained" actually mean in a for-sale ad?
 p.68
 
 > The typical house isn’t “charming” or “fantastic,” but unless you say it is, no one will even bother to take a look.
+
+Experts go for empty generalizations when there's nothing meaningful to say. When it comes to a house, a general descriptor indicates that the house has no notable features that the realtor could put in the listing, so they're just using up the space with fluff.
 
 > Three of the five terms correlated with a higher sale price are physical descriptions of the house itself: granite, Corian, and maple. As information goes, such terms are specific and straightforward—and therefore pretty useful. If you like granite, you might like the house; but even if you don’t, “granite” certainly doesn’t connote a fixer-upper. Nor does “gourmet” or “state-of-the-art,” both of which seem to tell a buyer that a house is, on some level, truly fantastic. “Fantastic,” meanwhile, is a dangerously ambiguous adjective, as is “charming.” Both these words seem to be real-estate agent code for a house that doesn’t have many specific attributes worth describing. “Spacious” homes, meanwhile, are often decrepit or impractical. “Great neighborhood” signals a buyer that, well, this house isn’t very nice but others nearby may be. And an exclamation point in a real-estate ad is bad news for sure, a bid to paper over real shortcomings with false enthusiasm. If you study the words in ads for a real-estate agent’s own home, meanwhile, you see that she indeed emphasizes descriptive terms (especially “new,” “granite,” “maple,” and “move-in condition”) and avoids empty adjectives (including “wonderful,” “immaculate,” and the telltale “!”). Then she patiently waits for the best buyer to come along. She might tell this buyer about a house nearby that just sold for $25,000 above the asking price, or another house that is currently the subject of a bidding war. She is careful to exercise every advantage of the information asymmetry she enjoys.
 
