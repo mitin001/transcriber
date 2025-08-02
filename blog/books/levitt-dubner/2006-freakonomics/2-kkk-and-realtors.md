@@ -32,7 +32,7 @@ What does "well maintained" actually mean in a for-sale ad?
 
 > It means that a house is old but not quite falling down.
 
-p.68
+<img width="863" height="1037" alt="1754172504329427584418812825347" src="https://github.com/user-attachments/assets/2f38bd4d-8910-4569-b580-1145f98226fe" />
 
 > The typical house isn’t “charming” or “fantastic,” but unless you say it is, no one will even bother to take a look.
 
