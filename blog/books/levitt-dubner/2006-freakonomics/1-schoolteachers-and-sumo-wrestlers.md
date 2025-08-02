@@ -12,7 +12,11 @@ W. C. Fields reminds us that every economic incentive has a hoard of cheaters cl
 
 > A thing worth having is a thing worth cheating for.
 
+You can't make anything cheater proof because cheaters have their strength in numbers and you don't.
+
 > For every clever person who goes to the trouble of creating an incentive scheme, there is an army of people, clever and otherwise, who will inevitably spend even more time trying to beat it.
+
+Never rely on the honor system.
 
 > Consider what happened one spring evening at midnight in 1987: seven million American children suddenly disappeared. The worst kidnapping wave in history? Hardly. It was the night of April 15, and the Internal Revenue Service had just changed a rule. Instead of merely listing the name of each dependent child, tax filers were now required to provide a Social Security number. Suddenly, seven million children—children who had existed only as phantom exemptions on the previous year’s 1040 forms—vanished, representing about one in ten of all dependent children in the United States.
 
