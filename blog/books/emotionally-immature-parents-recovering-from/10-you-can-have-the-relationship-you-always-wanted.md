@@ -1,10 +1,10 @@
 # 10: Now You Can Have the Relationship You’ve Always Wanted
 
-In _[Social Studies]_, Fran Lebowitz listed a number of things that shouldn't concern children. Making contractual obligations was one of them.
+In _[Social Studies]_, Fran Lebowitz listed a number of things that shouldn't concern children. Making contractual obligations was one of them. Lindsay Gibson argues that perpetuating the emotional enmeshment with emotionally immature parents into one's adulthood is akin to continuing to live by the rules of a contract signed in one's childhood.
 
 > You unwittingly “signed” a relationship contract with them in childhood without realizing what it would cost you in your adult life. Thankfully, you can now revise that old relationship arrangement to be fairer to you.
 
-If you entered a contractual obligation as a child, it is your responsibility to renegotiate such a contact in adulthood. This is what is meant by growing up for you. If you finally broke your old patterns with your parents where they expect you to be their [passive audience] in their interactions with you, congratulations. You have voided the contract.
+If you entered a contractual obligation as a child, it is your responsibility to renegotiate such a contract in adulthood. This is what it means to grow up. If you finally broke the old patterns with your parents, the ones where they expect you to be a [passive audience] in their interactions with you, congratulations. You have voided the contract.
 
 > Your mission was accomplished as soon as you asked to talk. That act alone reversed your old childhood role. By sharing your concern, you changed your old relationship contract (such as “I agree not to speak my mind around you”). Short talks like this show both of you that your connection can survive some honesty and leave things feeling more real.
 
@@ -37,3 +37,4 @@ Her mother didn't have to change. Only the daughter changed the way she thought 
 > She accepted each little interaction with her mother on its own terms without comparing her mother’s behavior to what she used to wish for. Once she decided to treat each interaction as a new moment, without grudges or hope, feelings of bitterness faded. She felt satisfied with whatever interactions they had.
 
 [Social Studies]: /blog/books/fran-lebowitz-reader/social-studies.md
+[passive audience]: /blog/books/emotionally-immature-parents-recovering-from/05-skills-to-evade-coercions.md
