@@ -35,3 +35,5 @@ Lindsay Gibson highlights her patient's success story. This person used to strug
 Her mother didn't have to change. Only the daughter changed the way she thought of her mother. There was no longer an expectation of emotional intimacy one would reserve for family members. Do you know how sometimes spending time with strangers gives you something that you were missing from your family? That might be simply because your expectations of strangers are lower. So lower your expectations for your family members, make them seem like strangers to you, and you may like relating to them in that level. Make each interaction a self-contained event; pretend there is no history of emotional baggage with this person.
 
 > She accepted each little interaction with her mother on its own terms without comparing her mother’s behavior to what she used to wish for. Once she decided to treat each interaction as a new moment, without grudges or hope, feelings of bitterness faded. She felt satisfied with whatever interactions they had.
+
+[Social Studies]: /blog/books/fran-lebowitz-reader/social-studies.md
