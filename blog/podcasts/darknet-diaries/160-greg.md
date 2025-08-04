@@ -16,7 +16,7 @@ Greg doesn't need to hide his goth identity in adulthood because people take him
 
 > Trying to use the tool or machine or application in ways it’s not supposed to be used to see if you could glitch it or somehow get it to act weird.
 
-A cat will pull the wire on his feeder out of the outlet just enough to cause it to short. The feeder will glitch and dispense the food before its scheduled time. To find this vulnerability, the cat has been fuzzing with the feeder. Similarly, Greg is fuzzing with Word documents to try to get Word to glitch.
+A [cat] will pull the wire on his feeder out of the outlet just enough to cause it to short. The feeder will glitch and dispense the food before its scheduled time. To find this vulnerability, the cat has been fuzzing with the feeder. Similarly, Greg is fuzzing with Word documents to try to get Word to glitch.
 
 > He opened up a Word doc, not in Microsoft, though; in a hex editor where you can manipulate the ones and zeros directly in the file, almost like doing surgery on the file, and he put in a character directly into the file that he knows Microsoft Word can’t accept, and then he’d save it and try to open it up in Word to see what it would do.
 
@@ -47,3 +47,5 @@ He will lower the brightness value on the camera so much, the image will turn co
 Greg's word of caution to security researchers is to begin their work in the data-link layer. Vulnerabilities in the network, transmission, and application layers may be getting all the attention, but don't overlook the basics.
 
 > Red teamers out there, pen testers out there, never skip out on layer two attacks. Layer two is your responders, your Cain and Abels, your ARP poisoning, your DHCP spoofing, all of those. That is gonna be your bread and butter. I promise you those vulnerabilities are still existing there. They still work.
+
+[cat]: https://www.tiktok.com/@pubity/video/7457931969251364129
