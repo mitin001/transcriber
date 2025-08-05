@@ -1,5 +1,4 @@
-# [99](https://darknetdiaries.com/transcript/99/). The
-Spy
+# [99](https://darknetdiaries.com/transcript/99/). The Spy
 
 If you suspect that you're being followed, private investigator Igor suggests checking those suspicions by driving through several drive-throughs and highway ramps.
 
