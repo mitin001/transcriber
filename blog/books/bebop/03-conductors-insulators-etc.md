@@ -30,6 +30,6 @@ If we traced an electron moving through the wire, it would take a much longer ti
 
 A movement of water molecules through buckets and pipes in air is similar to the movement of electrons through conductors. A force of gravity pushing on water is like electric potential causing electrons to move to the area of positively charge. The higher the pressure, the higher the water flow. That is, the higher the voltage, the higher the current. The thinner the pipe, the lower the water flow. That is, the higher the resistance, the lower the current.
 
-Fig2
+<img width="864" height="465" alt="17548480596635520374062574203706" src="https://github.com/user-attachments/assets/e9194ea4-16bb-4e30-86f2-593ca7bf240b" />
 
 > Consider two electric fans facing each other on a desk. If you turn one of the fans on, the other will start to spin in sympathy. In this case, we might say that the first fan induces an effect in the second. Well, electrical inductance is just like this.
