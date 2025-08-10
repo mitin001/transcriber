@@ -32,4 +32,8 @@ A movement of water molecules through buckets and pipes in air is similar to the
 
 <img width="864" height="465" alt="17548480596635520374062574203706" src="https://github.com/user-attachments/assets/e9194ea4-16bb-4e30-86f2-593ca7bf240b" />
 
+Water pipes can't provide a good mechanical analogy for electrical inductance, but fans may. If a fan is turned on and starts blowing at a fan that's off, the air will start spinning the spokes of the off fan.
+
 > Consider two electric fans facing each other on a desk. If you turn one of the fans on, the other will start to spin in sympathy. In this case, we might say that the first fan induces an effect in the second. Well, electrical inductance is just like this.
+
+An inductor is connected to an active electric circuit, and it induces—through a changing magnetic field—the current in an inactive conductor nearby.
