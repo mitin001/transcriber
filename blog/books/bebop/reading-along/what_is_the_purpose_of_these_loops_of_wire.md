@@ -16,6 +16,10 @@ Noisy USB cables have blocks of ferrite on them for the same reason.
 
 > In the case of USB cables, the reason they have them is because when the device they're attached to was tested for electromagnetic compliance (EMC) the lab has likely found it to be over one or more limits, and that adding a ferrite made it compliant. So the supplier chose to go with that solution and simply add a ferrite to every cable rather than redesign the product to reduce the noise.
 
+The requirement for noise suppression on these USB cables is minimal.
+
+> Ferrites only really buy a few dB of attenuation.
+
 The magnetic field resists changes in current, that is, it resists HF AC current. This is similar to how capacitors impede changes in voltage because of their stored electrical energy.
 
 > Inductors resist instantaneous changes in current flow, and capacitors resist instantaneous changes in voltage level. The reasons for these in turn are that inductors store energy in the form of magnetic field and release that energy in opposition to fast changes in current. Capacitors in turn store energy in the form of electric field and release that energy in opposition to fast changes in voltage.
@@ -48,4 +52,4 @@ A static magnetic field does not generate electricity. Only a moving magnetic fi
 
 > Magnetic fields, like gravitational fields do not create energy in themselves, they simply allow it to be transferred. This is why electricity is not generated in a wire when a stationary magnetic is near it. It's only when a magnet is moved near a wire that electricity is generated. It's the movement of the magnet that provides the energy for the electricity to be generated, rather than the magnetic field itself. And, like the object lifted from the floor to the shelf, the movement does not create energy either, the energy is stored somewhere else (like in your biomass, or in a piston, or in water that's falling out a dam spillway) that's converted through movement of the magnetic field, into electricity.
 
-Thus, a magnetic field is simply a conduit of energy. For example, the falling water moves magnets around, thereby transferring its gravitational potential energy into electrical energy through the magnetic field, which generates electricity in a power plant.
+A magnetic field is simply a conduit of energy. For example, the falling water moves magnets around, thereby transferring its gravitational potential energy into electrical energy through the magnetic field, which generates electricity in a power plant.
