@@ -1,12 +1,18 @@
 # 3. Unbelievable stories about apathy and altruism
 
+Advertising works. Call on people to purchase your product or donate to your charity and a subset of them will. The more compelling the ad, the larger the response ratio. The larger the audience, the more people will respond.
+
+> A given disaster received an 18 percent spike in charitable aid for each seven-hundred-word newspaper article and a 13 percent spike for every sixty seconds of TV news coverage. (Anyone hoping to raise money for a Third World disaster had better hope it happens on a slow news day.)
+
+The most compelling calls to action are the ones that incentivize their audience. A charitable donation is received in exchange for the donor showing himself or others that he is a good person. Care for an elderly parent is given in exchange for the same unless there is a better incentive involved.
+
 > An elderly parent in a retirement home is more likely to be visited by his grown children if they are expecting a sizable inheritance.
 
-But it's not because wealthy people raise their children to care for them.
+This is not because wealthy people raise their children to care for them.
 
 > You’d expect an only child of wealthy parents to be especially dutiful. But the data show no increase in retirement-home visits if a wealthy family has only one grown child; there need to be at least two. This suggests that the visits increase because of competition between siblings for the parent’s estate. What might look like good old-fashioned intrafamilial altruism may be a sort of prepaid inheritance tax.
 
-> A given disaster received an 18 percent spike in charitable aid for each seven-hundred-word newspaper article and a 13 percent spike for every sixty seconds of TV news coverage. (Anyone hoping to raise money for a Third World disaster had better hope it happens on a slow news day.)
+Competition is what drives action. A sole empire is content in its stagnation. A monopoly will allocate none of its spoils to research and development. A sole heir will turn his attention away from his aging parents if his inheritance is secure. It appears that the only places where you see altruism are lab experiments.
 
 > By the early 1980s, the Prisoner’s Dilemma had inspired a lab game called Ultimatum, which works as follows. Two players, who remain anonymous to each other, have a onetime chance to split a sum of money. Player 1 (let’s call her Annika) is given $20 and is instructed to offer any amount, from $0 to $20, to Player 2 (we’ll call her Zelda). Zelda must decide whether to accept or reject Annika’s offer. If she accepts, they split the money according to Annika’s offer. But if she rejects, they both go home empty-handed. Both players know all these rules coming into the game. To an economist, the strategy is obvious. Since even a penny is more valuable than nothing, it makes sense for Zelda to accept an offer as low as a penny—and, therefore, it makes sense for Annika to offer just a penny, keeping $19.99 for herself. But, economists be damned, that’s not how normal people played the game. The Zeldas usually rejected offers below $3. They were apparently so disgusted by a lowball offer that they were willing to pay to express their disgust. Not that lowball offers happened very often. On average, the Annikas offered the Zeldas more than $6.
 
