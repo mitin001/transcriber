@@ -79,3 +79,5 @@ Amazon's "customer obsession" has turned into an environmental disaster. It's ea
 Meanwhile, everything is becoming [commodified and enshittified]. Corporations purchase the cheapest labor to churn out heaps of merchandise to cram into our homes.
 
 > I don't want my shirt to be $3.
+
+Consumers think they want it, but ultra-low prices for crappy goods made at a great humanitarian cost only benefit the corporations. There's always a catch. 
