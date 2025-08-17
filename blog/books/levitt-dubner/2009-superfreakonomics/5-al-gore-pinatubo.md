@@ -37,3 +37,5 @@ Installing a Club produces a negative externality, whereas installing a LoJack p
 > For every additional percentage point of cars that have LoJack in a given city, overall thefts fall by as much as 20 percent. Since a thief can’t tell which cars have LoJack, he’s less willing to take a chance on any car. LoJack is relatively expensive, about $700, which means it isn’t all that popular, installed in fewer than 2 percent of new cars. Even so, those cars create a rare and wonderful thing—a positive externality—for all the drivers who are too cheap to buy LoJack, because it protects their cars too.
 
 Similarly, flying a plane produces a negative externality (more greenhouse gases dumped into the atmosphere), but a volcanic eruption produces a positive one (a cloud of sulphur dioxide that reflects much of the sunlight that would otherwise overheat the planet).
+
+[hurricanes]: /blog/books/levitt-dubner/2009-superfreakonomics/4-the-fix-is-in.md
