@@ -24,4 +24,4 @@
 
 What do emotionally immature people and [gaslighting sociopaths] have in common? Both like to troll people online.
 
-[gaslighting sociopaths]: /blog/books/lindsay-gibson/2019/reading-along/darvo-sociopath-gaslighting.md
+[gaslighting sociopaths]: /blog/books/lindsay-gibson/2015/reading-along/darvo-sociopath-gaslighting.md
