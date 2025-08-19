@@ -1,0 +1,23 @@
+# [Recovering from Emotionally Immature Parents](https://books.google.com/books?id=hYeRDwAAQBAJ) by _Lindsay C. Gibson_ (2019)
+
+[Introduction](/blog/books/emotionally-immature-parents-recovering-from/00-introduction.md)
+
+[1: Your Emotionally Immature Parent](/blog/books/emotionally-immature-parents-recovering-from/01-your-eip.md)
+
+[2: Understanding Emotionally Immature Parents](/blog/books/emotionally-immature-parents-recovering-from/02-understanding-eips.md)
+
+[3: Longing for a Relationship with Your EI Parent](/blog/books/emotionally-immature-parents-recovering-from/03-the-suffering-self.md)
+
+[4: How to Resist Emotional Takeovers](/blog/books/emotionally-immature-parents-recovering-from/04-how-to-resist-emotional-takeovers.md)
+
+[5: Skills to Manage Interactions and Evade Coercions](/blog/books/emotionally-immature-parents-recovering-from/05-skills-to-evade-coercions.md)
+
+[6: EI Parents Are Hostile Toward Your Inner World](/blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md)
+
+[7: Nurturing Your Relationship with Yourself](/blog/books/emotionally-immature-parents-recovering-from/07-relationship-with-self.md)
+
+[8: The Art of Mental Clearing](/blog/books/emotionally-immature-parents-recovering-from/08-mental-clearing.md)
+
+[9: Updating Your Self-Concept](/blog/books/emotionally-immature-parents-recovering-from/09-self-concept.md)
+
+[10: Now You Can Have the Relationship You’ve Always Wanted](/blog/books/emotionally-immature-parents-recovering-from/10-you-can-have-the-relationship-you-always-wanted.md)
