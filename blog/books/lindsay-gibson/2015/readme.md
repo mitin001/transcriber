@@ -1,4 +1,4 @@
-# *[Adult Children of Emotionally Immature Parents](https://www.google.com/books/edition/Adult_Children_of_Emotionally_Immature_P/cZpGCQAAQBAJ)* by Lindsay C. Gibson
+# [Adult Children of Emotionally Immature Parents](https://www.google.com/books/edition/Adult_Children_of_Emotionally_Immature_P/cZpGCQAAQBAJ) (2015)
 
 [Introduction](/blog/books/lindsay-gibson/2015/00-introduction.md)
 

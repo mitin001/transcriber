@@ -1,4 +1,4 @@
-# [Recovering from Emotionally Immature Parents](https://books.google.com/books?id=hYeRDwAAQBAJ) by _Lindsay C. Gibson_ (2019)
+# [Recovering from Emotionally Immature Parents](https://books.google.com/books?id=hYeRDwAAQBAJ) (2019)
 
 [Introduction](/blog/books/lindsay-gibson/2019/00-introduction.md)
 
