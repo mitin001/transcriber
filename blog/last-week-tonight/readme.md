@@ -1,7 +1,5 @@
 # Last Week Tonight
 
-- [2024-06-02](https://s3.amazonaws.com/writecomments.com/transcripts/a060530aa3cac43d6f4524338eafd244.csv): Episode 11.13
-
 [2023-10-22: Episode 10.14](/blog/last-week-tonight/2023-10-22-ep-10-14.md)
 
 [2024-02-25: Episode 11.2](/blog/last-week-tonight/2024-02-25-ep-11-02.md)
@@ -23,6 +21,8 @@
 [2024-05-12: Episode 11.11](/blog/last-week-tonight/2024-05-12-ep-11-11.md)
 
 [2024-05-19: Episode 11.12](/blog/last-week-tonight/2024-05-19-ep-11-12.md)
+
+[2024-06-02: Episode 11.13](https://s3.amazonaws.com/writecomments.com/transcripts/a060530aa3cac43d6f4524338eafd244.csv)
 
 [2024-09-22: Episode 11.23](/blog/last-week-tonight/2024-09-22-ep-11-23.md)
 
