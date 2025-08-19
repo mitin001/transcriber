@@ -18,7 +18,7 @@ Kenneth Anger appears to have used an algorithm to edit his films. If you want t
 
 > My images and “their” music just came together, coalesced, fell-into-place, at a certain point in time — I often astonished at this ”sychronicity” (as Jung would call it) and finding therein proof of Magick and invisible helping hands and of “some ones” reading over my shoulder. For more often than calculation was just that joyous and glad “surprise, surprise, look what I found” which count for peaks in my experience.
 
-Brakhage and Anger saw their lives as the humble beginnings of something much greater. Whether this betrays a belief in the afterlife or a realization that their art will live long past their deaths, this is the right attitude for an artist to possess in order for him to remain prolific.
+Brakhage and Anger saw their lives as the humble beginnings of something much greater. Whether this betrays a belief in the afterlife or a realization that their art will live long past their deaths, this is exactly the kind of attitude that makes an artist prolific.
 
 > You and I both know, as damn few others apparently, what is IMPORTANT in this world — i.e. imported — i.e. life itself, on earth, only a bare-ass beginning.
 
