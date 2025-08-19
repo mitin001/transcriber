@@ -1,6 +1,6 @@
 # Instagram reels
 
-[Cleanly peel off a sticker with scotch tape and a blow-dryer](https://www.instagram.com/reel/DFu3Zn3ufbd/).
+[Cleanly peel off a sticker with scotch tape and a blow-dryer](https://www.instagram.com/reel/DFu3Zn3ufbd/)
 
 [How to get anyone to do anything](/blog/instagram-reels/labeling.md)
 
