@@ -18,6 +18,8 @@ On the console, run the following JS command:
 document.querySelector('#community-notifications div.gap-xs button:nth-child(1):not([rpl-selected])').click();
 ```
 
+(Syntax references: [document.querySelector], [selectors], [attribute selectors], [click]).
+
 <img width="864" height="126" alt="image" src="https://github.com/user-attachments/assets/dd1b0290-04a3-4642-97e3-afb8fe6c529e" />
 
 This clicked the Off button for you on the first community.
@@ -44,3 +46,7 @@ You're welcome.
 
 [notifications]: https://www.reddit.com/notifications
 [notification settings]: https://www.reddit.com/settings/notifications
+[document.querySelector]: https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+[selectors]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors
+[attribute selectors]: https://developer.mozilla.org/en-US/docs/Web/CSS/Attribute_selectors
+[click]: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/click
