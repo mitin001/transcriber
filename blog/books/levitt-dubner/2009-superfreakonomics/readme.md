@@ -11,3 +11,7 @@
 [4. The chlorine solution and the jellyfish fix](/blog/books/levitt-dubner/2009-superfreakonomics/4-the-fix-is-in.md)
 
 [5. What do Al Gore and Mount Pinatubo have in common?](/blog/books/levitt-dubner/2009-superfreakonomics/5-al-gore-pinatubo.md)
+
+This controversial chapter tackles the problem of saving the world from a climate catastrophe. Related: [how to feed the starving world].
+
+[how to feed the starving world]: /blog/books/levitt-dubner/2009-superfreakonomics/reading-along/food-distribution-problem.md
