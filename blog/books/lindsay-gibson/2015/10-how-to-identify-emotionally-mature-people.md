@@ -43,4 +43,4 @@ They will lash out at you for disappointing or inconveniencing them, something m
 When you're dating someone, look at their social media posts. Do they troll people when hiding behind the computer screen? Note that this is how they're gonna treat you when the rose-colored glasses come off.
 
 [TED talkers]: /blog/youtube/the-beauty-of-conflict.md
-[inner self]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[inner self]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

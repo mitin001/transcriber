@@ -15,5 +15,5 @@ Once you build up your [inner world], you may not even need to avoid your overbe
 Going into a difficult situation, remember that it is up to you to emerge from it psychologically unscathed. Always have a backup plan in a [negotiation]. Never let your emotions wound you. 
 
 [negotiation]: /blog/podcasts/pivot/2025-04-25-boring-investments-unemotional-negotiations.md
-[inner self]: /blog/books/emotionally-immature-parents/07-breaking-down-and-awakening.md
-[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[inner self]: /blog/books/lindsay-gibson/2015/07-breaking-down-and-awakening.md
+[inner world]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

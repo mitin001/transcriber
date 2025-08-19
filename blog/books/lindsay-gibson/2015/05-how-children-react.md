@@ -18,4 +18,4 @@ They will impulsively take an action without thinking through the consequences. 
 
 Externalizers prefer not to live in our shared reality. They build a world of their own in their heads where there is no room for difficulties. Of course, when they inevitably bump up against our shared reality with its difficulties, they can't make sense of them, so they blame supernatural forces for those. Since they actually live _here_, not in the fairy tales of their minds, they will have to confront difficulties. But since there cannot be difficulties in an externalizer's world, it must be something not of this world that's responsible for them. Cue supernatural beings, fortunetellers, and the chakras.
 
-[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[inner world]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

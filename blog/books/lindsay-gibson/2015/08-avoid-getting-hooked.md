@@ -41,4 +41,4 @@ You can't have relationships with emotionally immature people. At most, you can 
 > Engaging in a real relationship means being open and establishing emotional reciprocity. If you try this with emotionally immature people, you’ll feel frustrated and invalidated. As soon as you start looking for emotional understanding from such people, you won’t be as balanced within yourself. It makes more sense to aim for simple relatedness with them, saving your relationship aspirations for people who can give something back.
 
 [negotiation]: /blog/podcasts/pivot/2025-04-25-boring-investments-unemotional-negotiations.md
-[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[inner world]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

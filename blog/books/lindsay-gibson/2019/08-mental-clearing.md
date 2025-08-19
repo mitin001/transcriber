@@ -35,4 +35,4 @@ Your conversation with your inner self is private. It does not concern others. T
 Listen to your inner self without misinterpreting or censoring its messages to you. The more genuine you are with yourself, the clearer your mind will be, and the less prone you will be to manipulation.
 
 [dirty tricks]: /blog/websites/inoculation.science/incoherence.md
-[Putting yourself down]: /blog/books/emotionally-immature-parents-recovering-from/07-relationship-with-self.md
+[Putting yourself down]: /blog/books/lindsay-gibson/2019/07-relationship-with-self.md

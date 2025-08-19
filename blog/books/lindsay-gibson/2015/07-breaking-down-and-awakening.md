@@ -36,4 +36,4 @@ Talking to abusive people is a step back. You may desperately want an explanatio
 
 > The true self will find ways to express itself, even in the face of efforts to play a role or live out a healing fantasy. When people have ignored their true self for too long, they may develop psychological symptoms. Waking up to the needs of the true self can initially feel like breaking down. Panic, anger, and depression are just a few symptoms that may signal an emotional awakening to better self-care and healthier values. When people process their childhood issues and wake up to their strengths, they gain the confidence to start living from their true self.
 
-[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[inner world]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

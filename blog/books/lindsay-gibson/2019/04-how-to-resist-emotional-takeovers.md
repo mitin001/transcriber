@@ -36,6 +36,6 @@ Emotionally immature people actively work to sever the channel of communication 
 
 > An EIP’s intimidating pressure, anger, and judgments can disconnect you from yourself to the point of dissociation.
 
-[treating you like garbage]: /blog/books/emotionally-immature-parents/10-how-to-identify-emotionally-mature-people.md
+[treating you like garbage]: /blog/books/lindsay-gibson/2015/10-how-to-identify-emotionally-mature-people.md
 [Marketoonist]: /blog/websites/marketoonist.com/2024-03-the-large-print-giveth.md
 [Always negotiate unemotionally]: /blog/podcasts/pivot/2025-04-25-boring-investments-unemotional-negotiations.md

@@ -58,6 +58,6 @@ Don't feel bad for making fun of someone who has the emotional maturity of a [to
 
 First and foremost, look out for yourself when interacting with adults.
 
-[nowhere to go]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[nowhere to go]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md
 [people who make ridiculous claims]: /blog/websites/inoculation.science/incoherence.md
 [Rachel Maddow]: /blog/podcasts/rachel-maddow/readme.md

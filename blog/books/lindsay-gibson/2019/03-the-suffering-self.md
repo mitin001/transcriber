@@ -16,4 +16,4 @@ It is time to transform your suffering self into your true self by abandoning th
 
 > The suffering self convinces you that self-sacrifice makes you a good person or at least more likely to be loved by others. But now this suffering self should be retired as the model for your relationships. Being active on your own behalf is much better than passivity and helplessness.
 
-[Do not play roles]: /blog/books/emotionally-immature-parents/07-breaking-down-and-awakening.md
+[Do not play roles]: /blog/books/lindsay-gibson/2015/07-breaking-down-and-awakening.md

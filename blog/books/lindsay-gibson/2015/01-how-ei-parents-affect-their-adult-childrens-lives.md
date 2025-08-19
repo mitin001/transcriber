@@ -15,4 +15,4 @@ They derive a feeling of safety from serving others, and there will be many peop
 Links between the inner worlds of two people are what make up [true intimacy]. Not only will an emotionally neglected child gravitate toward manipulative people in adulthood, but they will also have an insufficiently developed inner worlds, limiting their chances for linking with the inner worlds of others and finding true intimacy.
 
 [exchanges of attention]: /blog/books/the-sirens-call/6-dawn-of-the-attention-age.md
-[true intimacy]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[true intimacy]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

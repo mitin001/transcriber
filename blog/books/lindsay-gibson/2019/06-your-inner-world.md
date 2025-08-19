@@ -72,5 +72,5 @@ Telling someone how they should feel is an insult to their intelligence, an assa
 
 Every interaction you have with emotionally immature people should leave them with a reminder that you are not to be emotionally coerced. Do not reward their attempts at controlling you. Be positive, but stand your ground.
 
-[get in touch with yourself]: /blog/books/emotionally-immature-parents/10-how-to-identify-emotionally-mature-people.md
+[get in touch with yourself]: /blog/books/lindsay-gibson/2015/10-how-to-identify-emotionally-mature-people.md
 

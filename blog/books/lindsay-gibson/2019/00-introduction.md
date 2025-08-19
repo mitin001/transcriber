@@ -22,5 +22,5 @@ Depression, anxiety, and other [psychiatric distress] are signs of mental trauma
 
 Only if you develop your [inner world] can you form deep and truly intimate relationships with others. [True intimacy] lies in the connection of the inner worlds of two people.
 
-[psychiatric distress]: /blog/books/emotionally-immature-parents/07-breaking-down-and-awakening.md
-[True intimacy]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[psychiatric distress]: /blog/books/lindsay-gibson/2015/07-breaking-down-and-awakening.md
+[True intimacy]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

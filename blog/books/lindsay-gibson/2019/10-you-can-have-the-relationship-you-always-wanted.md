@@ -37,4 +37,4 @@ The daughter was able to turn unpleasant interactions around without forcing any
 > She accepted each little interaction with her mother on its own terms without comparing her mother’s behavior to what she used to wish for. Once she decided to treat each interaction as a new moment, without grudges or hope, feelings of bitterness faded. She felt satisfied with whatever interactions they had.
 
 [Social Studies]: /blog/books/fran-lebowitz-reader/social-studies.md
-[passive audience]: /blog/books/emotionally-immature-parents-recovering-from/05-skills-to-evade-coercions.md
+[passive audience]: /blog/books/lindsay-gibson/2019/05-skills-to-evade-coercions.md

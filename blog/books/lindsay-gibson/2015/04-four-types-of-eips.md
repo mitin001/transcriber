@@ -14,5 +14,5 @@ While most emotionally immature people consistently exhibit their emotional imma
 
 In this way, even an otherwise emotionally mature person can exhibit immaturity under such stress. Do not beat yourself up over making emotional mistakes. To err is human. Learn from your mistakes, grow your [inner world], and stay in touch with your [inner self].
 
-[inner self]: /blog/books/emotionally-immature-parents/07-breaking-down-and-awakening.md
-[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[inner self]: /blog/books/lindsay-gibson/2015/07-breaking-down-and-awakening.md
+[inner world]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md

@@ -16,8 +16,8 @@ Emotionally immature people use dirty tricks like shame in their emotional coerc
 
 > They lump people together, seeing them as much more similar than they really are. Individual complexities are ignored as they say things like, “You’re just like your father!” or “You’re like my side of the family.” They think they know you because you remind them of someone. As a result, they give you a typecast self-concept that doesn’t really fit you. With EI parents, you were told what to be, not helped to discover who you are. But now as an adult, you can expand your self-concept to include all your potential and complexity, even if EIPs still pigeonhole you in an oversimplified or childlike identity. You don’t have to go through life feeling like less than you are. Thankfully, your self-concept no longer has to be held hostage by your parents’ opinions. You are now free to discover who you are and what you want to become. You can update your self-concept to fit who you really are.
 
-[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
-[Guilt and shame]: /blog/books/emotionally-immature-parents-recovering-from/02-understanding-eips.md
-[carefully manage]: /blog/books/emotionally-immature-parents-recovering-from/05-skills-to-evade-coercions.md
-[props]: /blog/books/emotionally-immature-parents/05-how-children-react.md
-[empty, vapid pronouncements]: /blog/books/emotionally-immature-parents-recovering-from/02-understanding-eips.md
+[inner world]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md
+[Guilt and shame]: /blog/books/lindsay-gibson/2019/02-understanding-eips.md
+[carefully manage]: /blog/books/lindsay-gibson/2019/05-skills-to-evade-coercions.md
+[props]: /blog/books/lindsay-gibson/2015/05-how-children-react.md
+[empty, vapid pronouncements]: /blog/books/lindsay-gibson/2019/02-understanding-eips.md

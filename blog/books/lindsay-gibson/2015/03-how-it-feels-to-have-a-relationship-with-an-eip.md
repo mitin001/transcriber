@@ -50,4 +50,4 @@ Growing up emotionally neglected in this way will result in a child who needs ps
 
 When it comes to emotional development, you can't take it till you make it. You can't pretend to be fully emotionally developed and expect to be able to establish mature relationships and true intimacy with other people. They will quickly detect fakery and move on.
 
-[inner world]: /blog/books/emotionally-immature-parents-recovering-from/06-your-inner-world.md
+[inner world]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md
