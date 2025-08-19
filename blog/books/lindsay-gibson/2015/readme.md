@@ -21,3 +21,7 @@
 [9. How It Feels to Live Free of Roles and Fantasies](/blog/books/lindsay-gibson/2015/09-live-free-of-roles-and-fantasies.md)
 
 [10. How to Identify Emotionally Mature People](/blog/books/lindsay-gibson/2015/10-how-to-identify-emotionally-mature-people.md)
+
+What do emotionally immature people and [gaslighting sociopaths] have in common? Both like to troll people online.
+
+[gaslighting sociopaths]: /blog/books/lindsay-gibson/2019/reading-along/darvo-sociopath-gaslighting.md
