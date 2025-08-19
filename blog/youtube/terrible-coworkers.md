@@ -1,5 +1,6 @@
 # [Bill Burr on Dealing With Terrible Coworkers](https://youtube.com/watch?v=WWOqxxklKWE)
- [Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/2319bd7e61585a150ced3795f0fa9da1.csv).
+
+[Transcript](https://s3.amazonaws.com/writecomments.com/transcripts/2319bd7e61585a150ced3795f0fa9da1.csv).
   
 Bill Burr was on _Love Line_ with Dr. Drew when a woman that sounded like a cartoon character called into the show complaining of an intimacy problem she had with her boyfriend.
 
