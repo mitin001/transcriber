@@ -1,6 +1,6 @@
 # [Made in America](https://www.npr.org/transcripts/1255526971)
 
-Luxury brands pay its workers the same as discount brands.
+Premium dog food rolls off [the same conveyor] as discount chow. Luxury brands pay their workers the same as the mega-corporations making crap from the clearance isle.
 
 > A $20 t-shirt, a $120 t-shirt, the workers likely got $0.20 to work on it either way.
 
@@ -13,3 +13,4 @@ Whereas it's legal for corporations to stiff workers on their wages, they also a
 > If they were caught doing anything and the government came in, they would say, sorry, that company no longer exists. We're this owner. We're the new company now.
 
 [minimum]: /blog/books/the-sirens-call/1-the-sirens-call.md
+[the same conveyor]: /blog/books/the-sirens-call/1-the-sirens-call.md
