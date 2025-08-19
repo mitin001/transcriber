@@ -6,8 +6,6 @@
 
 [2: Understanding Emotionally Immature Parents](/blog/books/lindsay-gibson/2019/02-understanding-eips.md)
 
-Note the similarities between emotionally immature people and [gaslighting sociopaths].
-
 [3: Longing for a Relationship with Your EI Parent](/blog/books/lindsay-gibson/2019/03-the-suffering-self.md)
 
 [4: How to Resist Emotional Takeovers](/blog/books/lindsay-gibson/2019/04-how-to-resist-emotional-takeovers.md)
@@ -23,5 +21,3 @@ Note the similarities between emotionally immature people and [gaslighting socio
 [9: Updating Your Self-Concept](/blog/books/lindsay-gibson/2019/09-self-concept.md)
 
 [10: Now You Can Have the Relationship You’ve Always Wanted](/blog/books/lindsay-gibson/2019/10-you-can-have-the-relationship-you-always-wanted.md)
-
-[gaslighting sociopaths]: /blog/books/lindsay-gibson/2019/reading-along/darvo-sociopath-gaslighting.md
