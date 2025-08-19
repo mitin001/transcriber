@@ -18,7 +18,7 @@ I also write as I watch or listen to things.
 
 [NNF](/blog/nnf/readme.md)
 
-Even if it's spoken text, I still consider that writing. In this sense, most of my writing is inspired by other people's writing. Most, but not all. There's much inspiration in work and hobbies.
+Even if it's spoken text, I still consider that writing. In this sense, most of my writing is inspired by other people's writing. Most, but not all. There's much inspiration in work and hobbies, too.
 
 [Exercises in OSINT](/blog/exercises-in-osint/readme.md)
 
