@@ -6,15 +6,15 @@ When communication channels close, opportunities get missed and life is lived in
 
 > Across a short series of letters, the two artists go from deep admiration and love to vicious rage and profound hurt, and the result would be a loss to film history and scholarship.
 
-Kenneth Anger preferred to live looking on at the future and never back at the past. Brakhage wrote a lecture about his work, and when he gave him an opportunity to review it for accuracy and respectfulness, Anger responded that no matter what anyone says about his past he will deny it just as he would deny the concept of a past.
+Groundbreaking filmmaker Kenneth Anger preferred to live looking ahead at the future and never back at the past. Another visionary filmmaker, Stan Brakhage, wrote a lecture about Anger's work, and when he gave him an opportunity to review the text for accuracy and respectability, Anger responded that no matter what anyone says about his past, he will deny it just as he would deny the concept of a past itself.
 
-> I cannot confirm anything — it may have happened to “him” — one of the I’s, one of the many I’s I’ve escaped from (that was a close call!) sometimes (not very often) leaving my shed skin in the form of a film by the side of the road where I fled for others to ponder on (if they notice it at all). For my films have exor-cised me usually of weight of sight so that I might see anew.
+> I cannot confirm anything — it may have happened to “him” — one of the I’s, one of the many I’s I’ve escaped from (that was a close call!) sometimes (not very often) leaving my shed skin in the form of a film by the side of the road where I fled for others to ponder on (if they notice it at all). For my films have exorcised me usually of weight of sight so that I might see anew.
 
-An artist is able to convert his memories into imaginations of his followers.
+When his memories become your imagination, he is the artist, and you are his follower.
 
 > The Truth-Hawk sees the Furry Little Lies snuggling like field-mice or hop! hopping! like incautious wild hares in the Myth-Marsh of Imagination (your) and Memory (mine).
 
-The Kenneth Anger algorithm of film editing: throw the clips over the soundtrack without looking and play back the results. Keep whatever works, replace the rest via the same process. Repeat until the film is ready.
+Kenneth Anger appears to have used an algorithm to edit his films. If you want to use the same algorithm, throw the clips over the chosen soundtrack without looking and play back the results. Keep whatever works; replace the rest through the same process. Repeat until the film is ready. This way, you're letting the hand of God direct the edit of your film. Anger certainly believed in the hand of God.
 
 > My images and “their” music just came together, coalesced, fell-into-place, at a certain point in time — I often astonished at this ”sychronicity” (as Jung would call it) and finding therein proof of Magick and invisible helping hands and of “some ones” reading over my shoulder. For more often than calculation was just that joyous and glad “surprise, surprise, look what I found” which count for peaks in my experience.
 
