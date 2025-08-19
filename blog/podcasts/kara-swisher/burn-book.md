@@ -160,7 +160,7 @@ But the charm offensive didn't last long. Watch a narcissist long enough, and re
 
 Apparently, if you say anything that could be perceived as remotely negative about anything connected to him, even if true and fair, even if it's a reporter saying it, in his mind Musk will twist it to be an attack and forever hold a grudge.
 
-> All he said was that Tesla was trading on future hopes and dreams rather than real fundamentals. Musk’s overreaction indicated that he had the thinnest of skins. Thinner, apparently. He responded to my defense of Walt: “ ‘As per usual.’ Kara, don’t ever email me again.” So, I did not, as it was so ridiculously juvenile, like arguing with an overly sensitive seventh grader.
+> All he said was that Tesla was trading on future hopes and dreams rather than real fundamentals. Musk’s overreaction indicated that he had the thinnest of skins. Thinner, apparently. He responded to my defense of Walt: “‘As per usual.’ Kara, don’t ever email me again.” So, I did not, as it was so ridiculously juvenile, like arguing with an overly sensitive seventh grader.
 
 And if you defend said reporter, Musk will lash out at you, too, in the most juvenile of ways. And now this juvenile cretin heads a department of the US government much to its great detriment. Kara saw the danger in overconfident dumbasses drowning out competent voices early on.
 
