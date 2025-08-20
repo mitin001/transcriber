@@ -22,7 +22,7 @@ Brakhage and Anger saw their lives as the humble beginnings of something much gr
 
 > You and I both know, as damn few others apparently, what is IMPORTANT in this world — i.e. imported — i.e. life itself, on earth, only a bare-ass beginning.
 
-Brakhage's lecture on Anger followed the same format as my blog. When I read, I highlight parts of a text I'm working with, put them in blockquotes here, and surround them with my thoughts. This forms a kind of dialogue with the immortal part of the author. By leaving behind written word, authors immortalize parts of themselves. Authors never die. Every time you interact with their work, you extend their life. They get to live through you. The artifact of their existence continues to affect another living being.
+Brakhage's lecture on Anger followed the same format as my blog. When I read, I highlight parts of a text I'm working with, put them in blockquotes here, and surround them with my thoughts. This forms a kind of dialogue with the authors, or at least the parts that they left behind. By leaving behind written word, authors immortalize parts of themselves. Authors never die. Every time you interact with their work, you extend their life. They get to live through you. That is, the artifact of their existence continues to affect another living being.
 
 > This format DOES beautifully create a Dialogue between your memory (which will, of course, be taken thus as ‘the horses mouth’) and mine (which serves, herein, as myth maker).
 
