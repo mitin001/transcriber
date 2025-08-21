@@ -11,3 +11,6 @@ She listened to her [inner self], and it led her into a controversial profession
 Morality laws make prostitution illegal, and a prostitute is labeled a criminal of the same degree as a drug dealer. Both of these enterprises sell an addictive product, the [easiest] thing to sell. In both of these enterprises, the law punishes the seller, not the buyer.
 
 > Most governments prefer to punish the people who are supplying the goods and services rather than the people who are consuming them. But when you lock up a supplier, a scarcity is created that inevitably drives the price higher, and that entices more suppliers to enter the market. The U.S. “war on drugs” has been relatively ineffective precisely because it focuses on sellers and not buyers. While drug buyers obviously outnumber drug sellers, more than 90 percent of all prison time for drug convictions is served by dealers.
+
+[inner self]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md
+[easiest]: /blog/books/the-sirens-call/2-slot-machine-uncle-sam.md
