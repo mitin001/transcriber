@@ -33,3 +33,5 @@ Pairing up externalizers and internalizers is a terrible idea. It will create co
 > Needy externalizers tend to pursue warm and giving internalizers. Initially, they make the internalizer feel special in order to secure the relationship, but once they have the person, they stop doing the emotional work of reciprocating. The internalizers are surprised at this turnaround, and often blame themselves.
 
 It's not until the internalizer has been hooked that the externalizer's true colors come out.
+
+[attention with safety]: /blog/books/the-sirens-call/6-dawn-of-the-attention-age.md
