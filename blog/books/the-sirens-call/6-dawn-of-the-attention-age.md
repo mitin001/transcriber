@@ -1,6 +1,6 @@
 # 6. Dawn of the Attention Age
 
-Michael Goldhaber notes that conversation is not an exchange of information but rather an exchange of attention. The need for attention in humans supersedes the need for information.
+Michael Goldhaber notes that conversation is not an exchange of information but rather an exchange of attention. The need for attention in humans supersedes the need for information. [Attention is safety].
 
 > If I want your attention for any reason, I might begin by asking you for information, such as who you are and what you do, not necessarily because that is of great interest to me, but because it is a good way to get your attention. Children ask countless questions with this motive often patently obvious, and adults are not necessarily any different.
 
@@ -19,3 +19,5 @@ In the attention economy, the conversion between attention and money has become 
 In the attention age, the richest man in the world spends an obscene amount of money, a large portion of his net worth, on attention. This was the outcome of Elon Musk's addiction to Twitter.
 
 > He posted more and more, with greater degrees of pathetic desperation, until he made the most expensive impulse purchase in history.
+
+[Attention is safety]: /blog/books/lindsay-gibson/2015/06-internalizers.md
