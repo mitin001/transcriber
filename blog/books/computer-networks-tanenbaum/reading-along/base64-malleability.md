@@ -1,18 +1,18 @@
 # [Base64 Malleability in Practice](https://eprint.iacr.org/2022/361.pdf)
 
-Some software developers think that because the output of base64-encoding looks different from its input, they think the data has been passed through a cipher and is therefore has been encrypted.
+Some software developers think that just because the output of base64-encoding looks different from its input, the data has been encrypted. They think base64 encoding is some kind of a cipher. It is not. Do not use it to obscure your passwords.
 
 > Developer misconceptions that base64 offers cryptographic encryption rather than encoding, exposed passwords in web-based base64 authentication.
 
-Try to decode base64-encoded strings found on the web in the context of authentication and be amazed at how many of them contain credentials that could allow one to gain unauthorized access to data that should've been better protected.
+If you try to decode base64-encoded strings found on the web in the context of authentication, you will be amazed at how many of them contain credentials that could allow one to gain unauthorized access to private data of Internet users.
 
 > Another potential problem with base64 is that it can potentially facilitate data leakage from an organization (since base64 data format might not be immediately detected).
 
-Sometimes, decoding base64-encoded strings reveals sensitive data itself, not just the means to gain unauthorized access to it. Other times, the nonuniqueness of the base64 output for a given input can be exploited to bypass uniqueness checks of the application.
+Sometimes, decoding base64-encoded strings reveals sensitive data itself, not just the means to gain unauthorized access to it. Other times, the nonuniqueness of the base64 output for a given input can be exploited to bypass uniqueness checks of an application.
 
 > A “malicious” base64 implementation could potentially encode the same data in a different way and alter some of the last characters of the original base64 output, without the application realizing the difference. For instance, one could potentially use a malicious base64 encoder in web-based ticketing applications, and buy multiple tickets for free if the database uses base64 string for unique ticketIDs.
 
-This can be used in an account takeover attack.
+This can be used in an [account takeover] attack.
 
 > In databases where their base64-encoded userIDs are exposed, an attacker (or internal actor) can potentially read a userID and insert multiple copies of the same user by just slightly altering padding bits, and thus bypassing the logical database’s primary key uniqueness rules.
 
@@ -24,11 +24,11 @@ They warn against using base64-encoded strings where there is an expectation of 
 
 > A database administrator should not use base64-encoded strings as primary keys, especially when those strings are received from external users.
 
-The authors suggest programmers including strategies to detect malleability scenarios in their implementations of base64 decoders.
+The authors suggest programmers include strategies to detect malleability scenarios in their implementations of base64 decoders.
 
 > Perform an additional check: re-encode the received decoded binary data, then check byte equivalence with the original input base64; if they do not match, then this indicates a malleability scenario.
 
-The resulting compute overhead is the cost of reducing the attack surface. What is more important in your implementation?
+The resulting compute overhead is the cost of reducing the attack surface. What is more important in your implementation: speed or security?
 
 > Different programming languages and systems have colliding decoded outputs for different base64 encoded strings, or detect anomalies and throw exceptions, thus minimizing the attack surface.
 
@@ -38,9 +38,9 @@ An infinite number of ways to pad a base64-encoded string can be used to overwhe
 
 This situation is made even worse when the decoder ignores invalid characters.
 
-> Python’s default relaxed behavior of completely ignoring invalid base64 characters during decoding (e.g., both SGVsbA==== and SGVsb<A=>=== decode into Hell, since > and < are not part of base64 character set); a fea-ture which if not properly addressed in Python applications, could cause further malleability issues.
+> Python’s default relaxed behavior of completely ignoring invalid base64 characters during decoding (e.g., both SGVsbA==== and SGVsb<A=>=== decode into Hell, since > and < are not part of base64 character set); a feature which if not properly addressed in Python applications, could cause further malleability issues.
 
-We are finding ourselves in this predicament because of the imprecise language of the RFC standard for base64.
+We are finding ourselves in this predicament because of the imprecise specification of the RFC standard for base64.
 
 > RFC standards should be written in a strict and precise format, without leaving room for “options” and avoiding words like “may or optionally”.
 
