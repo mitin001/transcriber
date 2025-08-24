@@ -16,7 +16,7 @@ Internalizers will detect the smallest changes in the mood of people around them
 
 > Internalizers don’t act out their emotions immediately, like externalizers do, so their feelings have a chance to intensify as they’re held inside.
 
-Internalizers came to be this way because their parents didn't give them adequate attention, and therefore the feeling of safety, when they were children. A brilliant, high-performing internalizer will do all the work in his group and then apologize to the group for some imagined flaw, like working too slowly, even as he's working for three.
+Internalizers came to be this way because their parents didn't give them adequate attention and, therefore, the feeling of safety when they were children. A brilliant, high-performing internalizer will do all the work in his group and then apologize to the group for some imagined flaw, like working too slowly, even as he's working for three.
 
 > Internalizers sometimes take up emotional slack by playing both parts in their interactions with people. They act as if there’s reciprocity when there isn’t. For instance, they might thank someone for being patient when they are actually the ones being inconvenienced, or they might repeatedly reach out to self-centered people with a thoughtfulness they never get back. They are so familiar with supplying the sensitivity that was missing in their family members that they automatically do this with everyone. They make up for other people’s lack of engagement by seeing them as nicer and more considerate than they really are.
 
