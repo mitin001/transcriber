@@ -16,7 +16,7 @@ To break the old patterns, stop being susceptible to the [emotional contagion] o
 
 > Respond to the EIP’s hostility with empathy as if they were looking for understanding rather than a fight. By discerning their deeper emotional desire for connection, you interpret their unpleasant behavior as a cry for attention and acceptance. Sometimes the surprise of an empathetic response transforms a belligerent situation and instead allows something creative, meaningful, and connecting to take place.
 
-Toddlers, or adults who behave like toddlers, need to be able to [cry it out]. Let them process their feelings in solitude. You don't have to be there and take it. They will get better if you leave them alone. One way to help them deal with their emotions is to offer a reward they could reach for as they pull themselves out of the tantrum.
+Toddlers, or [adults who behave like toddlers], need to be able to [cry it out]. Let them process their feelings in solitude. You don't have to be there and take it. They will get better if you leave them alone. One way to help them deal with their emotions is to offer a reward they could reach for as they pull themselves out of the tantrum.
 
 > I can see you’re really sad, Mom. I’m going to let you work it out. When you’re ready, I’ll be downstairs, and we can go shopping like we planned. But I want you to take as much time as you need to feel sad.
 
@@ -38,3 +38,4 @@ The daughter was able to turn unpleasant interactions around without forcing any
 
 [Social Studies]: /blog/books/fran-lebowitz-reader/social-studies.md
 [passive audience]: /blog/books/lindsay-gibson/2019/05-skills-to-evade-coercions.md
+[adults who behave like toddlers]: /blog/books/lindsay-gibson/2019/01-your-eip.md
