@@ -68,6 +68,6 @@ Let them do this to you, and the mere disrespect will escalate into outright sad
 
 > Sadistic parents like it when their child feels powerless. They secretly enjoy making their children feel desperate by giving them extreme physical punishments, refusing to interact with them for long periods of time, handing down unfathomably long restrictions, or making them feel trapped.
 
-Helpless children will let their parents abuse them because they don't know any better. They don't know they could turn for help.
+Helpless children will let their parents abuse them because they don't know any better. They don't know who they could turn to for help.
 
 > When Bruce was a little boy, his father would squeeze him tightly on his lap and refuse to let him down. If Bruce started to squirm or cry, his father would send him to his room and beat him with a belt. Later his father would apologize but explain that Bruce brought it on himself by being so “bad.”
