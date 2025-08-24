@@ -44,7 +44,7 @@ Whitney needed comedy in her life to heal her childhood trauma.
 
 > When you grow up in alcoholic home, you're a parentified child and you have to take care of the adults. So you don't know that when you become an adult that you don't have to care-take other adults. So I think I struggled with like, "Oh, I need to help you." Like this people-pleasing stuff.
 
-Before comedy allowed her to [reconnect with herself], her [healing fantasy] was people pleasing. She can now tell other people pleasers. Many Muslim women aim to please. They jump to defend the demeaning parts of their religion, presumably to please their oppressors.
+Before comedy allowed her to [reconnect with herself], her [healing fantasy] was [people pleasing]. She can now tell other people pleasers. Many Muslim women aim to please. They jump to defend the demeaning parts of their religion, presumably to please their oppressors.
 
 > "We think American women are oppressed. You guys get plastic surgery. You have eating disorders. You guys wear makeup. You guys get Botox. We have the headscarf, so we don't have to constantly be only for male consumption and for male approval." It did seem pretty scripted.
 
@@ -80,4 +80,6 @@ Meanwhile, everything is becoming [commodified and enshittified]. Corporations p
 
 > I don't want my shirt to be $3.
 
-Consumers think they want it, but ultra-low prices for crappy goods made at a great humanitarian cost only benefit the corporations. There's always a catch. 
+Consumers think they want it, but ultra-low prices for crappy goods made at a great humanitarian cost only benefit the corporations. There's always a catch.
+
+[people pleasing]: /blog/books/lindsay-gibson/2019/03-the-suffering-self.md
