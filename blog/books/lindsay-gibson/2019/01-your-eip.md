@@ -1,6 +1,6 @@
 # 1: Your Emotionally Immature Parent
 
-Emotionally immature people are not deliberately choosing to harm you. They simply can't function otherwise.
+Emotionally immature people harm you, but not deliberately. They simply can't function without harming the people around them.
 
 > They coerce you with shame, guilt, or fear until you do what they want. They can flare into blame and anger if you don’t toe the line. Many people use the word manipulation for these kinds of emotional coercions, but I think that word is misleading. These behaviors are more like survival instincts. They do whatever’s necessary to feel more in control and protected in the moment, oblivious to what it might cost you.
 
@@ -8,11 +8,11 @@ They feel like they can't live without exerting control over someone. They see t
 
 > Emotionally immature people don’t regulate their self-esteem and emotional stability well on their own. They need others to keep them on an even keel by treating them just so. To accomplish this, they act in ways that make other people feel responsible for keeping them happy. They do this through complex, extremely subtle cues that influence others to feel certain ways.
 
-Emotionally immature (EI) people will play mind games with you, having you walk on eggshells around them, leaving you constantly guessing what they want, getting you upset, all to keep your attention focused only on them.
+Emotionally immature (EI) people will play mind games with you. You will find yourself walking on eggshells around them, constantly guessing what they want. They will get you upset just to keep your attention focused solely on them, even if it's negative attention.
 
 > EI parents rarely ask politely for help with problems, such as, “Could you help me with this?” or “What steps should I take to fix this situation?” Instead, they infect you with their anxious urgency as though it’s your job to take over and make their problems go away. But it won’t be over when you solve that first problem; it will be just beginning. Your assistance won’t satisfy them for long. One helpful act will never be enough because their primary goal is to hold on to your attention and concern as long as possible. They don’t want guidance; they want you. Their continuing, insoluble problems are the perfect means to that end. Once you start solving their problems, their issues will proliferate.
 
-While emotionally immature people need you to tend to their needs immediately and without hesitation, they also don't express their needs to you clearly.
+While emotionally immature people expect you to tend to their needs immediately and without hesitation, they also don't express their needs to you clearly.
 
 > Instead of talking about their feelings, EI people express themselves nonverbally through emotional contagion.
 
@@ -20,15 +20,15 @@ They will spew bile at you, hoping you will catch what they have.
 
 > Coming across your boundaries and getting you as upset as they are.
 
-Do not let their emotions rub off on you. Recognize negative emotions arising in you as an infection and rid yourself of them.
+They are the sort of sick who want everyone else to be just as sick. Emotional immaturity is an illness, and emotionally immature people are the incurable carriers of that illness. The job of emotionally mature people is to do their part to stop the spread of this illness. Do not let their emotions rub off on you. Recognize negative emotions arising in you as an infection taking root and rid yourself of them.
 
 > Ask yourself: Whose feeling is this? If your reactions seem overly intense, oddly absent, or unlike yourself, it’s possible that the EIP has induced certain feelings in you for you to handle instead. With EIPs, get some perspective on your reactions by asking yourself: Is this coming from me or them? It’s important to step back and ask this because if you can figure out that this transfer has occurred, it will free you from taking a false responsibility for that emotion.
 
-Instead of asking for something, emotionally immature people (EIPs) will throw a tantrum and leave you guessing what you might do to make them feel better.
+Emotional immaturity isn't curable because it is a developmental defect. Emotionally immature people never left their toddler phase. Instead of asking for something, they will throw a tantrum and leave you guessing what they want you to do to make them feel better.
 
 > Like small children, EI parents want you to intuit what they feel without their saying anything. They feel hurt and angry when you don’t guess their needs, expecting you to know what they want. If you protest that they didn’t tell you what they wanted, their reaction is, “If you really loved me, you would’ve known.” They expect you to stay constantly attuned to them.
 
-Emotional immaturity results from a lack of emotional development in childhood. Small children don't yet have the vocabulary to express their needs, but they can communicate their distress to their parents through emotional contagion. Some people never learn other ways of communicating their needs. They throw tantrums way past the tantrum-throwing age.
+Emotional immaturity results from a lack of emotional development in childhood. Small children don't yet have the vocabulary to express their needs, but they can communicate their distress to their parents through emotional contagion. Emotionally immature people never learn better ways of communicating their needs. They continue to throw tantrums way past the tantrum-throwing age.
 
 > With normal children, the need for constant engagement and soothing lessens as they mature. But for EI parents, their emotional self-­regulation didn’t fully develop as they grew up. Unable to modulate their own emotions and disappointments, they still expect others to make them feel better immediately by knowing just how they want to be treated. If they aren’t made the priority, they threaten to fall apart.
 
@@ -64,10 +64,12 @@ Should you stray from tending to their needs full-time, they won't hold back whe
 
 > EI parents don’t just act wounded or abandoned if you can’t help. They’ll quickly become angry or outraged if you don’t comply. First they play on your sympathies, then they threaten you with their displeasure. If you don’t jump to make them feel better right away, they act insulted and accuse you of being heartless. You are branded a selfish, unreliable person for anything less than making their issues your most important concern.
 
-Let them do this to you, and the mere disrespect will escalate into outright sadism.
+If you let them do this to you, what started as mere disrespect will quickly escalate into outright sadism.
 
 > Sadistic parents like it when their child feels powerless. They secretly enjoy making their children feel desperate by giving them extreme physical punishments, refusing to interact with them for long periods of time, handing down unfathomably long restrictions, or making them feel trapped.
 
 Helpless children will let their parents abuse them because they don't know any better. They don't know who they could turn to for help.
 
 > When Bruce was a little boy, his father would squeeze him tightly on his lap and refuse to let him down. If Bruce started to squirm or cry, his father would send him to his room and beat him with a belt. Later his father would apologize but explain that Bruce brought it on himself by being so “bad.”
+
+This nightmare is what many children live through every day. As an adult, you can choose to wake up from it. Stop letting emotionally immature people abuse you.
