@@ -24,7 +24,7 @@ Internalizers see safety only in themselves, even the kind of safety that can on
 
 > Healing fantasies are based on a child’s ideas about how to make things better. As children, internalizers tend to take on the role-self of the rescuer, feeling a responsibility to help others even to the point of self-neglect. Their healing fantasy always involves the idea "It’s up to me to fix this." What they can’t see is that they’ve taken on a job nobody has ever pulled off: changing people who aren’t seeking to change themselves.
 
-Parental neglect doesn't always result in internalizing children. Another childish maladaptation to unsatisfied emotional needs can be the opposite of internalizing. Unlike internalizers, externalizers rely too much on other people. They throw tantrums to coerce us into playing along with their fantasies.
+Parental neglect doesn't always result in internalizing children. Another childish maladaptation to unsatisfied emotional needs can be the opposite of internalizing. Unlike internalizers, externalizers rely too much on other people. They [throw tantrums] to coerce us into playing along with their fantasies.
 
 > When externalizers have strong feelings, they act them out in behavior before they experience much internal distress. Therefore, other people are likely to see externalizers as having a behavior problem rather than an emotional issue, even though emotions are causing the behavior.
 
@@ -35,3 +35,4 @@ Pairing up externalizers and internalizers is a terrible idea. It will create co
 It's not until the internalizer has been hooked that the externalizer's true colors come out.
 
 [attention with safety]: /blog/books/the-sirens-call/6-dawn-of-the-attention-age.md
+[throw tantrums]: /blog/books/lindsay-gibson/2019/01-your-eip.md
