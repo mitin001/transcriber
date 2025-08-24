@@ -61,3 +61,4 @@ First and foremost, look out for yourself when interacting with adults.
 [nowhere to go]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md
 [people who make ridiculous claims]: /blog/websites/inoculation.science/incoherence.md
 [Rachel Maddow]: /blog/podcasts/rachel-maddow/readme.md
+[toddler]: /blog/books/lindsay-gibson/2019/01-your-eip.md
