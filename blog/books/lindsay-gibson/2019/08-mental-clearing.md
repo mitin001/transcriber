@@ -20,7 +20,7 @@ When encountering a negative thought, do with it what you do with clutter: throw
 
 > Mental clutter are thoughts that didn’t originally belong to you. They cause feelings like shame, fear, obsessive worry, hopelessness, helplessness, pessimism, and self-criticism.
 
-Such thoughts are not to be believed. You don't need to make yourself feel negative feelings. Trace them back to the person that handed them down to you. Assert that you will no longer let this person's negative judgement affect you through the thoughts you once mistakenly accepted as your own.
+Such thoughts are not to be believed. You don't need to make yourself feel negative feelings. Trace them back to the person who handed them down to you. Assert that you will no longer let this person's negative judgment affect you through the thoughts you once mistakenly accepted as your own.
 
 > They were not originally a part of you and have nothing to do with the natural functioning of your mind. They just create disorder and distortion. Think of these thoughts as debris left over from EI parents’ emotional coercions. EI parents often promote demoralized thinking in their children because it makes them easier to control.
 
