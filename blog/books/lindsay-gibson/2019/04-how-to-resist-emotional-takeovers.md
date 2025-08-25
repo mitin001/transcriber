@@ -24,7 +24,7 @@ When someone rushes you, it is exactly the right time to stop and assess whether
 
 > They use their sense of urgency as entitlement to your help.
 
-If your emotionally immature mother tries to lure you into her home with a home-cooked meal, but you have to come right away while it's still hot, don't rush. The meal might not be as fresh when you arrive, and you may have to reheat it, but at least, you will be there on your own terms, with an intact ability to resist manipulation. You will not be in a heightened emotional state, something you can't be in if you're going into a negotiation. [Always negotiate unemotionally].
+If your emotionally immature mother tries to lure you into her home with a home-cooked meal, but you have to come right away while it's still hot, don't rush. The meal might not be as fresh when you arrive, and you may have to reheat it, but at least you will be there on your own terms, with an intact ability to resist manipulation. You will not be in a heightened emotional state, something you can't be in if you're going into a negotiation. [Always negotiate unemotionally].
 
 > Claim your right to take time to think your way through situations when you feel pressured to do more than you want to.
 
