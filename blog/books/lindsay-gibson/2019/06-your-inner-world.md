@@ -2,7 +2,7 @@
 
 > Everything in the man-made world was first invented in someone’s fantasy life.
 
-There are few things more important to an inventor than their imagination.
+Few things are more important to an inventor than their imagination.
 
 > The essential precursor to invention and problem solving.
 
@@ -34,7 +34,7 @@ When, years later, you come to psychotherapy to figure out why you're having suc
 
 > Once you make your decision, they often shoot holes in it.
 
-The sooner a child learns to pursue their happiness against their parent's disapproval, the stronger the bond they will have with their inner self and, by extension, with other people. They will be more assertive, more resilient, and more genuine. However, their bonds with emotionally immature people around them will weaken.
+The sooner a child learns to pursue their happiness against their parents' disapproval, the stronger the bond they will have with their inner self and, by extension, with other people. They will be more assertive, more resilient, and more genuine. However, their bonds with emotionally immature people around them will weaken.
 
 > Taking thoughtful action toward your own goals is evidence of your individuation from them, and that makes them insecure.
 
@@ -50,7 +50,7 @@ You're not doing this to try to get the other person to behave better; you're do
 
 > The goal of the responses above is to stand up for the legitimacy of your inner world, not to try to change the EIP. Instead of reacting with frustrated passivity, you can take action and express your human right to feel your feelings and think your thoughts. When you speak up, you claim your status as a coequal.
 
-Remind the person that you're not going to be playing a role with them. Every parent must learn to treat their children as adults once they grow up. This is especially hard for emotionally immature people, who prefer others to be playing simple, stereotyped roles. When they see that you're not an empty prop on their stage, that is, when they see evidence of your individuality, they will resort to emotional coercion to try to put you "back in your place" and thus reclaim their right to control you. To win against emotional coercion, act unemotionally. Ask the emotionally immature person to clarify the statements they make while interacting with you in a coercive way.
+Remind the person that you're not going to be playing a role with them. Every parent must learn to treat their children as adults once they grow up. This is especially hard for emotionally immature people, who prefer others to play simple, stereotyped roles. When they see that you're not an empty prop on their stage, that is, when they see evidence of your individuality, they will resort to emotional coercion to try to put you "back in your place" and thus reclaim their right to control you. To win against emotional coercion, act unemotionally. Ask the emotionally immature person to clarify the statements they make while interacting with you in a coercive way.
 
 > These questions show you heard the mocking subtext, but you’re not going along with it. You’re letting them know that if they are intending to put you down, they’ll have to spell it out; you’re not agreeing to read between the lines. When exposed in this way, EIPs will often downplay their attacks by saying they’re just joking or fooling around.
 
@@ -58,7 +58,7 @@ Exposing a put-down may make it less rewarding for the difficult person to conti
 
 > Whatever you say, you are clarifying their behavior instead of emotionally reacting. When you respond with neutral honesty and curiosity to a hostile swipe, there is no place for the interaction to go. Be ready to actively change topics after the awkward silence. It’ll make both you and them feel better. Uncomfortable moments are a positive sign that old patterns have been interrupted.
 
-Everything in nature is a trade-off. If you remove one behavior, another will take its place. Take away hostility from an interaction between two people, and the void is filled with awkwardness. This is an acceptable trade-off, however.
+Everything in nature is a trade-off. If you remove one behavior, another will take its place. Take away the hostility from an interaction between two people, and the void is filled with awkwardness. This is an acceptable trade-off, however.
 
 > When EIPs feel envious of people, they often make fun of them. Here’s an example. Alice had an important art opening in her parents’ city. At the gallery reception, her mother introduced Alice to her friends as, “Here’s my fancy-schmancy artist daughter!” Alice momentarily cringed: that was not how she saw herself and certainly not how she wanted to be introduced.	EIPs do this kind of attention-getting mockery in front of others so you feel like a terrible sport if you object. The most effective response to this behavior is to roll past it and hold on to your happiness. Alice defused her mother’s jab by smiling and saying, “Yep, here I am!” as she shook their hands. By responding with equanimity and humor, Alice didn’t allow her mother to embarrass her or become the center of attention. By not reacting, Alice kept the focus on herself, where it should have been in a celebration of her success.
 
