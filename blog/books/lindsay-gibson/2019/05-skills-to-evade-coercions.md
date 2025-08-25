@@ -56,7 +56,7 @@ Don't feel bad for making fun of someone who has the emotional maturity of a [to
 
 > Abrupt endings may seem rude or mean, but they aren’t. The EIP’s lack of empathy makes them oblivious to more roundabout signals that you have had enough. You have just as much right to end the conversation as they have to continue it. Plus, you’ll feel much more like listening later if you know you can end it whenever you want. Your limit is a good thing for the relationship. It’s all part of being an active participant rather than a passive audience.
 
-First and foremost, look out for yourself when interacting with adults.
+First and foremost, look out for yourself when interacting with other adults.
 
 [nowhere to go]: /blog/books/lindsay-gibson/2019/06-your-inner-world.md
 [people who make ridiculous claims]: /blog/websites/inoculation.science/incoherence.md
