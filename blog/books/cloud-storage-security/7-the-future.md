@@ -41,3 +41,7 @@ It can go even deeper. When cybercriminals can see not just into your home but i
 > Using DNA, we may become the storage device where all of us, together, become the cloud.
 
 So, as always, it's a race between technological progress and innovations in security that would keep it from turning the world into a tech hellscape. There is a glimmer of hope for ultimate security for our private data, but it might not arrive on time, before our most private data gets into the wrong hands.
+
+[solve]: /blog/books/quantum-computing-gentle-introduction/1-introduction.md
+[eavesdrop on quantum communications]: /blog/books/quantum-computing-gentle-introduction/2-single-qubit-quantum-systems.md
+[Quantum entanglement]: /blog/books/quantum-computing-gentle-introduction/3-multiple-qubit-systems.md
