@@ -4,9 +4,13 @@
 
 When people were asked to rank the reasons for protecting the environment, they gave a lower priority to financial and herd-mentality incentives and a higher priority to moral and social incentives.
 
+![17563991453268125801014141493564](https://github.com/user-attachments/assets/1f1846c4-0745-4386-a920-d44af19bee03)
+
 > Since conservation is largely seen as a moral and social issue, the moral and social incentives are most important.
 
 > The phone survey told Cialdini and his colleagues what people said about conservation. But did their actions match their words? To find out, the researchers followed up with a field experiment. Going house to house in one California neighborhood, they hung on each doorknob a placard encouraging residents to save energy in the warm months by using a fan rather than air-conditioning. But, this being an experiment, the placards were not identical. There were five versions. One had a generic “Energy Conservation” headline, while the others bore headlines that matched up to the four incentives—moral, social, financial, and herd-mentality.
+
+![17563991739229177316448223244280](https://github.com/user-attachments/assets/cda669bb-da70-430a-951e-2a33decae534)
 
 > The explanatory text on each placard was also different. The “Protect the Environment” placard, for instance, said that “you can prevent the release of up to 262 lbs. of greenhouse gases per month.” The “Join Your Neighbors” version merely said that 77 percent of local residents “often use fans instead of air-conditioning.”
 
