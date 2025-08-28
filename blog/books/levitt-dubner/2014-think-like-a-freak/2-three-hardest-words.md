@@ -10,6 +10,8 @@ Perhaps for this reason, people feel safer in cars than in planes and prefer to 
 
 People don't know a lot of things—they don't even know themselves—, and yet, they're not willing to admit not knowing something, even when it's not knowable.
 
+<img width="864" height="370" alt="17563585042961150839601127903594" src="https://github.com/user-attachments/assets/971a8889-ef29-4a0a-a60d-180195b75e4b" />
+
 How would you answer questions 3 and 4?
 
 > Those questions were unanswerable—there simply wasn’t enough information given in the story. And yet a whopping 76 percent of the children answered these questions either yes or no. Kids who try to bluff their way through a simple quiz like this are right on track for careers in business and politics, where almost no one ever admits to not knowing anything. It has long been said that the three hardest words to say in the English language are _I love you_. We heartily disagree! For most people, it is much harder to say _I don’t know_. That’s a shame, for until you can admit what you don’t yet know, it’s virtually impossible to learn what you need to.
