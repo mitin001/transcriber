@@ -1,8 +1,10 @@
 # 6. Like Giving Candy to a Baby
 
+An economist tests whether he can turn a random woman at a bar into a prostitute.
+
 > And then there’s the tale of an economist on holiday in Las Vegas. He found himself one night in a bar standing beside a gorgeous woman. “Would you be willing to sleep with me for $1 million?” he asked her. She looked him over. There wasn’t much to see—but still, $1 million! She agreed to go back to his room. “All right then, “ he said. “Would you be willing to sleep with me for $100?” “A hundred dollars!” she shot back. “What do you think I am, a prostitute?” “We’ve already established that. Now we’re just negotiating the price.”
 
-When Robert Cialdini asked people to rank the reasons for protecting the environment, they gave a lower priority to financial and herd-mentality incentives and a higher priority to moral and social incentives.
+On [Mr. Robot], the lawyer representing the victims of environmental pollution at the hand of a large corporation tells the same story as she reacts to the news of one of the victims taking the hush money from the corporation. This is a long-winded way of calling a woman a whore. Financial incentives won't save the environment. When Robert Cialdini asked people to rank the reasons for protecting the environment, they gave a lower priority to financial and herd-mentality incentives and a higher priority to moral and social incentives.
 
 ![17563991453268125801014141493564](https://github.com/user-attachments/assets/1f1846c4-0745-4386-a920-d44af19bee03)
 
@@ -12,13 +14,23 @@ When Robert Cialdini asked people to rank the reasons for protecting the environ
 
 ![17563991739229177316448223244280](https://github.com/user-attachments/assets/cda669bb-da70-430a-951e-2a33decae534)
 
+The people weren't asked to react to the mere headlines. They were made well-aware of the underlying incentives.
+
 > The explanatory text on each placard was also different. The “Protect the Environment” placard, for instance, said that “you can prevent the release of up to 262 lbs. of greenhouse gases per month.” The “Join Your Neighbors” version merely said that 77 percent of local residents “often use fans instead of air-conditioning.”
+
+With such a carefully designed experiment, the people's preferences began to reveal themselves, along with the wide gap between them and the preferences they declared over the phone.
 
 > The clear winner of the four was “Join Your Neighbors.” That’s right: the herd-mentality incentive beat out the moral, social, and financial incentives. Does this surprise you? If so, maybe it shouldn’t. Look around the world and you’ll find overwhelming evidence of the herd mentality at work. It influences virtually every aspect of our behavior—what we buy, where we eat, how we vote. You may not like this idea; none of us wants to admit that we are pack animals. But in a complicated world, running with the herd can make sense. Who has time to think through every decision and all the facts behind it? If everybody around you thinks that conserving energy is a good idea—well, maybe it is. So if you are the person designing an incentive scheme, you can use this knowledge to herd people into doing the right thing—even if they’re doing it for the wrong reasons. With any problem, it’s important to figure out which incentives will actually work, not just what your moral compass tells you should work. The key is to think less about the ideal behavior of imaginary people and more about the actual behavior of real people.
 
+People are embarrassed to admit how much they are driven by herd mentality.
+
 > Who would admit to doing anything—especially an act as important as conservation—just because everyone else is doing it?
 
+But if we need to be effective marketers or communicators, we must understand things people are embarrassed to admit. This is why we must study not declared preferences, but rather revealed preferences.
+
 > Don’t listen to what people say; watch what they do.
+
+People will not declare anything that might embarrass them, even when they know it to be true.
 
 > Simply asking people what they want or need doesn’t necessarily work. Let’s face it: human beings aren’t the most candid animals on the planet. We’ll often say one thing and do another—or, more precisely, we’ll say what we think other people want to hear and then, in private, do what we want. In economics, these are known as declared preferences and revealed preferences, and there is often a hefty gap between the two.
 
@@ -60,4 +72,8 @@ The once-and-done campaign
 
 > Rather than hound donors with a hard sell, Smile Train changed its message: Hey, we know it’s a hassle to get eighteen letters a year. You think we like having to send out that many? But we’re all in this fight together, so why don’t you send us a few bucks and we can be done with it? Voilà! The financial framework had been recast as a collaborative one.
 
+Treating your customers as collaborators, together with relying on revealed rather than declared preferences and anticipating and managing backfiring situations, have been distilled by the authors to six rules of incentives.
+
 ![17564010777803256877332902728736](https://github.com/user-attachments/assets/0037290c-f0fa-45a4-bc81-dfe44aea9c23)
+
+[Mr. Robot]: https://m.imdb.com/title/tt5342606/quotes/
