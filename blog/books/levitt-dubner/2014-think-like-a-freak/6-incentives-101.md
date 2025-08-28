@@ -10,6 +10,8 @@ On [Mr. Robot], the lawyer representing the victims of environmental pollution a
 
 > Since conservation is largely seen as a moral and social issue, the moral and social incentives are most important.
 
+Having found the participants' declared preferences, the researchers set out to find their revealed preferences and the differences between them. Finding one's revealed preferences requires one to design a scientifically sound experiment, one with controls and carefully chosen scenarios where the subjects aren't compelled to modify their behavior.
+
 > The phone survey told Cialdini and his colleagues what people said about conservation. But did their actions match their words? To find out, the researchers followed up with a field experiment. Going house to house in one California neighborhood, they hung on each doorknob a placard encouraging residents to save energy in the warm months by using a fan rather than air-conditioning. But, this being an experiment, the placards were not identical. There were five versions. One had a generic “Energy Conservation” headline, while the others bore headlines that matched up to the four incentives—moral, social, financial, and herd-mentality.
 
 ![17563991739229177316448223244280](https://github.com/user-attachments/assets/cda669bb-da70-430a-951e-2a33decae534)
@@ -22,11 +24,11 @@ With such a carefully designed experiment, the people's preferences began to rev
 
 > The clear winner of the four was “Join Your Neighbors.” That’s right: the herd-mentality incentive beat out the moral, social, and financial incentives. Does this surprise you? If so, maybe it shouldn’t. Look around the world and you’ll find overwhelming evidence of the herd mentality at work. It influences virtually every aspect of our behavior—what we buy, where we eat, how we vote. You may not like this idea; none of us wants to admit that we are pack animals. But in a complicated world, running with the herd can make sense. Who has time to think through every decision and all the facts behind it? If everybody around you thinks that conserving energy is a good idea—well, maybe it is. So if you are the person designing an incentive scheme, you can use this knowledge to herd people into doing the right thing—even if they’re doing it for the wrong reasons. With any problem, it’s important to figure out which incentives will actually work, not just what your moral compass tells you should work. The key is to think less about the ideal behavior of imaginary people and more about the actual behavior of real people.
 
-People are embarrassed to admit how much they are driven by herd mentality.
+It is embarrassing for people to admit how much they are driven by herd mentality.
 
 > Who would admit to doing anything—especially an act as important as conservation—just because everyone else is doing it?
 
-But if we need to be effective marketers or communicators, we must understand things people are embarrassed to admit. This is why we must study not declared preferences, but rather revealed preferences.
+But if we need to be effective marketers or communicators, we must understand all aspects of human motivation, especially those that people are embarrassed to admit. This is why we must study not declared preferences, but rather revealed preferences.
 
 > Don’t listen to what people say; watch what they do.
 
