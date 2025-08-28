@@ -29,3 +29,5 @@ Many Indian women grow up feeling unwanted, and the problems don't stop there. W
 > Indian women also run an outsize risk of unwanted pregnancy and sexually transmitted disease, including a high rate of HIV/AIDS. One cause is that Indian men’s condoms malfunction more than 15 percent of the time. Why such a high fail rate? According to the Indian Council of Medical Research, some 60 percent of Indian men have penises too small for the condoms manufactured to fit World Health Organization specs. That was the conclusion of a two-year study in which more than 1,000 Indian men had their penises measured and photographed by scientists. “The condom,” declared one of the researchers, “is not optimized for India.”
 
 Or, the Indian penis is just more camera-shy than any other penis, and so it doesn't stick out too much toward the camera. Can we believe that the authors that are so very concerned with caveats have vetted the studies they're citing alongside their postulates for all their possible caveats?
+
+[shortcomings]: /blog/websites/ted.com/2016/jennifer_brea_what_happens_when_you_have_a_disease_doctors_can_t_diagnose.md
