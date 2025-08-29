@@ -48,7 +48,7 @@ And yet, it's best not to let privacy fights escalate to the point where courts 
 
 > Etiquette says that invited guests should not themselves invite guests. The same should hold for sharing cloud data. Take care that default security settings on cloud data you choose to share does not allow others to share that data too.
 
-There are Internet communities that aggregate photos with sensitive information that was mistakenly or misguidedly shared online.
+There are Internet communities that aggregate [photos with sensitive information] that was mistakenly or misguidedly shared online.
 
 > The website http://pleaserobme.com/ uses locations from Twitter accounts to geolocate people, specifically those away from home.
 
@@ -67,3 +67,4 @@ A device may connect to an evil-twin network for Internet access without realizi
 This is yet another way of running a phishing attack. Hackers have come a long way since the early days when spamming your email with obvious scams was how it was done.
 
 [@PleaseRob]: https://x.com/pleaserob
+[photos with sensitive information]: /blog/books/cloud-storage-security/reading-along/hashtag-stealmyidentity.md
