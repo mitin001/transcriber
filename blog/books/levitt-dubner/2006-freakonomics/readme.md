@@ -11,3 +11,5 @@
 [4. Where Have All the Criminals Gone?](/blog/books/levitt-dubner/2006-freakonomics/4-where-have-all-the-criminals-gone.md)
 
 [5. What Makes a Perfect Parent?](/blog/books/levitt-dubner/2006-freakonomics/5-what-makes-a-perfect-parent.md)
+
+There is a chapter 6 in this book, too, but I have nothing to say about it.
