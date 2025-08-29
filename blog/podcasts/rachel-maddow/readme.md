@@ -116,4 +116,6 @@ She refers to QR codes as "[speckled blobs]".
 
 [2025-08-04](/blog/podcasts/rachel-maddow/2025-08-04.md)
 
+[2025-08-11](/blog/podcasts/rachel-maddow/2025-08-11.md)
+
 [Ministry of Truth by Steve Benen](/blog/podcasts/rachel-maddow/ministry-of-truth-steve-benen.md)

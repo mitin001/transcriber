@@ -30,6 +30,12 @@
 
 [2025-08-02](/blog/podcasts/real-time-bill-maher/2025-08-02.md)
 
+[2025-08-09](/blog/podcasts/real-time-bill-maher/2025-08-09.md)
+
+[2025-08-16](/blog/podcasts/real-time-bill-maher/2025-08-16.md)
+
+[2025-08-19](/blog/podcasts/real-time-bill-maher/2025-08-19.md)
+
 [Is Anyone Else Seeing This?](/blog/podcasts/real-time-bill-maher/is-anyone-else-seeing-this.md)
 
 [What This Comedian Said Will Shock You](/blog/podcasts/real-time-bill-maher/what-this-comedian-said.md)

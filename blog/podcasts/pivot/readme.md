@@ -76,8 +76,16 @@ Kara highlights must-see journalism or opinion pieces:
 
 [2025-07-18: MAGA turns on Trump over the Epstein files](/blog/podcasts/pivot/2025-07-18-maga-turns-on-trump-over-epstein.md)
 
-[2025-07-22](/blog/podcasts/pivot/2025-07-22.md)
+[2025-07-22: the cancellation of Stephen Colbert's is an end of an era](/blog/podcasts/pivot/2025-07-22-colbert-cancellation-an-end-of-an-era.md)
 
 [2025-07-25](/blog/podcasts/pivot/2025-07-25.md)
 
 [2025-08-05](/blog/podcasts/pivot/2025-08-05.md)
+
+[2025-08-08](/blog/podcasts/pivot/2025-08-08.md)
+
+[2025-08-12](/blog/podcasts/pivot/2025-08-12.md)
+
+[2025-08-15](/blog/podcasts/pivot/2025-08-15.md)
+
+[2025-08-19](/blog/podcasts/pivot/2025-08-19.md)
