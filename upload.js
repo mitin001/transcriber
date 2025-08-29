@@ -122,7 +122,7 @@ router.get("/r/:md5/:interval/:time", async (request, response) => {
   try {
     const {params} = request || {};
     const {md5, time, interval} = params || {};
-    await queue(md5, insertColons(time), parseInt(interval), "medium.en", "auto");
+    await queue(md5, insertColons(time), parseInt(interval), "medium.en-q8_0", "auto");
     response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());
