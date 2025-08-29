@@ -56,7 +56,7 @@ The Twitter user [@PleaseRob] similarly retweets people posting images of their 
 
 > Insurance companies might not pay claims on home burglaries if they find evidence online that the homeowner posted information about their absence from home.
 
-Meanwhile, your private data can be stolen even without your knowledge as a hacker tricks your device into sending Internet traffic through their appliance.
+Meanwhile, your private data can be stolen even without your knowledge. A stranger standing next to you in public could be [intercepting] the messages going back and forth between your Bluetooth-enabled devices. A hacker near your home could trick your device into sending Internet traffic through their wiretapped access point without you ever noticing.
 
 > The device itself may auto-connect to a common wireless network service set identifier (SSID). A hacker can set up a fake Wi-Fi hotspot with that same SSID and your device will happily connect to it.
 
@@ -68,3 +68,5 @@ This is yet another way of running a phishing attack. Hackers have come a long w
 
 [@PleaseRob]: https://x.com/pleaserob
 [photos with sensitive information]: /blog/books/cloud-storage-security/reading-along/hashtag-stealmyidentity.md
+[intercepting]: /blog/books/cloud-storage-security/reading-along/security-risks-of-android-wearable-devices.md
+[Insurance companies]: /blog/books/cloud-storage-security/reading-along/lexisnexis-data-brokering-to-insurers.md
