@@ -1,4 +1,4 @@
-# Metropolitan Life by Fran Lebowitz
+# *Metropolitan Life*
 
 One does not get rich, one must be born rich.
 
