@@ -1,6 +1,6 @@
 # 1. Data in the Cloud
 
-Cloud computing is the last in the long tradition of the kinds of innovation that expand the capabilities of the Internet to larger audiences.
+Cloud computing is the latest in a long tradition of the kinds of innovations that expand the capabilities of the Internet to larger audiences.
 
 > The fundamental capabilities we depend on the Internet for mostly existed from the early days. In some sense, Internet technology innovation has come from finding ways to make the original capabilities more accessible to more people.
 
@@ -12,7 +12,7 @@ Trends in any industry go in and out of fashion throughout its history. The comp
 
 > Mainframe computers in use beginning in the 1950s had most of the capabilities we associate with cloud computing: powerful servers providing data storage, software, and processing. By the early 1970s, mainframes had hardware virtualization capabilities.
 
-Then, the industry got distracted by supplying individuals with computing devices made for private use. The personal computers grew more powerful every year; performance was the focus of customer-facing innovation. The methods for connecting computing devices together continued to develop largely under the radar. The cloud of the present day benefitted from both of these research directions: it is both highly powerful and highly connected.
+Then, the industry got distracted by supplying individuals with computing devices made for private use. The personal computers grew more powerful every year; performance was the focus of customer-facing innovation. The methods for connecting computing devices together continued to develop largely under the radar. The cloud of the present day benefited from both of these research directions: it is both highly powerful and highly connected.
 
 > The emergence of personal computers in the 1970s and home computers in the 1980s moved computational power away from mainframes and to personal computers accessible to many more people. The current growth of cloud computing represents an attempt to restore many of the computing advantages originally provided by mainframes, but with the added advantages of Internet connected, geographically distributed, and scalable data storage and processing.
 
@@ -48,15 +48,15 @@ And yet, it's best not to let privacy fights escalate to the point where courts 
 
 > Etiquette says that invited guests should not themselves invite guests. The same should hold for sharing cloud data. Take care that default security settings on cloud data you choose to share does not allow others to share that data too.
 
-There are Internet communities that aggregate [photos with sensitive information] that was mistakenly or misguidedly shared online.
+There are Internet communities that aggregate [photos with sensitive information] that were mistakenly or misguidedly shared online.
 
 > The website http://pleaserobme.com/ uses locations from Twitter accounts to geolocate people, specifically those away from home.
 
-The Twitter user [@PleaseRob] similarly retweets people posting images of their physical keys and IDs. In the world where keys can be duplicated from their photos, just imagine what criminals can do with information from real IDs. [Insurance companies] will routinely check such Internet communities to try to get out of paying claims.
+The Twitter user [@PleaseRob] similarly retweets people posting images of their physical keys and IDs. In a world where keys can be duplicated from their photos, just imagine what criminals can do with information from real IDs. [Insurance companies] will routinely check such Internet communities to try to get out of paying claims.
 
 > Insurance companies might not pay claims on home burglaries if they find evidence online that the homeowner posted information about their absence from home.
 
-Meanwhile, your private data can be stolen even without your knowledge. A stranger standing next to you in public could be [intercepting] the messages going back and forth between your Bluetooth-enabled devices. A hacker near your home could trick your device into sending Internet traffic through their wiretapped access point without you ever noticing.
+Meanwhile, your private data can be stolen even without your knowledge. A stranger standing next to you in public could be [intercepting] the messages going back and forth between your Bluetooth-enabled devices. Anything you send or receive through the Internet's most advanced privacy tool, Tor, might be intercepted and read by the person controlling the [exit node]. A hacker near your home could trick your device into sending Internet traffic through their wiretapped access point without you ever noticing.
 
 > The device itself may auto-connect to a common wireless network service set identifier (SSID). A hacker can set up a fake Wi-Fi hotspot with that same SSID and your device will happily connect to it.
 
@@ -70,3 +70,4 @@ This is yet another way of running a phishing attack. Hackers have come a long w
 [photos with sensitive information]: /blog/books/cloud-storage-security/reading-along/hashtag-stealmyidentity.md
 [intercepting]: /blog/books/cloud-storage-security/reading-along/security-risks-of-android-wearable-devices.md
 [Insurance companies]: /blog/books/cloud-storage-security/reading-along/lexisnexis-data-brokering-to-insurers.md
+[exit node]: /blog/books/cloud-storage-security/reading-along/tor-exit-node-eavesdropper.md
