@@ -1,4 +1,4 @@
-# *[Real Time](https://feeds.megaphone.fm/WMHY1886903044)* with Bill Maher
+# *[Real Time](https://podcastindex.org/podcast/742515)* with Bill Maher
 
 [2025-01-18: Los Angeles wildfires](/blog/podcasts/real-time-bill-maher/2025-01-18-los-angeles-wildfires.md)
 
