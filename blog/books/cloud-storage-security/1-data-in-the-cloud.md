@@ -70,4 +70,4 @@ This is yet another way of running a phishing attack. Hackers have come a long w
 [photos with sensitive information]: /blog/books/cloud-storage-security/reading-along/hashtag-stealmyidentity.md
 [intercepting]: /blog/books/cloud-storage-security/reading-along/security-risks-of-android-wearable-devices.md
 [Insurance companies]: /blog/books/cloud-storage-security/reading-along/lexisnexis-data-brokering-to-insurers.md
-[exit node]: /blog/books/cloud-storage-security/reading-along/tor-exit-node-eavesdropper.md
+[exit node]: /blog/books/cloud-storage-security/reading-along/wikileaks-launched-with-documents-intercepted-from-tor.md
