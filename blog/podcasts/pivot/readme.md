@@ -1,4 +1,4 @@
-# [Pivot](https://feeds.megaphone.fm/pivot)
+# [Pivot](https://podcastindex.org/podcast/174725)
 
 Kara highlights must-see journalism or opinion pieces: 
 
