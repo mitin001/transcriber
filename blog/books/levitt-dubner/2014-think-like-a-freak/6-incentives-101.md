@@ -16,7 +16,7 @@ Having found the participants' declared preferences, the researchers set out to 
 
 ![17563991739229177316448223244280](https://github.com/user-attachments/assets/cda669bb-da70-430a-951e-2a33decae534)
 
-The people weren't asked to react to the mere headlines. They were made well-aware of the underlying incentives.
+The people weren't asked to react to the mere headlines. They were made well-aware of the underlying incentives on the intellectual level.
 
 > The explanatory text on each placard was also different. The “Protect the Environment” placard, for instance, said that “you can prevent the release of up to 262 lbs. of greenhouse gases per month.” The “Join Your Neighbors” version merely said that 77 percent of local residents “often use fans instead of air-conditioning.”
 
@@ -36,41 +36,59 @@ People will not declare anything that might embarrass them, even when they know 
 
 > Simply asking people what they want or need doesn’t necessarily work. Let’s face it: human beings aren’t the most candid animals on the planet. We’ll often say one thing and do another—or, more precisely, we’ll say what we think other people want to hear and then, in private, do what we want. In economics, these are known as declared preferences and revealed preferences, and there is often a hefty gap between the two.
 
-Robert Cialdini warns
+People are fickle. Reverse psychology works on them, whereas anti-advertising campaigns backfire. Because people follow the herd, we shouldn't point out when others make bad decisions. When we hold up bad examples, what they actually take away is that since other people make such bad decisions, then those decisions must not be so bad, Robert Cialdini warns.
 
 > Public-service messages are designed to move people in societally desirable directions by telling them how many people are behaving in undesirable directions. So many people are drinking and driving—we have to stop this. Teenage pregnancy is so prevalent in our schools—we have to do something about this. Tax fraud is so rampant that we have to increase the penalties for it. It’s very human but it’s a wrong-headed strategy, because the subtext message is that a lot of people just like you are doing this. It legitimizes the undesirable behavior.
 
+Similarly, when you incentivize moderation, you may be inadvertently giving people permission to engage in the opposite: wasteful overconsumption.
+
 > Mexico City has long suffered from dreadful traffic jams. The pollution is horrendous and it’s hard to get anywhere on time. Out of desperation, the government came up with a rationing plan. Drivers would have to leave their cars home one workday each week, with the particular day determined by the car’s license-plate number. The hope was that fewer cars would clog the roads, more people would use public transportation, and pollution would fall. How did the plan work out? The rationing led to more cars in circulation, no increase in the use of public transportation, and no improvement in air quality. Why? In order to skirt the license-plate ban, a lot of people went out and bought a second car—many of which were older, cheaper gas guzzlers.
+
+If you tell people that 20% of the cars must stay home on a given day, hoping that out of a million cars, only at most 800 thousand will be in the streets at a time thanks to this policy, then in reality, there will be 1.6 million cars on the streets if everyone buys a second car to skirt the ban. Most of the additional cars flooding the streets would be those the market had been fighting to keep off them — those that wouldn't pass new emissions tests. Similarly, if you want to flood the environment with dangerous chemicals, just pay companies to destroy them. In order to keep getting payouts from the destruction of those chemicals, they will keep finding the chemicals over and over again.
 
 > The United Nations set up an incentive plan to compensate manufacturers for curtailing the pollutants they released into the atmosphere. The payments, in the form of carbon credits that could be sold on the open market, were indexed to the environmental harm of each pollutant. For every ton of carbon dioxide a factory eliminated, it would receive one credit. Other pollutants were far more remunerative: methane (21 credits), nitrous oxide (310), and, near the top of the list, something called hydrofluorocarbon-23, or HFC-23. It is a “super” greenhouse gas that is a by-product in the manufacture of HCFC-22, a common refrigerant that is itself plenty bad for the environment. The UN was hoping that factories would switch to a greener refrigerant than HCFC-22. One way to incentivize them, it reasoned, was to reward the factories handsomely for destroying their stock of its waste gas, HFC-23. So the UN offered a whopping bounty of 11,700 carbon credits for every ton of HFC-23 that was destroyed rather than released into the atmosphere. Can you guess what happened next? Factories around the world, especially in China and India, began to churn out extra HCFC-22 in order to generate extra HFC-23 so they could rake in the cash.
 
+Trading in HFC-23 became a new lucrative revenue stream for factories.
+
 > The average factory earned more than $20 million a year by selling carbon credits for HFC-23. Angry and embarrassed, the UN changed the rules of the program to curb the abuse; several carbon markets banned the HFC-23 credits.
+
+An incentive designed to encourage companies to clean up the world backfired and ended up motivating them to poison it instead.
 
 > The UN wound up paying polluters millions upon millions of dollars to . . . create additional pollution.
 
-The UN rediscovered the cobra effect.
+The UN rediscovered the **cobra effect**.
 
 > A British overlord in colonial India thought there were far too many cobras in Delhi. So he offered a cash bounty for every cobra skin. The incentive worked well—so well, in fact, that it gave rise to a new industry: cobra farming. Indians began to breed, raise, and slaughter the snakes to take advantage of the bounty. Eventually the bounty was rescinded—whereupon the cobra farmers did the logical thing and set their snakes free, as toxic and unwanted as today’s HFC-23.
 
-Governments all over the world routinely offer incentives like these.
+Governments all over the world routinely offer stupid incentives like these.
 
 > Just as routinely, an army of people rise up to game the system.
 
-Backfiring incentives are everywhere because policymakers can't anticipate the creative ways their citizens may think up to skirt the system.
+Backfiring incentives are everywhere because policymakers can't anticipate the creative ways their citizens may think up to [skirt the system].
 
 > No individual or government will ever be as smart as all the people out there scheming to beat an incentive plan.
 
+A big reason for backfiring incentives is not that the policymakers that think them up are stupid. It is that they only care to line their own pockets and don't think further than that.
+
 > No one likes to feel manipulated. Too many incentive schemes are thinly disguised grabs for leverage or money, so it shouldn’t be surprising that some people push back.
 
-> Too many philanthropists engage in what Peter Buffett, a son of the über-billionaire Warren Buffett, calls “conscience laundering”—doing charity to make themselves feel better rather than fighting to figure out the best ways to alleviate suffering.
+Similarly, most people engaging in charity work do so for self-serving reasons.
+
+> Too many philanthropists engage in what Peter Buffett, a son of the über-billionaire Warren Buffett, calls “**conscience laundering**”—doing charity to make themselves feel better rather than fighting to figure out the best ways to alleviate suffering.
+
+There is no [altruism]. There is only pseudoaltruism. If you watch the pseudoaltruist long enough, you may discover a [dark] reason motivating them to play this role. At the very least, people are nice to others because they want something from them.
 
 > The best way to get what you want is to treat other people with decency. Decency can push almost any interaction into the cooperative frame.
 
+If you sell a broken product to a customer and then work with them to quickly and easily replace it with a working product, the customer will feel more satisfied and loyal to your company than if you just sold them a working product at the start.
+
 > Some of the most loyal customers any company has are the ones who had a big problem but got treated incredibly well as it was being resolved.
+
+Such customers come for a product but stay for the attention of customer service. People love it when others [pay attention] to them. Another way to elicit cooperation from someone is get their attention through an unusual way of doing business with them.
 
 > Have you ever heard a charity acknowledge what a hassle it is to get all those beseeching letters in the mail? In a world of crooked information, it is nice to hear some straight talk.
 
-The once-and-done campaign
+If a real deal suddenly enters an industry dominated by bullshitters, people will flock to it en-masse. If a charity abandons the usual charity formula and instead opts for something unique like the **once-and-done campaign**, that will get the attention of their productive donors.
 
 > Rather than hound donors with a hard sell, Smile Train changed its message: Hey, we know it’s a hassle to get eighteen letters a year. You think we like having to send out that many? But we’re all in this fight together, so why don’t you send us a few bucks and we can be done with it? Voilà! The financial framework had been recast as a collaborative one.
 
@@ -79,3 +97,4 @@ Treating your customers as collaborators, together with relying on revealed rath
 ![17564010777803256877332902728736](https://github.com/user-attachments/assets/0037290c-f0fa-45a4-bc81-dfe44aea9c23)
 
 [Mr. Robot]: https://m.imdb.com/title/tt5342606/quotes/
+[skirt the system]: /blog/books/levitt-dubner/2006-freakonomics/1-schoolteachers-and-sumo-wrestlers.md
