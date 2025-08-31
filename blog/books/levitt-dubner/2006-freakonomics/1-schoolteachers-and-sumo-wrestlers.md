@@ -12,16 +12,16 @@ W. C. Fields reminds us that every economic incentive has a hoard of cheaters cl
 
 > A thing worth having is a thing worth cheating for.
 
-You can't make anything cheater proof because cheaters have their strength in numbers and you don't.
+You can't make anything cheater-proof because cheaters have their strength in numbers, and you don't.
 
 > For every clever person who goes to the trouble of creating an incentive scheme, there is an army of people, clever and otherwise, who will inevitably spend even more time trying to beat it.
 
-Never rely on the honor system.
+Never rely on an honor system.
 
 > Consider what happened one spring evening at midnight in 1987: seven million American children suddenly disappeared. The worst kidnapping wave in history? Hardly. It was the night of April 15, and the Internal Revenue Service had just changed a rule. Instead of merely listing the name of each dependent child, tax filers were now required to provide a Social Security number. Suddenly, seven million children—children who had existed only as phantom exemptions on the previous year’s 1040 forms—vanished, representing about one in ten of all dependent children in the United States.
 
-Paul Feldman delivered bagels to offices, but instead of selling them piece by piece, he just set up a box where the office worker would drop the money when he took a bagel. Many office workers, particularly the executives, took the advantage of the fact that no one was watching to steal some bagels.
+In other words, if no one is checking, then people will make up fake dependents to cheat the government. Similarly, if no one is watching a food cart, then people will steal from it. Take it from Paul Feldman. He delivered bagels to offices, but instead of selling them piece by piece, he just set up a box where the office worker would drop the money when he took a bagel. Many office workers, particularly the executives, took advantage of the fact that no one was watching to steal some bagels.
 
 > Feldman wondered if perhaps the executives cheated out of an overdeveloped sense of entitlement. What he didn’t consider is that perhaps cheating was how they got to be executives.
 
-Executives take every opportunity to lie, cheat, and steal. That's what got them to the top.
+Executives take every opportunity to lie, cheat, and steal. That's what got them to the top. Not quite what the countless books on how to be successful will have you believe.
