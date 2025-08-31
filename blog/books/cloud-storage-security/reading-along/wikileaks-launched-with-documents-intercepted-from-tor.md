@@ -19,3 +19,4 @@ When security researchers started creating Tor exit nodes to eavesdrop on hacker
 One does not necessarily need to engage in innovation to find success. Using a [formula] established by others will often suffice. For example, small businesses of all stripes use the same social media strategy, one that has proven to work for others. Similarly, security researchers follow the WikiLeaks formula for finding stolen classified documents.
 
 [nothing new]: /blog/books/cloud-storage-security/reading-along/tor-exit-node-eavesdropper.md
+[formula]: /blog/books/let-them/10-make-comparison-your-teacher.md
