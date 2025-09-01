@@ -10,7 +10,7 @@ At the same time, P2P protocols are so good at file-sharing, it makes sense to u
 
 In video multicasting, if all peers are buffering the same sliding window of video chunks, they could rapidly propagate through the entire network, allowing a large audience to view a live broadcast at the same time without overtaxing any one server or peer.
 
-Fig4b
+<img width="864" height="206" alt="17567679092972776242652642256986" src="https://github.com/user-attachments/assets/4f47d502-4ee2-4708-9686-f87de7b0a5fc" />
 
 Of course, neither client-server nor P2P model is superior for all applications. Both have their target use cases. A general catch-all application should combine the strengths of both.
 
