@@ -16,7 +16,7 @@ There is reason to believe that decriminalizing abortion would've kept Romania a
 
 > What sort of woman was most likely to take advantage of Roe v. Wade? Very often she was unmarried or in her teens or poor, and sometimes all three. What sort of future might her child have had? One study has shown that the typical child who went unborn in the earliest years of legalized abortion would have been 50 percent more likely than average to live in poverty; he would have also been 60 percent more likely to grow up with just one parent. These two factors—childhood poverty and a single-parent household—are among the strongest predictors that a child will have a criminal future. Growing up in a single-parent home roughly doubles a child’s propensity to commit crime.
 
-The decrease in crime following the legalization of abortion caught everyone by surprise, especially the alarmist criminologists who have built their careers on fearmongering.
+The [decrease in crime] following the legalization of abortion caught everyone by surprise, especially the alarmist criminologists who have built their careers on fearmongering.
 
 > The criminologist James Alan Fox explained that his warning of a “bloodbath” was in fact an intentional overstatement. “I never said there would be blood flowing in the streets,” he said, “but I used strong terms like ‘bloodbath’ to get people’s attention. And it did. I don’t apologize for using alarmist terms.”
 
@@ -49,3 +49,5 @@ Even if one has an infinite supply of police officers, chasing every minor offen
 > Regulation of a legal market is bound to fail when a healthy black market exists for the same product. With guns so cheap and so easy to get, the standard criminal has no incentive to fill out a firearms application at his local gun shop and then wait a week. The Brady Act, accordingly, has proven to be practically impotent in lowering crime.
 
 Keeping peace is an [honor system]. A society is only at peace when most of its members agree to follow the law voluntarily. This is easier when women aren't forced to bear children they would otherwise have to raise in poverty. Adversity begets crime.
+
+[decrease in crime]: /blog/books/levitt-dubner/2006-freakonomics/0-introduction.md
