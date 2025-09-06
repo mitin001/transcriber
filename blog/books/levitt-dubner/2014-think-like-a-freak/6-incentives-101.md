@@ -92,9 +92,10 @@ If a real deal suddenly enters an industry dominated by bullshitters, people wil
 
 > Rather than hound donors with a hard sell, Smile Train changed its message: Hey, we know it’s a hassle to get eighteen letters a year. You think we like having to send out that many? But we’re all in this fight together, so why don’t you send us a few bucks and we can be done with it? Voilà! The financial framework had been recast as a collaborative one.
 
-Treating your customers as collaborators, together with relying on revealed rather than declared preferences and anticipating and managing backfiring situations, have been distilled by the authors to six rules of incentives.
+Another way to cooperate with a customer is a [self-determined] pricing policy: let them name the price. Making the previously named prices public incentivizes new customers not to aim too low with their prices. Treating your customers as collaborators, together with relying on revealed rather than declared preferences and anticipating and managing backfiring situations, have been distilled by the freakonomists to their six rules of incentives.
 
 ![17564010777803256877332902728736](https://github.com/user-attachments/assets/0037290c-f0fa-45a4-bc81-dfe44aea9c23)
 
+[self-determined]: https://freakonomics.com/2006/05/how-is-a-canadian-art-pop-singer-like-a-bagel-salesman/
 [Mr. Robot]: https://m.imdb.com/title/tt5342606/quotes/
 [skirt the system]: /blog/books/levitt-dubner/2006-freakonomics/1-schoolteachers-and-sumo-wrestlers.md
