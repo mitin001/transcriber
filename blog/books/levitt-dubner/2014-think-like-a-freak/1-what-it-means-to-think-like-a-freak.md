@@ -9,3 +9,6 @@ Finding the [cure for cancer] is a hard problem that's gone unsolved for far too
 > The “worried well” crowd out the truly sick, wait times increase for everyone, and a massive share of the costs go to the final months of elderly patients’ lives, often without much real advantage.
 
 Every decision comes with trade-offs.
+
+[dare]: /blog/podcasts/darknet-diaries/155-kingpin.md
+[cure for cancer]: /blog/books/levitt-dubner/2009-superfreakonomics/2-suicide-bomber-life-insurance.md
