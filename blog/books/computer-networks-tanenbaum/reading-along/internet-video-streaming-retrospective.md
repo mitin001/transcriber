@@ -19,3 +19,4 @@ But over time, the client-server model proved more than capable at serving video
 Just as the cloud was a re-emergence of the [mainframe] of the 1970s into the scene of highly advanced computer networking, it's conceivable to expect a new video technology that brings about a re-emergence of P2P against the backdrop of highly advanced client-server streaming technology.
 
 [mainframe]: /blog/books/cloud-storage-security/1-data-in-the-cloud.md
+[passing fad]: /blog/books/levitt-dubner/2014-think-like-a-freak/2-three-hardest-words.md
