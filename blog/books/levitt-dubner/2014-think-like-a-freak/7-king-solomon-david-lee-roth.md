@@ -1,0 +1,35 @@
+# 7. What Do King Solomon and David Lee Roth Have in Common?
+
+A man can't just claim that he has [divine right] to the throne. He must prove to his people that God is indeed behind him. King Solomon did so by bluffing about his intention to kill a baby and catching a prostitute in a lie.
+
+> Solomon, a young man when he inherited the throne, was eager to prove his judgment was sound. He was soon given a chance to do that when two women, prostitutes by trade, came to him with a dilemma. The women lived in the same house and, within the space of a few days, had each given birth to a baby boy. The first woman told the king that the second woman’s baby died, and that the second woman “arose at midnight, and took my son from beside me . . . and laid the dead child in my bosom.” The second woman disputed the story: “Nay; but the living is my son, and the dead is thy son.” One of the women was plainly lying, but which one? How was King Solomon supposed to tell who was the mother of the living child? “Fetch me a sword,” he said. “Divide the living child in two, and give half to the one, and half to the other.” The first woman begged the king to not hurt the baby, and instead give it to the second woman. The second woman, however, embraced the king’s solution: “It shall be neither mine nor thine,” she said. “Divide it.” King Solomon promptly ruled in favor of the first woman. “Give her the living child,” he said. “She is the mother thereof.” The Bible tells us that “all Israel heard of the judgment” and they “saw that the wisdom of God was in him, to do justice.” How did Solomon know the true mother? He reasoned that a woman cruel enough to go along with his baby-carving plan was cruel enough to steal another’s child. And, further, that the real mother would rather give up her child than see it die. King Solomon had set a trap that encouraged the guilty and the innocent to sort themselves out.
+
+A similar bluff was adopted by the medieval justice system, in which a priest put a party that was presumed guilty through a trial by ordeal. He plunged their arms into boiling water, and if they remained unscalded, then God must be by their side, and so they are determined to be innocent.
+
+> Either (1) the priests believed these defendants really were guilty; or (2) the priests had to at least keep up appearances that a trial by ordeal really worked, or else the threat would lose its power to sort the innocent from the guilty—and so these folks were sacrificed. We should also note that the threat would lose its power if the defendants didn’t believe in an all-powerful, all-knowing God who punished the guilty and pardoned the innocent.
+
+The rational explanation is that a priest simply decided who was innocent and who was guilty and heated the water up accordingly: warm for those who thought were innocent and boiling for those he thought were guilty.
+
+> If medieval priests did manipulate the ordeals, that might make them the only parties who thought an all-knowing God didn’t exist—or if he did, that he had enough faith in his priestly deputies to see their tampering as part of a divine quest for justice.
+
+In other words, Medieval protests suffered either from nihilistic cynicism or the God delusion.
+
+> The priestly ordeals relied on the threat of an omniscient God. David Lee Roth and King Solomon, meanwhile, each had to make themselves look bad in order to flush out the truth—Roth by posing as an even bigger prima donna than he was and Solomon by suggesting he was a bloodthirsty tyrant, eager to settle a maternity dispute by hacking the baby to pieces.
+
+Roth, like King Solomon, used his larger-than-life persona to his advantage. Van Halen's contact riders spanned 53 pages. How did Roth make sure that every venue promoter read all of it? He buried in it a rule that banned brown M&M's from the dressing room. If he then found brown M&M's in his dressing room, that meant that the promoter didn't read the rider carefully enough, so he had to do a comprehensive check to make sure the venue could indeed accommodate all the demands of his show.
+
+> “Most rock-and-roll bands had a contract rider that was like a pamphlet,” Roth says. “We had one that was like the Chinese phone book.” It gave point-by-point instructions to ensure that the promoter at each arena provided enough physical space, load-bearing capacity, and electrical power. Van Halen wanted to make sure no one got killed by a collapsing stage or a short-circuiting light tower. But every time the band pulled into a new city, how could they be sure the local promoter had read the rider and followed all the safety procedures? Cue the brown M&M’s. When Roth arrived at the arena, he’d immediately go backstage to check out the bowl of M&M’s. If he saw brown ones, he knew the promoter hadn’t read the rider carefully—and that “we had to do a serious line check” to make sure the important equipment had been properly set up.
+
+The brown M&M's clause was a trap. Similarly, Israel's...
+
+> The British officers had complained that the beer at the kibbutz was too warm; they preferred it chilled. Their Jewish friends, eager to please, made a proposal: The next time you plan to visit, call us beforehand and we will put some beer on ice for you. Done and done! According to kibbutz legend at least, this warm-beer alarm worked like a charm: the British officers never again pulled a surprise visit to the factory, which went on to produce more than two million bullets for use in Israel’s War of Independence. The kibbutzniks had cannily appealed to the Brits’ narrow self-interest in order to satisfy their own much broader one.
+
+Cormac Herley
+
+> In 2010, the McAfee antivirus software identified a malevolent file on vast fleets of computers running Microsoft Windows. It promptly attacked the file, either deleting or quarantining it, depending on how a given computer was configured. Only one problem: the file wasn’t malevolent—and, in fact, was a key component of the Windows start-up function. The antivirus software, by falsely attacking a healthy file, sent “millions of PC’s into never-ending reboot cycles,” says Herley.
+
+> How can a Nigerian scammer tell, just by looking at thousands of e-mail addresses, who is gullible and who is not? He can’t. Gullibility is in this case an unobservable trait. But, Herley realized, the scammer can invite the gullible people to reveal themselves. How? By sending out such a ridiculous letter—including prominent mentions of Nigeria—that only a gullible person would take it seriously. Anyone with an ounce of sense or experience would immediately trash an e-mail like this. “The scammer wants to find the guy who hasn’t heard of it,” Herley says. “Anybody who doesn’t fall off their chair laughing is exactly who he wants to talk to.”
+
+Herley explains that...
+
+> [T]hose who are fooled for a while but then figure it out, or who balk at the last hurdle, are precisely the expensive false positives that the scammer must deter.
