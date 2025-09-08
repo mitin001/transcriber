@@ -1,18 +1,18 @@
 # *Metropolitan Life*
 
-One does not get rich, one must be born rich.
+One does not _get_ rich, one must be born rich.
 
 > Wealth and power are much more likely to be the result of breeding than they are of reading.
 
-Altruism sometimes reveals an inner darkness.
+Another observation: [altruism] sometimes points to an inner darkness.
 
 <img width="864" height="213" alt="17566651794999095428238988113248" src="https://github.com/user-attachments/assets/f7f732df-9d06-451c-9b97-1b062ba63483" />
 
-A person volunteering at a soup kitchen or giving plasma may be trying to repent, perhaps unwittingly, for their psychopathy. I've intimately known at least two psychopaths. M. volunteered at a soup kitchen. P. gave plasma and tipped a barista $20. Both went out of their way to make sure I saw them do it and mentioned it in conversation whenever they could. Perhaps they weren't that altruistic after all.
+A person volunteering at a soup kitchen or giving plasma may be trying to repent, perhaps unwittingly, for their psychopathy. I've intimately known at least two psychopaths. M. volunteered at a soup kitchen. P. gave plasma and tipped a barista $20. Both went out of their way to make sure I saw them engage in those activities and mentioned them in conversation whenever they could. Perhaps they weren't that altruistic after all.
 
 <img width="799" height="250" alt="17566651974745016202941324014822" src="https://github.com/user-attachments/assets/21882d43-261d-4072-93b4-59a7e8208b25" />
 
-Kings made up a God because they want to appear to their subjects as if they also have someone to answer to. They justify their rule as a divine right. Had God objected to their rule, he wouldn't have allowed them to grab power, they had their subjects believe. And yet, people go against God's will all the time, and God has no objections. English became the dominant language of the world and reached into the sky with their technology, but God never sabotaged our new Babylon. Americans keep expecting everyone in the world to speak English.
+[Kings] made up a God because they want to appear to their subjects as if they also have someone to answer to. They justify their rule as a right given to them by God. Had God objected to their rule, he wouldn't have allowed them to grab power in the first place, they had their subjects believe. And yet, people go against God's will all the time, and God has no objections. English became the dominant language of the world, and English speakers reached into the sky with their technology, but God never sabotaged our new Babylon. Now complacent Americans keep expecting everyone in the world to speak to them in English, but they don't always get their wish.
 
 > No matter how politely or distinctly you ask a Parisian a question he will persist in answering you in French.
 
