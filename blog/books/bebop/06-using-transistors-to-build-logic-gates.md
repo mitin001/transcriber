@@ -32,4 +32,22 @@ That's not to say that simpler implementations of the AND gate don't exist, they
 
 > It’s possible to create an AND gate using only one transistor and a resistor.
 
-But CMOS is still is the logic gate implementation that makes the most sense at scale.
+Similarly, an XOR gate can be created with just four transistors if we allow gate inputs to serve as both control inputs for transistors as well as data inputs to logic gates within them (e.g., the NOT gate).
+
+F12
+
+> Transistors TR3 and TR4 are connected in such a way that input and internal data signals pass between their data (source and drain) terminals. This technique, which is known as pass-transistor logic , can be attractive in that it minimizes the number of transistors required to implement a function. However, pass-transistor logic is not necessarily the best approach because strange and unexpected effects can ensue if you’re not careful and you don’t know what you’re doing.
+
+Introducing pass-transistor logic and capacitors complicates logic gate construction. It's easier and more interoperable to just use the plain CMOS implementation.
+
+> The input signals and internal data signals are used only to drive control (gate) terminals on the transistors.
+
+CMOS is the logic gate implementation that makes the most sense at scale. In a CMOS NAND gate, the PMOS transistors are in parallel and the NMOS transistors are in series. The CMOS NOR gate is the opposite: the NMOS transistors are in parallel and the PMOS transistors are in series.
+
+F7
+
+> A 3-input version could be constructed by adding an additional PMOS transistor in series with Tr1 and Tr2 , and an additional NMOS transistor in parallel with Tr3 and Tr4.
+
+Just as the AND gate is the NAND gate piped to a NOT gate, the OR gate is the NOR gate piped to a NOT gate. 
+
+F8
