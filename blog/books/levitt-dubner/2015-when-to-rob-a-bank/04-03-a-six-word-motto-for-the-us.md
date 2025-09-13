@@ -1,0 +1,3 @@
+# 04-03. Contest: A Six-Word Motto for the U.S.
+
+> to stay is, while perhaps not outright uplifting, a wonderfully concise acknowledgement of the paradox that a capitalist democracy inevitably is, a place that is often well worth complaining about and which allows you to complain as loudly as you wish. It seems a small reward to get just a piece of… 
