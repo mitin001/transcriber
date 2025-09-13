@@ -1,0 +1,3 @@
+# 03-15. If Only God Had Had Corporate Sponsorship...
+
+> 7.35pm. Why? Because 7-Eleven, the convenience store chain, is paying them $500,000 to do so. I have lately noticed advertisements showing up in a lot of unlikely venues stamped onto fresh eggs, printed on airplane barf bags for instance. for instance? 
