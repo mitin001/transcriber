@@ -1,1 +1,3 @@
 # 5. Think Like a Child
+
+> Think like a freak means to think small, not big. Why? For starters, every big problem has been thought about endlessly by people much smarter than we are. The fact that it remains a problem means it's too damned hard to be cracked in full. Such problems are intractable, hopelessly complex, brimming with entrenched... 
