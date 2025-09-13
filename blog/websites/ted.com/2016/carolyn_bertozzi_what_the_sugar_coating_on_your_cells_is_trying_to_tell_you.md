@@ -1,4 +1,4 @@
-# Carolyn Bertozzi: What the sugar coating on your cells is trying to tell you
+# [Carolyn Bertozzi: What the sugar coating on your cells is trying to tell you](https://www.ted.com/talks/carolyn_bertozzi_what_the_sugar_coating_on_your_cells_is_trying_to_tell_you/transcript)
 
 > The sugar coating on our cells is like the sugar coating on a peanut M&M. And people thought the sugar coating on our cells was like a protective coating that somehow made our cells stronger or tougher. But we now know, many decades later, that it's much more complicated than that. 
 
