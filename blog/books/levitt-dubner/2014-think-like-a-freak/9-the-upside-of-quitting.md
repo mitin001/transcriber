@@ -1,21 +1,31 @@
 # 9. The Upside of Quitting
 
-> But quitting is not. The American version goes like this. A quitter never wins, and a winner never quits. To quit is to prove oneself a coward, a shurker, a person of limited character. Let's face it, a loser. Who could possibly argue with that? A freak. That's who. 
+Americans celebrate those who stick to it.
 
-00:01:41
+> A quitter never wins, and a winner never quits.
 
-> against quitting. The first is a lifetime of being told by Churchill wannabes that quitting is a sign of failure. The second is the notion of sunk costs. This is pretty much what it sounds like, the time or money or sweat equity you've already spent on a project. It is tempting to believe that once your 
+This is terrible advice. Such an attitude keeps people distracted from finding success. Instead, they toil at an infeasible task, living an unfulfilled life. There's no joy in it, and yet, the fear of changing things keeps them stuck. Such people have fallen prey to the status-quo bias.
 
-00:02:49
+> A preference for keeping things as they are—and, to be sure, a prime force against quitting anything.
 
-> that for every dollar or hour or brain cell that you spend on one thing, you surrender the opportunity to spend it elsewhere. Concrete costs are usually easy to calculate, but opportunity cost is harder. If you want to go back to school to get an MBA, you know it'll cost two years time and $80,000. 
+Similarly, the sunk-cost fallacy will have you believe that your investments into a dud will eventually pay off, as long as you keep on investing.
 
-00:04:05
+> It is tempting to believe that once you’re invested heavily in something, it is counterproductive to quit.
 
-> aren't the right people to take them on. Resources are not infinite. You cannot solve tomorrow's problem if you aren't willing to abandon today's dud. Nor should failure be considered a total loss. Once you start thinking like a freak and running experiments, you'll find that failure can provide 
+This is not true. Once something has shown signs of being a bad investment, the most rational thing to do is to stop as soon as possible, otherwise you're sinking even more resources into it.
 
-00:05:42
+> Throwing good money after bad.
 
-> would likely earn tenure at a top economics department. This option exploited what academics called the "status quo bias," a preference for keeping things as they are, and, to be sure, a prime force against quitting anything. Number two had some intrinsic appeal, but, having already tried it once without much 
+And had this only been about money, the sunk-cost fallacy wouldn't be as damaging, but it's about so much more.
 
-00:26:34
+> Money is hardly the only resource that people toss into the sunk-cost trap. Think about all the time, brainpower, and social or political capital you continued to spend on some commitment only because you didn’t like the idea of quitting.
+
+As you're sinking your resources into feeding the attitude of not quitting no matter the cost, you're also shielding yourself from finding success. You can only [stumble] into good fortune by adopting the opposite attitude, one of swift course correction.
+
+> For every dollar or hour or brain cell you spend on one thing, you surrender the opportunity to spend it elsewhere. Concrete costs are usually easy to calculate, but opportunity cost is harder.
+
+As you continue to feed your aversion to quitting, you end up missing an opportunity that may be waiting for you just around the corner.
+
+> Resources are not infinite: you cannot solve tomorrow’s problem if you aren’t willing to abandon today’s dud.
+
+When you're young, you can afford to be idealistic and cocky and throw yourself at a hard problem. However, as soon as you realize that you're not the one-in-a-generation wit that can actually solve it, find yourself a small problem and find success in solving it.
