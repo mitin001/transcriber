@@ -1,13 +1,15 @@
 # 8. How to Persuade People Who Don’t Want to Be Persuaded
 
-> deluge of binge drinking? Wouldn't a fleet of computer-controlled cars be vulnerable to hacking? And what happens when some cyber terrorist steers every vehicle west of the Mississippi into the Grand Canyon? And what if, on one beautiful spring day, a mis-programmed car plows through a playground and 
+When you want to persuade someone, scare them into listening to you. There's so much fearmongering among experts of various spades because it is so effective. The phrase "It could happen to you" is responsible for the success of cable news.
 
-00:05:02
+> What happens when some cyber-terrorist steers every vehicle west of the Mississippi into the Grand Canyon?
 
-> that result from it. Alas, not all stories are true. A great deal of conventional wisdom is built on nothing more than a story that someone has been telling for so long, often out of self-interest, that it's treated like gospel. So it is always worth questioning what a story is based on and what it really means. 
+If you don't want to resort to coercive tactics like fearmongering, but still would like to persuade someone, tell them a story. If you want to get your listener's attention, just say, "It was a dark and stormy night..." and take it from there.
 
-00:01:47
+> As a story unspools, with its cast of characters moving through time and making decisions, we inevitably put ourselves in their shoes. Yes, I would have done that too! or No no no, I never would have made that decision!
 
-> Stories also appeal to the narcissist in all of us. As a story unspools with its cast of characters moving through time, making decisions, we inevitably put ourselves in their shoes. "Yes, I would have done that too." Or "No, no, no, I never would have made that decision." 
+Appeal to their narcissism. Everyone who hears a story thinks it's about them. We put ourselves into the stories of others; they become akin to our lived experiences. We start defending stories as if they were facts. This way stories can be used to [manipulate] people into believing falsehoods.
 
-00:03:41
+> A great deal of conventional wisdom is built on nothing more than a story that someone has been telling for so long—often out of self-interest—that it is treated like gospel.
+
+When someone makes a ridiculous claim, ask them for the source of their information. Chances are, you will be led to a story that is as compelling as it is false. 
