@@ -1,3 +1,7 @@
 # 06-06. An Experiment for Fake Memoirs
 
-> and having recently read about how an expensive sugar pill placebo works better than a cheap sugar pill placebo, I thought of a fun memoir novel experiment. Here's what you do. Take an unpublished manuscript that tells an intense and harrowing story from a first-person perspective. 
+When you're selling snake oil, making it expensive will work in your favor.
+
+> An expensive sugar-pill placebo works better than a cheap sugar-pill placebo.
+
+People will think that since it costs this much, surely there must be something to it in terms of its effectiveness. Thanks to the placebo effect, there will be scores of people swearing by it.
