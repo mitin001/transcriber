@@ -20,16 +20,20 @@ Roth, like King Solomon, used his larger-than-life persona to his advantage. Van
 
 > “Most rock-and-roll bands had a contract rider that was like a pamphlet,” Roth says. “We had one that was like the Chinese phone book.” It gave point-by-point instructions to ensure that the promoter at each arena provided enough physical space, load-bearing capacity, and electrical power. Van Halen wanted to make sure no one got killed by a collapsing stage or a short-circuiting light tower. But every time the band pulled into a new city, how could they be sure the local promoter had read the rider and followed all the safety procedures? Cue the brown M&M’s. When Roth arrived at the arena, he’d immediately go backstage to check out the bowl of M&M’s. If he saw brown ones, he knew the promoter hadn’t read the rider carefully—and that “we had to do a serious line check” to make sure the important equipment had been properly set up.
 
-The brown M&M's clause was a trap. Similarly, Israel's...
+The brown M&M's clause was a trap. The hospitality the Israelites showed to British soldiers was also a trap. The kibbutzniks said to the Brits that they wanted to serve them chilled beer, but it was really just pretext for ending surprise inspections.
 
 > The British officers had complained that the beer at the kibbutz was too warm; they preferred it chilled. Their Jewish friends, eager to please, made a proposal: The next time you plan to visit, call us beforehand and we will put some beer on ice for you. Done and done! According to kibbutz legend at least, this warm-beer alarm worked like a charm: the British officers never again pulled a surprise visit to the factory, which went on to produce more than two million bullets for use in Israel’s War of Independence. The kibbutzniks had cannily appealed to the Brits’ narrow self-interest in order to satisfy their own much broader one.
 
-Cormac Herley
-
-> In 2010, the McAfee antivirus software identified a malevolent file on vast fleets of computers running Microsoft Windows. It promptly attacked the file, either deleting or quarantining it, depending on how a given computer was configured. Only one problem: the file wasn’t malevolent—and, in fact, was a key component of the Windows start-up function. The antivirus software, by falsely attacking a healthy file, sent “millions of PC’s into never-ending reboot cycles,” says Herley.
+Similarly, cartoonishly broken English and outrageous claims made in scam emails are a trap meant to weed out critical thinkers and instead deliver only the most gullible people to the scammer.
 
 > How can a Nigerian scammer tell, just by looking at thousands of e-mail addresses, who is gullible and who is not? He can’t. Gullibility is in this case an unobservable trait. But, Herley realized, the scammer can invite the gullible people to reveal themselves. How? By sending out such a ridiculous letter—including prominent mentions of Nigeria—that only a gullible person would take it seriously. Anyone with an ounce of sense or experience would immediately trash an e-mail like this. “The scammer wants to find the guy who hasn’t heard of it,” Herley says. “Anybody who doesn’t fall off their chair laughing is exactly who he wants to talk to.”
 
-Herley explains that...
+Cormac Herley explains that separating people from their money is a costly process for the scammer, so their prospective victims must be solid leads.
 
 > [T]hose who are fooled for a while but then figure it out, or who balk at the last hurdle, are precisely the expensive false positives that the scammer must deter.
+
+False positives are a plight in every discipline, not just in the business of scam. False positives can [strain] the healthcare system so much that doctors actually discourage most disease screening. When a person is told they have a disease when they don't, it can take considerable resources to put their mind at ease. When antivirus software decides that a computer is infected with malware when it isn't, it can actually prevent its operating system from booting at all. If the false positive is a system file present on every machine, then we can end up with an apocalyptic scenario where no one can turn on their computers.
+
+> In 2010, the McAfee antivirus software identified a malevolent file on vast fleets of computers running Microsoft Windows. It promptly attacked the file, either deleting or quarantining it, depending on how a given computer was configured. Only one problem: the file wasn’t malevolent—and, in fact, was a key component of the Windows start-up function. The antivirus software, by falsely attacking a healthy file, sent “millions of PC’s into never-ending reboot cycles,” says Herley.
+
+This is why we need redundancy: no one vendor should hold the monopoly on antivirus software, no one company should hold the monopoly on operating systems. When Windows machines protected by McAfee are down and awaiting patches, go to the back room and bring out the Macs protected by Sophos. Always have a [backup plan].
