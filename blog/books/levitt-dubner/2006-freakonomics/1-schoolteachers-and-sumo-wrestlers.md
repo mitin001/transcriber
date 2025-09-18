@@ -25,3 +25,7 @@ In other words, if no one is checking, then people will make up fake dependents 
 > Feldman wondered if perhaps the executives cheated out of an overdeveloped sense of entitlement. What he didn’t consider is that perhaps cheating was how they got to be executives.
 
 Executives take every opportunity to lie, cheat, and steal. That's what got them to the top. Not quite what the countless books on how to be successful will have you believe.
+
+> Cheating may or may not be human nature, but it is certainly a prominent feature in just about every human endeavor. Cheating is a primordial economic act: getting more for less.
+
+The cheaters are so successful because they don't resist the flaw in human nature. People by their nature will put everyone else, even the whole society, at a disadvantage for personal gain. If your action is a loss when others are considered, you will still take it as long as it's a gain for you.
