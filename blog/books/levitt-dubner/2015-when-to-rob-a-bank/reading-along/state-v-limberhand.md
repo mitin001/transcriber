@@ -48,6 +48,10 @@ With all the usual methods of entrapment failing, the undercover officer decided
 
 Luckily for the officer, the defendant was found in the possession of a small quantity of marijuana. Unfortunately for the officer, neither charge could stick to the defendant because all of the evidence (the drugs as well as his eyewitness testimony of public masturbation) was deemed to have been collected illegally, which rendered it inadmissible.
 
+## Is it illegal for a man to masturbate in a stall if a public bathroom? 
+
+No, as long as he's doing so privately. Limberhand couldn't be charged with obscene conduct when an undercover officer observed him masturbating in a stall.
+
 > The magistrate reasonably inferred Limberhand did not desire his conduct to be viewed by the public but was utilizing the features of the stall to prevent exposure.
 
 Had an eyewitness pressed charges against the defendant from seeing him masturbate in public, the burden of proof of an intent to conceal this activity would be on the defendant. However, since the police engaged in a warrantless search of the defendant, it's on the state to prove it had reasonable suspicion to do so.
