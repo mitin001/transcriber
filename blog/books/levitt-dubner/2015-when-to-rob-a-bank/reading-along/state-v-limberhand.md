@@ -2,7 +2,7 @@
 
 ## How do people get out of drug possession charges? 
 
-They prove to the court that the police officer didn't have the right to obtain the evidence (your drugs).
+They prove to the court that the police officer didn't have the right to obtain the evidence (their drugs).
 
 > Limberhand was arrested for participating in obscene live conduct, I.C. § 18-4104, after an undercover officer observed him masturbating in a closed toilet stall, in a public restroom at a rest area along Interstate 90 in northern Idaho. He was taken by the police to the Kootenai County jail. When Limberhand emptied his pockets in the course of being booked into the jail, a small quantity (less than three ounces) of marijuana was found and seized by the police, giving rise to an additional charge of misdemeanor possession of a controlled substance, I.C. § 37-2732(c). After Limberhand appeared before a magistrate on the charges, he moved to suppress all evidence obtained by the officers, on the ground that the undercover officer's observations of him in the rest stop toilet stall constituted an illegal search in violation of the United States and Idaho Constitutions.
 
