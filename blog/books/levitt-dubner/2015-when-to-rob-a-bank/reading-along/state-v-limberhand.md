@@ -30,7 +30,7 @@ They entrapped them. A perfect trap would be a bathroom stall with a glory hole 
 
 > About three feet above the floor level, a hole with a diameter of approximately four inches had been made through the common partition, evidently with a cutting torch.
 
-Even when an officer investigating a report of homosexual activity found no such activity to be taking place, he would attempt to elicit it from passers-by.
+Even when an officer investigating a report of homosexual activity found no such activity to be taking place, he would attempt to elicit it from passers-by. Such attempts did not always work.
 
 > On June 5, 1987, Idaho State Police Officer Komosinski equipped with a transmitter operated as an undercover agent at the rest area. Komosinski entered the restroom and found it unoccupied. He noticed the hole in the partition between the two toilet stalls. He plugged the hole with toilet paper for reasons not disclosed by the record and left the restroom. A short time thereafter, Komosinski observed an individual, later identified as the defendant, Limberhand, enter the restroom. After waiting one to two minutes, Komosinski reentered the restroom and noted that Limberhand occupied one of the stalls.
 
