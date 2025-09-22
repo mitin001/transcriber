@@ -6,7 +6,7 @@ Perhaps if you could connect your nervous tissue to a machine that could replica
 
 > How it is that anything so remarkable as a state of consciousness comes about as the result of irritating nervous tissue?
 
-## How far out are cameras from achieving the image resolution of the eye?
+## How far out are we from having our cameras achieve the image resolution of the human eye?
 
 We are already there. [130-megapixel cameras] can be created by pairing a scanner with a manual photo lens. 130 megapixels is the image resolution of the human eye.
 
