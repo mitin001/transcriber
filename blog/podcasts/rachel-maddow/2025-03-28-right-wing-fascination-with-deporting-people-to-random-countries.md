@@ -1,0 +1,7 @@
+# [2025-03-28](https://s3.amazonaws.com/writecomments.com/transcripts/0778cb10e4fa17609255028e7ce9f763.csv): Judges mount opposition to the weird right-wing fascination with deporting people to random countries 
+
+> Yet another federal judge has just issued a restraining order that blocks Trump from sending people to random third countries that they're not from. Like for example, what he has done by sending hundreds of men who aren't from El Salvador to a prison in El Salvador.
+
+The Trumpy UK Prime Minister Rishi Sunak had a similar arrangement with Rwanda last year. Deporting people to random countries at the expense of taxpayers seems to be a thing in right-wing circles nowadays. It's encouraging to see pushback to these cruel stunts.
+
+> Just in case Trump had designs on sending people to yet another random country to which the deportees had no connection, a federal judge tonight in Massachusetts has blocked him from doing that.

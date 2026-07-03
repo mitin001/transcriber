@@ -1,0 +1,7 @@
+# [2025-02-28](https://s3.amazonaws.com/writecomments.com/transcripts/f717efb33aff10e3bd423e63c462da51.csv): Trump is trying to steal Social Security money from seniors
+
+Seniors who have been paying the Social Security and Medicare taxes their whole lives are protesting as Trump tries to take these away from them now that they've come to collect them.
+
+> That's our money. We put that in. Nobody gave us that money. We loaned it to the government.
+
+We put a convicted felon in office and are now watching as he steals our money.

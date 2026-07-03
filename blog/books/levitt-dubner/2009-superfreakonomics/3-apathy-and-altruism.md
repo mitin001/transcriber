@@ -1,0 +1,59 @@
+# 3. Unbelievable stories about apathy and altruism
+
+Advertising works. Call on people to purchase your product or donate to your charity, and a subset of them will undoubtedly comply. The more compelling the ad, the larger the response ratio. The larger the audience, the more people will respond. In this chapter, the freakonomists relayed the results of a study that supports this claim.
+
+> A given disaster received an 18 percent spike in charitable aid for each seven-hundred-word newspaper article and a 13 percent spike for every sixty seconds of TV news coverage. (Anyone hoping to raise money for a Third World disaster had better hope it happens on a slow news day.)
+
+The most compelling calls to action are the ones that incentivize their audience. A charitable donation is received in exchange for the donor showing off how good of a person he is to himself or others. That's also what one gets when he cares for an elderly parent, unless this comes with even stronger incentives, like the traditionalist attitudes of their culture and/or a sizable inheritance.
+
+> An elderly parent in a retirement home is more likely to be visited by his grown children if they are expecting a sizable inheritance.
+
+One explanation for this observation is that wealthy people raise their children with an expectation that they must care for them when they're older, but other observations of the children of wealthy people seem to refute this theory.
+
+> You’d expect an only child of wealthy parents to be especially dutiful. But the data show no increase in retirement-home visits if a wealthy family has only one grown child; there need to be at least two. This suggests that the visits increase because of competition between siblings for the parent’s estate. What might look like good old-fashioned intrafamilial altruism may be a sort of prepaid inheritance tax.
+
+Competition is what drives action, not values or morals. An incentive means nothing unless it's compared. One empire is content in its stagnation as long as there's not another empire. A monopoly will allocate none of its spoils to research and development. A sole heir will turn his attention away from his aging parents if his inheritance is already secure. A balance between giving and taking only emerges where there is cooperation. Where there is no cooperation, there is only taking. People understand this intuitively, and they ache to restore this balance. A game of Ultimatum illustrates this. It shows that we get so frustrated with uncooperative people that we are willing to pay money just to punish them.
+
+> Player 1 (let’s call her Annika) is given $20 and is instructed to offer any amount, from $0 to $20, to Player 2 (we’ll call her Zelda). Zelda must decide whether to accept or reject Annika’s offer. If she accepts, they split the money according to Annika’s offer. But if she rejects, they both go home empty-handed. Both players know all these rules coming into the game. To an economist, the strategy is obvious. Since even a penny is more valuable than nothing, it makes sense for Zelda to accept an offer as low as a penny—and, therefore, it makes sense for Annika to offer just a penny, keeping $19.99 for herself. But, economists be damned, that’s not how normal people played the game. The Zeldas usually rejected offers below $3. They were apparently so disgusted by a lowball offer that they were willing to pay to express their disgust. Not that lowball offers happened very often. On average, the Annikas offered the Zeldas more than $6.
+
+While the game of Ultimatum revealed the price of greed ($3 given up so the greedy party can lose $17), the Dictator game put a price on altruism.
+
+> Annika was given $20 and told she could split the money with some anonymous Zelda in one of two ways: (1) right down the middle, with each person getting $10; or (2) with Annika keeping $18 and giving Zelda just $2. Dictator was brilliant in its simplicity. As a one-shot game between two anonymous parties, it seemed to strip out all the complicating factors of real-world altruism. Generosity could not be rewarded, nor could selfishness be punished, because the second player (the one who wasn’t the dictator) had no recourse to punish the dictator if the dictator acted selfishly. The anonymity, meanwhile, eliminated whatever personal feeling the donor might have for the recipient.
+
+This game reveals that while people are quick to punish greed, they seem to be quicker to split their good fortune with others. If you've been chosen to play a dictator in the game of Dictator, how would you play?
+
+> The odds are you would…divide the money evenly. That’s what three of every four participants did in the first Dictator experiments.
+
+The authors of the book _Foundations of Human Sociality_ took these experiments and ran with them. They were quick to declare from these findings that humans are altruistic in nature.
+
+> Research in experimental economics has emphatically falsified the textbook representation of _Homo economicus_.
+
+However, John List noticed that these results don't translate to the real world. It appears that the only places where you see this kind of altruism are lab experiments.
+
+> “What is puzzling,” he wrote, “is that neither I nor any of my family or friends (or their families or friends) have ever received an anonymous envelope stuffed with cash. How can this be, given that scores of students around the world have outwardly exhibited their preferences for giving in laboratory experiments by sending anonymous cash gifts to anonymous souls?”
+
+After voicing such observations, List proceeded to show that these lab experiments were poor models of the real world. They were idealizations that couldn't capture the complexity of choice as it's presented in reality.
+
+> He upended the conventional wisdom on altruism by introducing new elements to a clever lab experiment to make it look a bit more like the real world. If your only option in the lab is to give away some money, you probably will. But in the real world, that is rarely your only option.
+
+He modified the Dictator game to allow the dictator player to take money from the other player. The results shouldn't have surprised anyone.
+
+> Under List’s guidance, a band of altruists had suddenly—and quite easily—been turned into a gang of thieves.
+
+Among the reasons cited for the previous experiments' poor generalization to the real world was selection bias.
+
+> The best cardiologist in town probably attracts the sickest and most desperate patients. So if you’re keeping score solely by death rate, that doctor may get a failing grade even though he is excellent. Similarly, are the people who volunteer to play Dictator more cooperative than average? Quite likely yes. Scholars long before John List pointed out that behavioral experiments in a college lab are “the science of just those sophomores who volunteer to participate in research and who also keep their appointment with the investigator.” Moreover, such volunteers tend to be “scientific do-gooders” who “typically have…[a] higher need for approval and lower authoritarianism than non-volunteers.” Or maybe, if you’re not a do-gooder, you simply don’t participate in this kind of experiment.
+
+A social experiment is an oxymoron. It invites a paradox. If you want humans to behave unnaturally, just tell them that you're conducting an experiment.
+
+> Lab experiments have the power to turn a person into “a stupid automaton” who may exhibit a “cheerful willingness to assist the investigator in every possible way by reporting to him those very things which he is most eager to find.” The psychiatrist Martin Orne warned that the lab encouraged what might best be called forced cooperation. “Just about any request which could conceivably be asked of the subject by a reputable investigator,” he wrote, “is legitimized by the quasi-magical phrase “This is an experiment.’”
+
+This is why sociologists should study [revealed preferences], not declared preferences. People will aim to please the experimenter and contort themselves to their expectation, but only in the context of the experiment. The findings from such an experiment have no hope of holding true when the context is shifted to the real world. An underlying reason for this sort of failure is scrutiny. Participants know they're being watched.
+
+> No one wants to look cheap in front of somebody else. What the heck, you decide, I’ll give away a few of my dollars.
+
+Human beings behave differently when watched, even when they know they're being watched by nothing more than an anthropomorphized inanimate object.
+
+> At the University of Newcastle upon Tyne in England, a psychology professor named Melissa Bateson surreptitiously ran an experiment in her own department’s break room. Customarily, faculty members paid for coffee and other drinks by dropping money into an “honesty box.” Each week, Bateson posted a new price list. The prices never changed, but the small photograph atop the list did. On odd weeks, there was a picture of flowers; on even weeks, a pair of human eyes. When the eyes were watching, Bateson’s colleagues left nearly three times as much money in the honesty box. So the next time you laugh when a bird is frightened off by a silly scarecrow, remember that scarecrows work on human beings too.
+
+If you are looking to scare people with a single printed picture, look no further than an ordinary pair of human eyes.

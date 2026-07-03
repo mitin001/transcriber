@@ -1,0 +1,26 @@
+# [2025-03-25](https://s3.amazonaws.com/writecomments.com/transcripts/c288b6d629354888cb4bfd2bed66b3b5.csv): the US government has strayed far from the genius of Reagan
+
+The Reagan administration has made smart tactical decisions that led to the collapse of the Soviet Union.
+
+> They released a video of an invisible laser taking out a rocket on the launch pad.
+
+They scared the Soviets into overreacting, into making bad economic decisions that bankrupted their country.
+
+> They showed them disintegrating a rocket
+on the launch pad. It ended up that that freaked out the Russians and they immediately went to work on this and started investing a ton of money. And a lot of people say that incremental investment in military and defense spending was too much for the Russian economy to handle and actually led to the fall of the Soviet Union. Reagan not only spent them into oblivion, he gave them the perception we were further, it ended up that that video was bullshit. We had nothing of the sort, but it freaked them out and got them spending so much money that it supposedly bankrupted them. I think that's genius. I think that's the kind of shit you want our security apparatus doing. Fooling the enemy into doing stupid things that hurt them.
+
+Since then, the US government has lost its touch. We can't even agree on regulations to protect Americans from our own tech companies. Scott suggests one such missed opportunity for proper legislation: to stop protecting the free speech of algorithms and bots by section 230 protections.
+
+> Algorithmically elevated content is no longer protected by 230 because that's a decision they make to elevate content.
+
+Without such a bill, tech companies make their profits through enragement. They pit people against each other so they stay on their platforms longer, grinding themselves into dust by arguing with morons or bots.
+
+> If you wanna say mRNA vaccines alter your DNA, fine, but you shouldn't elevate it beyond its organic reach because it enrages people. So when you do that, and also bots don't have, in my opinion, don't have rights to free speech. So they could have come up with a thoughtful bill and gone shock and awe and just passed it.
+
+Meanwhile, some parts of the government have strayed so far from Reagan's genius, they are headed by people that lead movements aimed at dismantling those same agencies. For example, RFK Jr. is a destructive force masquerading as a truth crusader.
+
+> The devil will mix in truth with lies to really confuse you.
+
+He leads the anti-vax and anti-science movements that shut down government agencies responsible for actually keeping Americans healthy.
+
+> The tough part about RFK Jr. is that I think he's actually really good on some issues and really articulate. He's very forceful about the industrial food complex and how it's optimized for profits and not for health.

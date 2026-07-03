@@ -1,0 +1,17 @@
+# [2025-02-15](https://s3.amazonaws.com/writecomments.com/transcripts/9953ea53b8c31b3341f91b4208dc7589.csv): modern government saboteurs use modern excuses to cover up their sabotage
+
+> If there is a case to be made to shut down an agency, tell Congress you want them to shut it down. And then have them debate it and vote on it and pass a bill to shut down that agency. That's how you can do it legally. Why are you so afraid of even trying to do it legally? Your party controls both houses of Congress. What, you don't think they'll do what you want? You don't think you have sway over the Republican party and make them do that?
+
+Trump does not want to go the legal, over route to shut down government agencies because it wouldn't withstand scrutiny. The legal system has protections against a malicious entity trying to sabotage the government. Elon Musk suggested to Trump another way: pretending to be high tech.
+
+> They've sort of claimed that their legitimacy comes from their tech savvy because they're so good with computers. So we're all supposed to get out of their way or we're supposed to be intimidated or at least confused by what exactly they're doing because _wow, it's such a high level_, right? It's so high tech. They're so tech savvy, so competent, so good at what they're doing.
+
+And yet, their competence does not extend to understanding how null values can be encoded in the programming language the code of which they were hired to tweak. They opened the database (they shouldn't have been allowed to access in the first place because of their incompetence and lack of security clearance), saw the year 1875 in it, and ran to Elon Musk with their half-baked wrong hypothesis that they've uncovered evidence of fraud. And Elon Musk ran with it.
+
+> He said the scandal that he and his team had uncovered in social security data is that there are people in the social security database who are listed as being 150 years old. And we don't know exactly what Mr. Musk was talking about because he's seeing stuff that I think he's not allowed to see and neither are we. But today people started gingerly asking if perhaps Mr. Musk just didn't know that in an older version of the programming language that is used by the Social Security Administration when you didn't have a date to enter in a particular field, it would code it as 150 years ago. It would code it as 1875. The year 1875 is essentially an error message to let you know that there isn't a real date in that record and so you should treat that as an error and find out what went wrong.
+
+Replacing competent people with incompetent people is a classic way to sabotage an operation.
+
+> The combination of the smash and grab by the supposedly high tech team and the mass firing of people who actually do know what they're doing means real material harm is being done to our country. And it will take a long time to repair it when we finally get to start. But there's nothing high tech about what they are doing. And there's nothing new about their intentions.
+
+The U.S government is regularly subjected to sabotage by malicious entities. It's nothing new. The latest saboteur-President was Richard Nixon. We survived him, and we will survive this one.

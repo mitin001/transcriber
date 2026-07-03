@@ -1,0 +1,3 @@
+# 06-05. Herd Mentality. The Freakonomics of Boarding a Bus
+
+> they're somehow comforted by it. They succumb to herd mentality and unthinkingly tag along because if everybody else is doing it, it must be the thing to do. Personally, I'm persuaded that all four points may be valid in varying measures. There are undoubtedly additional points to be made, but if I had to pick an outright... 

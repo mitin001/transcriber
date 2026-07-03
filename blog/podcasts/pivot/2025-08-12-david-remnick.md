@@ -1,0 +1,21 @@
+# [2025-08-12](https://writecomments.com/transcripts/?md5=72196062cbf285a977510ef625d16874): David Remnick
+
+## How far has America descended into authoritarianism a few months into Trump's second term? 
+
+Congress and the courts have become the mere extensions of President Trump, similar to how the parliament and judiciary exist [in name only] in kleptocratic dictatorships like Russia.
+
+> Finally, we have a Congress that's completely in its majority obedient to a president who is, by instinct, an authoritarian, and a court that is suspect in many ways as well. So finally, political power can be influenced by and maybe limited by civil society.
+
+However, the United States still has civil society, which is not used to institutions of power working against their interests.
+
+> It's exactly what Russia does not have. Civil society has been all but crushed. In very, very limited corners of civil society still exists in today's Russia. It's infinitesimal. We still have that.
+
+## What is next for America?
+
+> The gradual and then accelerating erasure of civil society.
+
+As more and more of Trump's critics get silenced, the last remaining beacon of hope for course correction away from authoritarian takeover will dim. As we're letting it happen, the civil society is getting crushed.
+
+> If we keep squandering it, the picture will get worse and worse.
+
+[in name only]: https://www.msnbc.com/transcripts/rachel-maddow-show/transcript-rachel-maddow-show-2-24-22-n1290227

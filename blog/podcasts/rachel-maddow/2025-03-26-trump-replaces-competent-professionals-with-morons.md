@@ -1,0 +1,9 @@
+# [2025-03-26](https://s3.amazonaws.com/writecomments.com/transcripts/d8da8c14d0682c56bfe6fd6910560ecd.csv): Trump continues to replace competent professionals with morons
+
+Trump orders government-sponsored research to back the claims of the anti-vax movement.
+
+> It is a study of just how terrible vaccines really are. And he and his administration have tapped to run this study a man who is not a scientist and not a doctor, but he was disciplined in the state of Maryland more than a decade ago for practicing medicine without a license. They are decimating the National Institutes of Health and the Centers for Disease Control, which together have given us basically every single major medical advance in humankind in the last 40+ years. And instead, they're now hiring cranks off the internet to tell us how bad science is and how you shouldn't get vaccinated.
+
+Meanwhile, Trump also replaces Defense Department professionals that respected security protocols with morons who ignore them.
+
+> Last week, all Defense Department personnel received an advisory warning them that they should not use the app Signal, even for unclassified information, not because of the security of Signal as an app per se, but because Russian professional hacking groups were targeting Signal users with phishing attacks. That was last week. That followed a Defense Department instruction from two years ago in 2023 that reminded Defense Department personnel that Signal should not be used. It could not be used for any non-public Defense Department information. Nevertheless, Signal, of course, is the app on which Donald Trump's hand-picked Defense Secretary led a robust and detailed group chat about forthcoming military strikes in Yemen.

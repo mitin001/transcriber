@@ -1,0 +1,175 @@
+# [Burn Book]
+
+> Doctors discovered that I had a hole in my heart, which apparently is common—20 percent of people are born with a small or large hole in their heart (which is something more than one of my exes had told me).
+
+Kara is not just a woman that both figuratively (if you believe her exes) and literally (if you believe her doctors) has a hole in her heart. She is also an outlet for dusgruntled employees at tech companies to leak their secrets.
+
+> Sue Decker, who was president at Yahoo, once asked me the simple question: “Why do people leak? Are they just disgruntled?” Since I liked Decker, I decided to level with her. “It’s easy to say they’re disgruntled or sneaky,” I replied. “But they leak because they feel like you’re not listening to them and that you do listen to me. And, therefore, employees believe the best way to effect change that needs to happen is to leak. To me.” “I should listen better,” she joked, “and put you out of business.”
+
+Kara is also a reporter and an investigative journalist. An excellent one. When she heard rumors of the AOL merger with Time Warner, she used instant messaging to bluff AOL executives into confirming them.
+
+> I fired up my AOL software and started directly writing them via AIM, its instant messenger service. Since the top leaders followed me and I followed them back, I could see that they were all online, even though it was already late in San Francisco and the middle of the night back East. “We know,” I typed into the boxes to them, figuring it would be more effective to bluff them into a confession rather than pussyfoot around. Immediately, there was the loud series of digital door slams, which was AOL’s noise when someone closed out their IMs. Luckily, one exec wrote back: “How did you find out?”
+
+Afterwards, CNN founder Ted Turner, a shareholder in Time Warner, found the crassest way possible to express regret over losing money in this merger.
+
+> I went from no money to a pile of money, just as big as the World Trade Center… Then—just like the World Trade Center—Poof! It was gone.
+
+Kara covered the dotcom bust as it was happening.
+
+> Young Turks on the Web had overturned the old order, sparked an electronic revolution and become impossibly rich. Impossible, it turns out, was the operative word.
+
+She started in print journalism but pushed for the exploration of digital.
+
+> While having a column in a major publication was the goal for most journalists, I felt trapped in a prison of expectations from a medium I barely believed in.
+
+She also wanted to do reported analysis. That is, she wanted to play the role of both a reporter and an expert. This is a rare intersection of talents, and Kara knew she had to lean into them even if it meant walking away from jobs.
+
+> I wanted to write what I knew based on careful reporting, the network of sources I’d built, and the expertise I’d acquired. I started calling it “reported analysis” to distinguish my take from the ill-informed punditry that had been littering the media landscape.
+
+Kara worked for the Wall Street Journal, whose parent company was Dow Jones, but not for too long.
+
+> We wanted to move on from a soured relationship with Dow Jones.
+
+Eventually, she would even amass enough capital to try to buy what she had created for the Wall Street Journal, but its billionaire owner refused to sell to her.
+
+> We later tried to buy the AllThingsD URL and feed, offering Dow Jones a sum of just under $1 million, which was generous. They countered that Murdoch wanted more like $10 million, which was laughable. “I could buy Fuckyourupert.com for $10,” I told the News Corp minion, who chortled quietly.
+
+She walked away from those jobs where her supervisors didn't let her to lean into her domain expertise and tried to limit her to being a reporter and nothing more.
+
+> Editors were always asking me to get someone else to say in a quote what I could say on my own based on the reporting. In addition, they wanted me to always add a “to be sure” statement, in which I explained that even though my querying and number-crunching showed that some startup gave Ponzi schemes a good name, I needed to hedge by noting “to be sure, not everyone is so negative that this was an obvious flaming trash heap.” Even when I was sure it was a flaming trash heap.
+
+She collected her favorite coworkers at the Journal to form an internal skunkworks.
+
+> A tight group of innovators who steal away from a mothership and create a smaller, faster-moving pirate ship. Our hope was to create a crack team of mouthy malcontents willing to innovate news delivery and host live events. We wanted to launch a digital-only publication with attitude and personality, and without all the meddling from those who love to meddle in a news organization.
+
+At one such live event organized by Kara, Steve Jobs called the Windows operating system _hell_ whereas his company's software gave relief to the souls damned to its eternal toil.
+
+> We’ve got cards and letters from lots of people that say iTunes is their favorite app on Windows. It’s like giving a glass of ice water to somebody in hell.
+
+To Steve Jobs, Windows was hell, and Bill Gates was Satan.
+
+> Jobs, during his solo session, referring to Microsoft as “hell,” he was basically implying that Gates, who ran the joint, was Satan.
+
+This was an unusual outburst for an otherwise thoughtful leader.
+
+> Jobs almost never lost the idea that this was a very short life and that eternity was very long.
+
+His inventions would long outlast him. Podcasting was among them.
+
+> Podcasting is a word that’s a concatenation of iPod and broadcasting.
+
+We no longer associate podcasting with an Apple product, but that's how it started. Apple obsessed over the quality of its product. Amazon similarly obsessed over the consumer. Most other companies cared about neither.
+
+> Other companies didn’t seem to care about either the consumer or the product. It sucks when people settle for an uninspiring product. Facebook comes to mind. These companies tend to see themselves as utilities. We all need electricity, so it doesn’t have to be beautiful or delightful. That’s why the electric company gets away with draping ugly wires all over beautiful cities, ruining the view.
+
+Facebook pushed the boundaries on how much it could abuse its users' data and still get away with it.
+
+> Internal texts from Zuckerberg revealed his true feelings about users who handed over data so easily. “They ‘trust me,’ dumb fucks,” he wrote.
+
+What could go wrong?
+
+> Facebook was moving toward becoming a mecca for those intent on destruction.
+
+Then, Zuckerberg wrote an essay saying he was uncomfortable with making content moderation decisions.
+
+> I feel fundamentally uncomfortable sitting here in California at an office, making content policy decisions for people around the world. But things like, where is the line on hate speech? I mean, who chose me.
+
+Kara responded.
+
+> Well, Mark, you did.
+
+If Zuckerberg wanted to make a social-media platform, he had to do it well, including the parts that made it safe for its users. But safe it was not.
+
+> They didn’t handle the propaganda. Not from the Russians. Not in Iran. And not in Sri Lanka, where a Buddhist mob attacked Muslims over false information spread on Facebook.
+
+Nothing has ever happened to Zuckerberg and his ilk that made them feel unsafe, so they though the world was safe for everyone.
+
+> The innovators and executives ignored issues of safety not because they were necessarily awful, but because they had never felt unsafe a day in their lives. Their personal experience informed the development of unfettered platforms. And, in turn, this inability to understand the consequences of their inventions began to curdle the sunny optimism of tech that had illuminated the sector.
+
+Kara describes Zuckerberg as an arrogant cretin.
+
+> Frequently wrong, but never in doubt.
+
+Kara was offered to work for Zuckerberg, but she declined opting to make piles of money her own way, in which she got to keep her integrity.
+
+> I was offered a job by one of Mark’s underlings who thought I should come and work on unspecific “editorial” issues. “Do they even care about editorial, about journalism, about anything except letting the algorithm rule?” I asked the executive, arrogantly astride my very high media horse. “No, but you could buy a Gulfstream someday,” he replied. Fair point, but it was lost on me. Coach was fine, and, perhaps someday, first class. And, best of all, I would not have to sit there and nod my head eagerly to a CEO yammering fifteen years later about pivoting Facebook into an all-encompassing virtual reality experience.
+
+The piles would be smaller, but the upside was larger.
+
+> Instead of having piles of money to jump in, I get to say: Fuck your metaverse, Mark.
+
+And yet, most people would still prefer piles of cash every time.
+
+> When the truth stands between a man and his next $100 million, the truth is always going to be escorted off the premises.
+
+Unlike Facebook, both Apple and Amazon eventually made a transition into movie-making in a move Herman J. Mankiewicz would approve.
+
+> Millions are to be grabbed out here and your only competition is idiots.
+
+Hollywood and Silicon Valley have a lot in common. For starters, both are industries built on technology.
+
+> Like Silicon Valley, Hollywood was an industry built on tech—late-nineteenth- and early-twentieth-century tech.
+
+Silicon Valley would bring Hollywood into the twenty-first century. Streaming and outsized investment in content by tech billionaires are the latest in a long history of movie-making technology.
+
+> Movie technology evolved. Sound was added, then color. Video revolutionized TV. Cameras got smaller. Special effects got bigger. Digitalization transformed almost every aspect of the process, including cameras and editing systems and distribution. Most storytellers disdained these changes to the art form, but the smart ones knew that resistance was futile.
+
+George Lucas warned that with new innovations come new opportunities for this industry to get abused.
+
+> Digital technology is a tool. Whatever you do, it’s going to get abused. Sound was abused, color was abused, everything gets abused. But that’s just the nature of human nature: When you get a new toy, you want to use it until it breaks, and then you start to calm down.
+
+Christopher Nolan resented the move to streaming services, particularly when HBO became HBO Max.
+
+> Some of our industry’s biggest filmmakers and most important movie stars went to bed the night before thinking they were working for the greatest movie studio and woke up to find out they were working for the worst streaming service.
+
+Hollywood incumbents in the filmmaking scene now has to compete with tech-bro disrupters that had questionable taste.
+
+> Hulu’s name came from two Mandarin Chinese words for gourd, as in holder of precious things.
+
+The tech-bro era brought us subscription services and apps.
+
+> Over the years, Silicon Valley had become full of smart people working on stupid things like online laundry services and food delivery apps and weird hook-up software—so much so that I had taken to describing the world they were creating as “assisted living for millennials.”
+
+Another one of these apps was Uber. This company's CEO Travis Kalanick wanted to transform the world into a place where no one had to own a car and instead paid Uber for transportation.
+
+> The reason Uber could be expensive is because you’re not just paying for the car—you’re paying for the other dude in the car. When there’s no other dude in the car, the cost of taking an Uber anywhere becomes cheaper than owning a vehicle.
+
+Uber would become a subscription service for people's transportation needs.
+
+> The magic there is, you basically bring the cost below the cost of ownership for everybody, and then car ownership goes away.
+
+While describing his company's objective, his resentment of the common man, one who was driving for Uber in the meantime, shined through.
+
+> Kalanick was actively bragging about using people—or rather “dudes”—as fodder until it was easier and cheaper to replace them with a machine. And it was a day he actually looked forward to.
+
+In tech, dudes are everywhere. Women are a vanishing minority. When Kara called Sheryl Sandberg to celebrate the news of a woman becoming CEO of a tech company for once, Sandberg shared her dream of seeing herself alongside many smart women in the industry, not just a handful.
+
+> Sandberg was the very smoothest of executives with not a hair or word out of place—she was unusually frank when I called her in 2011 to tell her that Meg Whitman had just been named the CEO of Hewlett-Packard. “Now you’ve moved down the stack to become the second most powerful woman in Silicon Valley,” I kidded her. “I’d like to be the sixth,” she responded with a sigh. “Or the fiftieth—wouldn’t that be great?”
+
+And Silicon Valley badly needed diversity. The tech bros were running out of ideas.
+
+> Early Twitter looked an awful lot like current Twitter, where doubling the number of allowed characters counted as innovation.
+
+And late Twitter became a wasteland of conspiracy theories from MAGA morons, thanks in large part to its acquisition by Elon Musk. This man is a classic case of a malignant narcissist where he pretends to be a hero before letting his inner ugliness explode in our faces. Musk originally charmed even Kara Swisher.
+
+> I’ve said I want to die on Mars, just not on impact.
+
+But the charm offensive didn't last long. Watch a narcissist long enough, and red flags will come flying one day. When Kara approached several high-profile people to record a cameo for her retiring colleague Walt Mossberg, Elon Musk showed his true colors.
+
+> Everyone I approached about recording a question for Walt said yes, including Sheryl Sandberg, Mark Cuban, and Tim Cook. I called Musk with the same simple request, noting that he could record it quickly on his phone and ask Walt anything. The reply came as a shock. “Is this the same Walt that attacked me on Twitter?”
+
+Apparently, if you say anything that could be perceived as remotely negative about anything connected to him, even if true and fair, even if it's a reporter saying it, in his mind Musk will twist it to be an attack and forever hold a grudge.
+
+> All he said was that Tesla was trading on future hopes and dreams rather than real fundamentals. Musk’s overreaction indicated that he had the thinnest of skins. Thinner, apparently. He responded to my defense of Walt: “‘As per usual.’ Kara, don’t ever email me again.” So, I did not, as it was so ridiculously juvenile, like arguing with an overly sensitive seventh grader.
+
+And if you defend said reporter, Musk will lash out at you, too, in the most juvenile of ways. And now this juvenile cretin heads a department of the US government much to its great detriment. Kara saw the danger in overconfident dumbasses drowning out competent voices early on.
+
+> Most techies now dabbling in media are arrogant amateurs who think that because they excel in one area they are masters of all domains, when what they really are is just incompetent at giving any insight or illumination beyond their own narrow self-interests. Do we want to know what some loudmouthed VC with no expertise thinks about Covid or Ukraine or the tragedy unfolding in the fall of 2023 in Israel, without any self-reflection of their own role in cheapening discourse? Take a seat, boys.
+
+Kara also saw a danger in AI because of the misplaced trust of the people using it.
+
+> The dangers of very large language models to both take over all thinking and also vomit up endless misinformation.
+
+If they take it at its word, they become misinformed. If they outsource all their thinking to it, they become dependent on it and unable to function without it. Let reporters and journalists warn us of the bleak future they see unfolding for humanity and let their expert-informed analysis serve as the guide to save us from it.
+
+[Burn Book]: https://www.google.com/books/edition/Burn_Book/Fcj3EAAAQBAJ
