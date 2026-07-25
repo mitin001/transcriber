@@ -18,7 +18,9 @@ aws s3 cp $PWD/public/transcripts/$1.csv \
 if ts | grep queued
 then
   echo "Queue not empty."
-else
+elif [ "$5" = "true" ]; then
   echo "Queue empty. Shutting down..."
-#  shutdown
+  shutdown
+else
+  echo "Queue empty. Shutdown not requested."
 fi

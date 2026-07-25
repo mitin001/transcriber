@@ -37,14 +37,14 @@ async function passCommand(cmd, response) {
   }
 }
 
-async function transcribe(audio, lang, modelSize, host, time, interval, urgent, details) {
+async function transcribe(audio, lang, modelSize, host, time, interval, urgent, details, shutdown) {
   const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
   await mv(`tmp/${md5}`);
 
   const txtPublicFilePath = `lookups/${md5}.txt`;
   const txtFilePath = `public/${txtPublicFilePath}`;
-  
-  const jobId = await queue(md5, time, parseInt(interval), modelSize, lang, urgent);
+
+  const jobId = await queue(md5, time, parseInt(interval), modelSize, lang, urgent, shutdown);
 
   let uploadInfo = {};
   try {
@@ -61,7 +61,8 @@ async function transcribe(audio, lang, modelSize, host, time, interval, urgent, 
   fs.writeFileSync(txtFilePath, JSON.stringify(uploadInfo));
 }
 
-async function queue(md5, time, interval, modelSize, lang, urgent) {
+async function queue(md5, time, interval, modelSize, lang, urgent, shutdown) {
+  const shutdownFlag = shutdown ? "true" : "false";
   let filename = md5;
   if (time) {
     const [h, m, s] = getHMS(time);
@@ -77,7 +78,7 @@ async function queue(md5, time, interval, modelSize, lang, urgent) {
     await executeCommand(`mp3splt -o ${filename} tmp/${md5}.mp3 ${ss.trim()} ${to.trim()}`);
     await executeCommand(`mv tmp/${filename}.mp3 tmp/${filename}`);
   }
-  const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
+  const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5} ${shutdownFlag}`);
   const jobIdTrimmed = jobId.trim();
   if (urgent) {
     await executeCommand(`ts -u ${jobIdTrimmed}`);
@@ -94,12 +95,12 @@ async function repeat(md5, modelSize, lang) {
 router.post("/", async (request, response) => {
   try {
     const {files, body} = request || {};
-    const {size: modelSize, lang, time, interval, urgent, details} = body || {};
+    const {size: modelSize, lang, time, interval, urgent, details, shutdown} = body || {};
     const {audio} = files || {};
     const audioFiles = Array.isArray(audio) ? audio : [audio];
     await Promise.all(
       audioFiles.map(
-        file => transcribe(file, lang, modelSize, request.headers.host, insertColons(time), interval, urgent, details || {})
+        file => transcribe(file, lang, modelSize, request.headers.host, insertColons(time), interval, urgent, details || {}, shutdown)
       )
     );
     response.redirect("/upload/ts");
