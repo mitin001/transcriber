@@ -6,7 +6,7 @@ const router = express.Router();
 const exec = util.promisify(require("child_process").exec);
 
 function insertColons(str) {
-  if (!str.length) {
+  if (!str || !str.length) {
     return "";
   }
   // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart
@@ -37,24 +37,31 @@ async function passCommand(cmd, response) {
   }
 }
 
-async function transcribe(audio, lang, modelSize, host, time, interval) {
+async function transcribe(audio, lang, modelSize, host, time, interval, urgent, details) {
   const {name, size, encoding, truncated, mimetype, md5, mv} = audio || {}; // see docs/file.json5
   await mv(`tmp/${md5}`);
 
   const txtPublicFilePath = `lookups/${md5}.txt`;
   const txtFilePath = `public/${txtPublicFilePath}`;
   
-  const jobId = await queue(md5, time, parseInt(interval), modelSize, lang);
+  const jobId = await queue(md5, time, parseInt(interval), modelSize, lang, urgent);
 
-  const uploadInfo = JSON.stringify({
-    name, size, encoding, truncated, mimetype, md5, jobId,
-    jobUrl: `http://${host}/upload/jobs/${jobId}`,
-  });
-  const txt = `Upload info: ${uploadInfo}\n\n`;
-  fs.writeFileSync(txtFilePath, txt);
+  let uploadInfo = {};
+  try {
+    uploadInfo = JSON.parse(details);
+  }
+  catch (e) {
+    // details was invalid json
+  }
+  uploadInfo.mimetype = mimetype;
+  uploadInfo.md5 = md5;
+  uploadInfo.size = size;
+  uploadInfo.filename = name;
+
+  fs.writeFileSync(txtFilePath, JSON.stringify(uploadInfo));
 }
 
-async function queue(md5, time, interval, modelSize, lang) {
+async function queue(md5, time, interval, modelSize, lang, urgent) {
   let filename = md5;
   if (time) {
     const [h, m, s] = getHMS(time);
@@ -71,18 +78,28 @@ async function queue(md5, time, interval, modelSize, lang) {
     await executeCommand(`mv tmp/${filename}.mp3 tmp/${filename}`);
   }
   const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
+  const jobIdTrimmed = jobId.trim();
+  if (urgent) {
+    await executeCommand(`ts -u ${jobIdTrimmed}`);
+  }
+  return jobIdTrimmed;
+}
+
+async function repeat(md5, modelSize, lang) {
+  let filename = md5;
+  const {stdout: jobId} = await executeCommand(`ts sh docker.sh ${filename} ${modelSize} ${lang} ${md5}`);
   return jobId.trim();
 }
 
 router.post("/", async (request, response) => {
   try {
     const {files, body} = request || {};
-    const {size: modelSize, lang, time, interval} = body || {};
+    const {size: modelSize, lang, time, interval, urgent, details} = body || {};
     const {audio} = files || {};
     const audioFiles = Array.isArray(audio) ? audio : [audio];
     await Promise.all(
       audioFiles.map(
-        file => transcribe(file, lang, modelSize, request.headers.host, insertColons(time), interval)
+        file => transcribe(file, lang, modelSize, request.headers.host, insertColons(time), interval, urgent, details || {})
       )
     );
     response.redirect("/upload/ts");
@@ -122,7 +139,18 @@ router.get("/r/:md5/:interval/:time", async (request, response) => {
   try {
     const {params} = request || {};
     const {md5, time, interval} = params || {};
-    await queue(md5, insertColons(time), parseInt(interval), "medium.en", "auto");
+    await queue(md5, insertColons(time), parseInt(interval), "medium.en-q8_0", "auto", false);
+    response.redirect("/upload/ts");
+  } catch(error) {
+    response.status(500).send(error.toString());
+  }
+});
+
+router.get("/r/:md5", async (request, response) => {
+  try {
+    const {params} = request || {};
+    const {md5} = params || {};
+    await repeat(md5, "medium.en-q8_0", "auto");
     response.redirect("/upload/ts");
   } catch(error) {
     response.status(500).send(error.toString());

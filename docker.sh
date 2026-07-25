@@ -1,8 +1,8 @@
 aws s3 cp $PWD/public/lookups/$4.txt \
   s3://writecomments.com/transcripts/$4.txt \
   --acl public-read
-curl $(cat .slack) -w '\n' -s \
-  -d '{"text":"https://s3.amazonaws.com/writecomments.com/transcripts/'$4'.txt"}'
+# curl $(cat .slack) -w '\n' -s \
+#   -d '{"text":"https://s3.amazonaws.com/writecomments.com/transcripts/'$4'.txt"}'
 docker run --rm \
   -v $PWD/models:/app/models \
   -v $PWD/tmp:/app/tmp \
@@ -17,12 +17,14 @@ docker run --rm \
 aws s3 cp $PWD/public/transcripts/$1.csv \
   s3://writecomments.com/transcripts/$1.csv \
   --acl public-read
-curl $(cat .slack) -w '\n' -s \
-  -d '{"text":"https://s3.amazonaws.com/writecomments.com/transcripts/'$1'.csv"}'
+# mv $PWD/public/lookups/$4.txt $PWD/public/lookups/$4.$MODEL.txt
+# mv $PWD/public/transcripts/$1.csv $PWD/public/transcripts/$1.$MODEL.csv
+# curl $(cat .slack) -w '\n' -s \
+#   -d '{"text":"https://s3.amazonaws.com/writecomments.com/transcripts/'$1'.csv"}'
 if ts | grep queued
 then
   echo "Queue not empty."
 else
   echo "Queue empty. Shutting down..."
-  shutdown
+#  shutdown
 fi
