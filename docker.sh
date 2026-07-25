@@ -15,8 +15,6 @@ docker run --rm \
 aws s3 cp $PWD/public/transcripts/$1.csv \
   s3://writecomments.com/transcripts/$1.csv \
   --acl public-read
-# mv $PWD/public/lookups/$4.txt $PWD/public/lookups/$4.$MODEL.txt
-# mv $PWD/public/transcripts/$1.csv $PWD/public/transcripts/$1.$MODEL.csv
 if ts | grep queued
 then
   echo "Queue not empty."
